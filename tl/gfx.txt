@@ -1,0 +1,69 @@
+# Image English: FILE.tim[.spot]<TAB>text ('|' line break); see tools/gfx.py
+# GRP3/ILGTMNUS 0: title menu, glowing green (spot = row*4 + column; columns normal/lit/normal/lit)
+GRP3/ILGTMNUS.0.0	Start a New Game
+GRP3/ILGTMNUS.0.1	Start a New Game
+GRP3/ILGTMNUS.0.2	Load Saved Data
+GRP3/ILGTMNUS.0.3	Load Saved Data
+GRP3/ILGTMNUS.0.4	1189 Wolf of the Steppe
+GRP3/ILGTMNUS.0.5	1189 Wolf of the Steppe
+GRP3/ILGTMNUS.0.6	1271 Blue Wolf Heirs
+GRP3/ILGTMNUS.0.7	1271 Blue Wolf Heirs
+# GRP3/ILGTMNUS 3: scenario lines (magenta key), halves of 192 px; = core of ILGTMNUS.0.5/.7 (text unused)
+GRP3/ILGTMNUS.3.0	1189 Wolf of the Steppe
+GRP3/ILGTMNUS.3.1	1271 Blue Wolf Heirs
+# GRP3/ILGTMNUS 2: vertical banner (ruler select)
+GRP3/ILGTMNUS.2.0	R|U|L|E|R
+# GRP/INITBTN: black on stone (0: menu 160 px, 1: scenarios 192 px)
+GRP/INITBTN.0.0	New Game
+GRP/INITBTN.0.1	Load Data
+GRP/INITBTN.1.0	1189 Wolf of the Steppe
+GRP/INITBTN.1.1	1271 Blue Wolf Heirs
+# GRP/WINST 14: war command labels (spot 2k normal, 2k+1 dim); small caps font
+GRP/WINST.14.0	AMBUSH
+GRP/WINST.14.1	AMBUSH
+GRP/WINST.14.2	GATE
+GRP/WINST.14.3	GATE
+GRP/WINST.14.4	FACING
+GRP/WINST.14.5	FACING
+GRP/WINST.14.6	UNITS
+GRP/WINST.14.7	UNITS
+GRP/WINST.14.8	GENERAL
+GRP/WINST.14.9	GENERAL
+GRP/WINST.14.10	RALLY
+GRP/WINST.14.11	RALLY
+GRP/WINST.14.12	CONFUSE
+GRP/WINST.14.13	CONFUSE
+GRP/WINST.14.14	BRIBE
+GRP/WINST.14.15	BRIBE
+GRP/WINST.14.16	REFORM
+GRP/WINST.14.17	REFORM
+GRP/WINST.14.18	RETREAT
+GRP/WINST.14.19	RETREAT
+# GRP3/IMENUM 0: both scenario titles zooming in, 8 frames (drawn from GRP3/ILGTMNUS.0.5 + .7; text unused)
+GRP3/IMENUM.0.0	1189 Wolf of the Steppe|1271 Blue Wolf Heirs
+GRP3/IMENUM.0.1	1189 Wolf of the Steppe|1271 Blue Wolf Heirs
+GRP3/IMENUM.0.2	1189 Wolf of the Steppe|1271 Blue Wolf Heirs
+GRP3/IMENUM.0.3	1189 Wolf of the Steppe|1271 Blue Wolf Heirs
+GRP3/IMENUM.0.4	1189 Wolf of the Steppe|1271 Blue Wolf Heirs
+GRP3/IMENUM.0.5	1189 Wolf of the Steppe|1271 Blue Wolf Heirs
+GRP3/IMENUM.0.6	1189 Wolf of the Steppe|1271 Blue Wolf Heirs
+GRP3/IMENUM.0.7	1189 Wolf of the Steppe|1271 Blue Wolf Heirs
+# GRP/MAINCG2 44-48: policy icons (same words as the USER policy list); 38: road strip 'remove' label
+GRP/MAINCG2.44	AGGRESSIVE
+GRP/MAINCG2.45	DEFENSIVE
+GRP/MAINCG2.46	TRANSPORT
+GRP/MAINCG2.47	DOMESTIC
+GRP/MAINCG2.48	TRADE
+GRP/MAINCG2.38	Remove
+# GRP2/TDINNER 4: feast stamina bar label
+GRP2/TDINNER.4	Vigor
+# GRP/MAINCG3 16-18: vertical tab banners (area map, road building, road info)
+GRP/MAINCG3.16	AREA|MAP
+GRP/MAINCG3.17	BUILD|ROADS
+GRP/MAINCG3.18	ROAD|INFO
+# GRP/ITEMLIST 0/1: item sheet, number-owned label
+GRP/ITEMLIST.0	Owned
+GRP/ITEMLIST.1	Owned
+# GRP/BUTTON 12: list column mode (Square): 0 detailed, 1 brief
+GRP/BUTTON.12.0	ALL
+GRP/BUTTON.12.1	FEW

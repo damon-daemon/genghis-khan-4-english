@@ -1,0 +1,435 @@
+@7000
+Strike me down
+
+@7000.1
+Please strike me down
+
+@7000.2
+Please do strike me down
+
+@7000.3
+Strike me down
+
+@7002
+Over 50 years
+
+@7002.1
+Over 40 years
+
+@7002.2
+Over 30 years
+
+@7002.3
+Over 20 years
+
+@7002.4
+Over 10 years
+
+@7002.5
+Several years
+
+@7003
+we
+
+@7004.2
+you
+
+@7006
+Kill me...
+
+@7006.1
+Kill me...
+
+@7006.2
+Go ahead and kill me...
+
+@7007
+Ironic to meet you on this battlefield, {C7}.
+
+@7007.1
+I am one who stained the honor of {02850202}. {C7000}...
+
+@7007.2
+Though we share blood, show no mercy! {C7000}!
+
+@7007.3
+Can it be... you mean to cut down {C0}, your own blood?!
+
+@7007.4
+W-wait! Are we not of the same clan? Spare my life!
+
+@7008
+The bell of Gion Shoja tolls the impermanence of all things.
+
+@7008.1
+Come, kill me! If I can die for the holy war, what regret could remain?
+
+@7008.2
+Come, kill me! I am called to God's side. I accept death gladly.
+
+@7008.3
+If I must die here, I should at least have said farewell to my wife and children...
+
+@7008.4
+To be captured in a place like this... I am more angry than sorry. Do as you please.
+
+@7008.5
+I have no wish to talk now. {C7000}, and be quick...
+
+@7008.6
+I have nothing to say...
+
+@7008.7
+Hmph, boil me or roast me, do as you like!
+
+@7008.8
+It seems the fortune-tellers were right. My luck in war has run out.
+
+@7008.9
+Rather than live in shame, I wished to fall gloriously on the battlefield.
+
+@7008.10
+Y-you mean to kill me? I will curse you for generations!
+
+@7008.11
+Kill me, kill me! You will not be satisfied until you take my life!
+
+@7008.12
+Sooner or later {C7004} will die too. I am not afraid.
+
+@7009
+Speak
+
+@7009.1
+Speak
+
+@7010
+I do not want to serve {C4}, of all people. Please understand my heart.
+
+@7010.1
+You are soft, {C7}. It is a wonder you have survived this long with such softness.
+
+@7010.2
+Why do you not strike! If you want the world in your hands, become a demon!
+
+@7010.3
+If you let me live, you will leave a seed of future trouble.
+
+@7010.4
+Now I cannot face my clan...
+
+@7011
+I would rather die than serve that {C8}.
+
+@7011.1
+You would make {C0} your retainer...? Look at who you are talking to!
+
+@7011.2
+Do you truly think {C0} would work under another man?
+
+@7011.3
+I, {021e0201}, have no wish to live on under another land's protection.
+
+@7011.4
+{C7000}! At last I have found my place to die.
+
+@7012
+If you are swayed by the bond of father and son, you will set no example for others.
+
+@7012.1
+If you are swayed by the bond of father and son, you are no true ruler. Come, strike!
+
+@7012.2
+For a warrior, a beautiful end is the highest honor...
+
+@7012.3
+The Records of the Grand Historian say a loyal retainer does not serve two lords. Do you not know?
+
+@7012.4
+Now... all I wish is to be granted death.
+
+@7012.5
+If you let me live, I will try to bring you down again someday. We can never go back to how we were...
+
+@7012.6
+If you let me live, I will try to bring you down again someday. We can never go back to how we were...
+
+@7012.7
+There is only one lord I should serve!
+
+@7012.8
+There is no word for "obedience" in chivalry.
+
+@7012.9
+I have not the slightest intention of serving {C7004}.
+
+@7012.10
+Silence! I will not serve the likes of you.
+
+@7012.11
+What is this now... If I meant to surrender, I would not have fought at all.
+
+@7012.12
+I refuse... Stubbornness is the only virtue I, {021e0201}, have.
+
+@7012.13
+You tell me, {021e0201}, to become a traitor? I will not listen!
+
+@7012.14
+I have only one lord in this world.
+
+@7012.15
+I do not want to be a prisoner. {C7000}, quickly.
+
+@7012.16
+For me alone to survive... I could not face those who have died.
+
+@7012.17
+I would rather die than serve {02850202}.
+
+@7012.18
+That {C8} could never make use of {C0}.
+
+@7013
+That softness will be your undoing someday.
+
+@7013.1
+I thank you for today, but I will show no mercy on the battlefield.
+
+@7013.2
+You will surely regret letting {C0} go.
+
+@7013.3
+You will let me go?! That is a relief. I thank you!
+
+@7013.4
+Grr, {C0} will never admit defeat! Next time, for certain...
+
+@7014
+You will not kill me...
+
+@7014.1
+What?! You will let me go? How fortunate.
+
+@7014.2
+Thank you! I will not forget this kindness.
+
+@7014.3
+So you are {021e0202}... not as great a tyrant as the rumors say.
+
+@7014.4
+What a generous man. I cannot stop my tears of gratitude.
+
+@7014.5
+I am grateful that you let me go, but I cannot repay you.
+
+@7014.6
+I will not thank you.
+
+@7014.7
+Next it will be your turn to be shamed. Remember that!
+
+@7014.8
+Why do you not kill me? Why? Tell me.
+
+@7014.9
+You would have me live in shame...? Grr, this humiliation is unbearable!
+
+@7014.10
+If you go on like this, your life will not be long either.
+
+@7015
+{021e0201} was released.
+
+@7016
+Father, forgive me for dying before you! {C7001}
+
+@7016.1
+Father will surely avenge this grievance! {C7001}
+
+@7016.2
+Father! {C7001}
+
+@7016.3
+My father will surely avenge me. Be prepared! {C7001}
+
+@7016.4
+Tell my father that {021e0201} died well... {C7001}
+
+@7017
+{C7}! I will wait for you in the next world! {C7001}
+
+@7017.1
+As a final mercy, let it not be painful. {C7001}
+
+@7017.2
+{C7}... I leave the rest to you. {C7001}
+
+@7017.3
+I will watch over {C7}'s fate from the next world. {C7001}
+
+@7017.4
+This is the fate of the defeated, {C7}... Farewell... {C7001}
+
+@7018
+Forgive me, my wife! Forgive me for dying before you... {C7001}
+
+@7018.1
+Wait, wait! ... {C7001}
+
+@7018.2
+Farewell... {C7001}
+
+@7018.3
+The proud do not endure; they are but a dream on a spring night. {C7001}
+
+@7018.4
+Since ancient times our people have valued loyalty. I have no regrets... {C7001}
+
+@7018.5
+My work is done... {C7001}
+
+@7018.6
+I offer my body to the earth god and my soul to the sky god. O land of Mongolia... {C7001}
+
+@7018.7
+Though this body perishes, my soul will be reborn and live again... {C7001}
+
+@7018.8
+I can tell God that {021e0201} fought to the end without losing pride... {C7001}
+
+@7018.9
+Lord, save the foolish ones gathered here. {C7001}
+
+@7018.10
+Lord, lead me to Your side. ... {C7001}
+
+@7018.11
+{C7002} since my first battle... It feels like yesterday. ... {C7001}
+
+@7018.12
+How many times must men repeat the same mistakes before they are satisfied...? {C7001}
+
+@7018.13
+What kind of place is the next world? {C7001}
+
+@7018.14
+Ah, Death is already here to fetch me... {C7001}
+
+@7018.15
+Curse you, {021e0202}! I will haunt you! {C7001}
+
+@7018.16
+A life steeped in blood, so this ending is fitting... {C7001}
+
+@7018.17
+Ah, they are calling. I hear everyone's voices! {C7001}
+
+@7018.18
+Born a warrior, I was ready for this day to come... {C7001}
+
+@7018.19
+I had decided the battlefield would be where I died... {C7001}
+
+@7018.20
+A man's life is but a brief thing... {C7001}
+
+@7018.21
+Cutting me down will not end the war! {C7001}
+
+@7019
+{021e0201} was cut down by {021e0202}.
+
+@7020
+{021e0202} took {0210}, the former wife of {021e0201}, into the rear palace.
+
+@7020.1
+{021e0202} took {0210}, the former wife of {021e0201}, into the ordu.
+
+@7020.2
+{021e0202} took {0210}, the former wife of {021e0201}, into the harem.
+
+@7020.3
+{021e0202} took {0210}, the former wife of {021e0201}, as a concubine.
+
+@7021
+Will you forgive this foolish {C1}...?
+
+@7021.1
+{C7}... I will be reborn as a loyal retainer.
+
+@7021.2
+You would forgive even someone like me...
+
+@7021.3
+From now on I will mend my ways and serve {C7}!
+
+@7021.4
+I will repay this kindness to {C7} with my best service.
+
+@7022
+My days are few, but I will take this as my last service and work with all I have.
+
+@7022.1
+Very well. From now on I swear loyalty to Lord {021e0202}.
+
+@7022.2
+I cast off my past and my homeland. For Lord {021e0202} I will toil like a dog or horse.
+
+@7022.3
+I am as good as dead... I will serve you loyally as if reborn.
+
+@7022.4
+Yes, understood. May I send for my family in my homeland?
+
+@7022.5
+Thank you. This too is the guidance of {C7005}. I pledge my loyalty.
+
+@7022.6
+If you will have this survivor, I gladly serve.
+
+@7022.7
+Now I too am a traitor... I cannot look back.
+
+@7022.8
+For Lord {021e0202} I will follow through fire and water, anywhere.
+
+@7022.9
+To be counted among the lowest ranks of the world-famed {02850202}...
+
+@7022.10
+Well, if it has come to this, I have no choice but to serve {C7}.
+
+@7023
+{021e0201} was recruited by {02850202}.
+
+@7024
+{021e0201} captured {026b0206}.
+
+@7025
+{021e0201} held {026b0206}.
+
+@7026
+{021e0201} blocked the attack on {026b0206}.
+
+@7027
+{026b0206} was taken by {021e0201} of {02850201}.
+
+@7028
+The {02850201} army led by {021e0201} captured {026b0206}.
+
+@7029
+{021e0201} of {02850201} held {026b0206}.
+
+@7030
+{0215} of the troops sent as reinforcements have returned.
+
+@7031
+Thank you for the reinforcements. Thanks to you we could take {026b0206}.
+
+@7032
+I always keep my promises. Our alliance will grow ever stronger.
+
+@7033
+Obtained {0210} of {0258020b}.
+

@@ -1,0 +1,954 @@
+@1000
+Every square adjacent to the city holds a unit. No unit can leave the city, so none can be built.
+
+@1001
+A caravan unit cannot be built unless the city is linked by road to a city of your own or an ally.
+
+@1002
+A migrant unit cannot be built unless the city is at maximum size.
+
+@1003
+Migrating will halve the city's size. Are you sure?
+
+@1004
+{021e0201} is leading a unit. Disband it?
+
+@1005
+You cannot command the army without troops in the 1st unit.
+
+@1006
+You have no food.
+
+@1007
+You have no money or food.
+
+@1008
+You have no money.
+
+@1009
+You have no special goods.
+
+@1010
+Enter {026b0206}?
+
+@1011
+Choose an objective.
+
+@1012
+Impassable terrain. You cannot move there.
+
+@1013
+Only units and cities of other nations (excluding allies) can be selected.
+
+@1014
+You cannot attack an allied city.
+
+@1015
+That is your own unit.
+
+@1016
+You cannot attack an allied unit.
+
+@1017
+Only facilities of other nations (excluding allies) can be selected.
+
+@1018
+That is your own facility.
+
+@1019
+You cannot plunder an allied facility.
+
+@1020
+Only your own army units and cities can be selected.
+
+@1021
+Only generals of other nations (excluding allies) can be selected.
+
+@1022
+That is your own general.
+
+@1023
+You cannot select an allied general.
+
+@1024
+There is no general in this city to target.
+
+@1025
+Only the ruler is in this city.
+
+@1026
+You cannot incite defection, rumors or revolt against a ruler.
+
+@1027
+Only rulers of other nations (excluding allies) can be selected.
+
+@1028
+You cannot start a conflict with an allied ruler.
+
+@1029
+That is not a ruler.
+
+@1030
+Only cities and facilities of other nations (excluding allies) can be selected.
+
+@1031
+That is your own facility.
+
+@1032
+You cannot destroy an allied facility.
+
+@1033
+You cannot destroy an allied city.
+
+@1034
+That is your own army unit.
+
+@1035
+You cannot disrupt an allied army unit.
+
+@1036
+You can only disrupt army units.
+
+@1037
+That nation's lord is already related to you by marriage.
+
+@1038
+You are related by blood to that nation's ruler. You cannot marry.
+
+@1039
+You have no alliance with that nation.
+
+@1040
+No more facilities can be built at the current culture level.
+
+@1041
+{C1042} can only be built on {C1043}.
+
+@1042
+Farm
+
+@1042.1
+Ranch
+
+@1042.2
+Weapon Workshop
+
+@1042.3
+Drill Ground
+
+@1042.4
+Sawmill
+
+@1042.5
+University
+
+@1042.6
+Art Studio
+
+@1042.7
+Hospital
+
+@1042.8
+Craft Shop
+
+@1042.9
+Town
+
+@1042.10
+Village
+
+@1042.11
+Port
+
+@1043
+Plains/Marsh
+
+@1043.1
+Plains/Forest
+
+@1043.2
+Plains/Desert/Forest
+
+@1043.3
+Plains/Desert/Forest
+
+@1043.4
+Plains/Desert/Forest
+
+@1043.5
+Plains/Desert/Forest
+
+@1043.6
+Plains/Desert/Forest
+
+@1043.7
+Plains/Desert/Forest
+
+@1043.8
+Plains/Desert/Forest
+
+@1043.9
+Plains/Desert/Forest
+
+@1043.10
+Plains/Desert/Forest
+
+@1043.11
+Bay
+
+@1044
+No facility can be built on a square with special goods.
+
+@1045
+This square already has a facility built on it: {C1042}.
+
+@1046
+Outside your territory. You cannot build a facility here.
+
+@1047
+Only your own cities can be selected.
+
+@1048
+The distance is too great.
+
+@1049
+You are trying to lay a road between ports that are too far apart.
+
+@1050
+No further expansion is possible.
+
+@1051
+You cannot migrate to a square within 8 squares of a city.
+
+@1052
+You can only settle on plains, desert or forest.
+
+@1053
+You cannot settle on a square with special goods.
+
+@1054
+You can only trade with cities of your own or an ally that are linked by road.
+
+@1055
+Choose a target to attack.
+
+@1056
+I take no pleasure in this... but strip {02920206} of all its food!
+
+@1056.1
+Take everything you can! We will wear down the enemy's strength bit by bit!
+
+@1056.2
+The food of {0210} is yours now! Take all you like!
+
+@1056.3
+Strip {02920206} of all its food!
+
+@1057
+Plunder is the true joy of war! Leave not a single scrap behind!
+
+@1057.1
+Burn it down! Then use the chaos to take everything!
+
+@1058
+{C173}... Our food grows and the soldiers' morale rises. Two birds with one stone!
+
+@1058.1
+It seems everything has been taken. Plunder is a common tactic of war. Do not hold it against me...
+
+@1058.2
+We have taken all the food of {0210}. Now they will not be able to bear it and will come out.
+
+@1058.3
+Good, we took it all! I can picture the enemy grinding their teeth!
+
+@1059
+As expected of the great city of {026b0206}. I underestimated it.
+
+@1059.1
+I underestimated them... I never imagined the people of {026b0206} would resist this fiercely...
+
+@1060
+I take no pleasure in this... but it cannot be helped... Seize the food of {0210}!
+
+@1060.1
+It is outside the city, but it cannot be helped... Seize the food of {0210}!
+
+@1060.2
+The food of {0210} is yours! Take all you like.
+
+@1060.3
+Seize all the food of {0210} and make them feel the terror of our {02850201} army!
+
+@1061
+Plunder is the true joy of war! Leave not a single scrap behind!
+
+@1061.1
+Burn everything! And take it all!
+
+@1062
+{C173}... Our food grows and the soldiers' morale rises. Two birds with one stone, as they say.
+
+@1062.1
+It seems everything has been taken. Plunder is a common tactic of war. Do not hold it against me...
+
+@1063
+Choose a unit to resupply.
+
+@1064
+No further supplies can be given.
+
+@1065
+Resupply the units of {C1066}. Do not dawdle!
+
+@1065.1
+This resupply will help {C1066} too.
+
+@1067
+Deliver the supplies to {026b0206}.
+
+@1067.1
+Carry the supplies into {026b0206}!
+
+@1068
+I hear {02850204} is after {C7}'s life... {021e0204} was sent as an assassin. Please be careful.
+
+@1068.1
+Please be careful. Someone seems to be after the life of {C6}...
+
+@1068.2
+{C7}, it seems a suspicious person has slipped into {02860203}. Please be careful.
+
+@1068.3
+{C7}, it seems {C13} of {02860203} is {C1069}.\pThe culprit is {021e0204} of {02850204}.
+
+@1068.4
+{C7}, it seems {C13} of {02860203} is {C1069}, by persons unknown.
+
+@1069
+being urged to defect
+
+@1069.1
+the target of slanderous rumors
+
+@1069.2
+being pressed to revolt
+
+@1069.3
+marked for assassination
+
+@1070
+Whom will you turn?
+
+@1071
+No one is in this city.
+
+@1072
+I do not want kin fighting kin. Will you not serve {02850201}, as your {C1} does?
+
+@1072.1
+We are countrymen. I do not want us to fight. Walk the same road with us in {02850201}.
+
+@1072.2
+The climate of {02850202} cannot suit {C7}, surely. Come to {02850201}.
+
+@1072.3
+We will treat you well. Lend your talents to us, {C7}.
+
+@1072.4
+It is no good for {C7} to stay in {02850202}. Why not use your power for {02850201}?
+
+@1072.5
+Returning to serve your true lord is not betrayal.\pPlease, come to {02850201} with me.
+
+@1073
+I do not want kin fighting kin. Will you not serve me?
+
+@1073.1
+We are countrymen, are we not? Walk the same road with me.
+
+@1073.2
+The climate of {02850202} cannot suit {C7}, surely. Come to {02850201}.
+
+@1073.3
+It is no good for {C7} to stay in {02850202}. Come to {02850201}.
+
+@1074
+I am not so disloyal as to forget what I owe {02850201}.
+
+@1074.1
+Betray your loyalty for worldly desires and you will be punished in the next life. Leave this place.
+
+@1074.2
+I am content with my life now. What nonsense is this? You have picked the wrong person to woo. {C173}
+
+@1074.3
+{02850202} has you, but {02850201} has... only me. How could I abandon it?
+
+@1074.4
+Who can promise that one who defects today will not defect again tomorrow? Perhaps you should go home.
+
+@1074.5
+I can live only here... Please, go home.
+
+@1075
+Understood. I put the past behind me and will serve you again.
+
+@1075.1
+Do not be so distant, Lord Yoshitsune. Since we met on Gojo Bridge, you alone have been my lord.
+
+@1075.2
+My remaining life is short. I think I will wager it on {C7}.
+
+@1075.3
+I find I would rather feel the winds of {02850202} than those of {02850201}. I entrust my fate to {C7}.
+
+@1075.4
+I find I want to see this land of {02850202}, where {C7} is.
+
+@1075.5
+I cannot lie to my own heart. I will wager on a new life in {02850202}.
+
+@1076
+{021e0201} of {02850201} has defected to {02850202}.
+
+@1077
+{C11} is with our {02850201} now...\pWell done, {C5}!
+
+@1077.1
+With {C11} in {02850201}, our nation's future is bright! Well done, {C5}!
+
+@1078
+{C11} is now a retainer of our nation. I am proud to have lured such a talent!
+
+@1079
+{C5} was lured away by {02850203}?! Grr, you will regret this!
+
+@1079.1
+{C5} betrayed me and went over to {02850203}? How could this be!
+
+@1080
+But... I wonder if the ways of {02850203} are wrong...
+
+@1080.1
+But... does anyone truly appreciate how much I have given...
+
+@1080.2
+But when I think of my men and my kin, at this rate...
+
+@1080.3
+But... I feel there is a better place for me than this...
+
+@1081
+Unease shows on the face of {C7}. One more push...
+
+@1081.1
+The heart is weak... The heart of {C7} seems to waver.
+
+@1081.2
+Even bold words cannot lie to the heart. Men are weak...
+
+@1082
+Whom will you incite to revolt?
+
+@1083
+At this rate the nation will fall someday.\pThe people hope that {C7} will rise up.
+
+@1083.1
+Are you content with your lord?\pUnless you rise to the top yourself, that discontent will go on forever.
+
+@1083.2
+{C7} is not meant to end life serving under another. You should rule a nation.
+
+@1084
+Is this the flattery you think will sway me? You will not leave alive!
+
+@1084.1
+I will not fall for such glib talk. My heart has no second loyalty. Do not expect to get home safely!
+
+@1084.2
+It is your tongue that is to be feared. I will cut it out before it brings ruin to my nation.
+
+@1085
+...True, {02850201} seeks a new hero. And I am the only one!
+
+@1085.1
+...True, at this rate we will be swallowed by a neighbor someday... It is now or never!
+
+@1085.2
+One life to live. If I do not decide now, I may regret it forever. Right!
+
+@1086
+Someone seems to have held secret talks with {021e0201} of {02860201}.
+
+@1087
+...But no one knows a lord's heart. I merely follow...
+
+@1087.1
+...But is lifelong loyalty just an ideal that cannot survive in this world?
+
+@1088
+Whom will you spread rumors about?
+
+@1089
+They say a blade that cuts too well is shunned by its owner. Have you not felt your lord acting strangely of late?
+
+@1089.1
+Anyone would pity the way you have been treated lately. Why do you keep silent?
+
+@1089.2
+Do you not find the way you are being used strange? It is not foolish at all to doubt your lord.
+
+@1090
+It is you who is suspicious! My bond with my lord is thicker than blood!
+
+@1090.1
+There is no rift between my lord and me. Trying to stir up doubt is useless.
+
+@1090.2
+Is that meant to sow suspicion? A waste of effort... {C173}
+
+@1090.3
+Even if I granted you that, my loyalty would never waver.
+
+@1091
+Now that you mention it, {C12} has been avoiding me lately...
+
+@1091.1
+Now that I think of it, that time... Before, he would have... No...
+
+@1091.2
+Now that I think of it... after meeting me, he always seems to meet someone else...
+
+@1092
+There is no ruler.
+
+@1093
+A conflict will be started. Choose the country the other side will target.
+
+@1094
+I say this with your country's interests in mind. Now is the perfect chance to destroy {02850203}!
+
+@1094.1
+{02850203} seems to be steadily building strength to strike your country. Perhaps strike first...
+
+@1094.2
+It seems {02850203} is in disorder and cannot even control its troops... I thought it a perfect chance to attack, so I came to tell you.
+
+@1094.3
+{02850203} has been boasting that {C7} is its vassal... Why not teach them a lesson?
+
+@1095
+I will not let this chance to strike {02850203} slip away. Very well, raise the army!
+
+@1095.1
+That {02850203}, how dare they! I will crush them utterly!
+
+@1095.2
+Well done to tell me! I will end {02850203} with my own hands!
+
+@1096
+I am sorry, but I cannot trust a word you say.
+
+@1096.1
+They say the more talkative a man is, the less he can be trusted... Please leave.
+
+@1096.2
+Your aim is plain to see. Leave before you are killed.
+
+@1097
+I am sorry, but I cannot trust a word {021e0202} says.
+
+@1097.1
+They say the more talkative a man is, the less he can be trusted... Please leave.
+
+@1098
+Whom will you assassinate?
+
+@1099
+Feel the terror of the assassin! Lament in the next world that we marked you.
+
+@1099.1
+If you must curse someone, curse yourself for serving the wrong lord. Die!
+
+@1099.2
+You are too dangerous to {02850201}. I am sorry, but you must die.
+
+@1099.3
+I hold no grudge against you, but whoever threatens our country must be removed.
+
+@1100
+Damn... I let my guard down... Ugh... gah...
+
+@1100.1
+Wh-who are you... Ah... gh...
+
+@1100.2
+What! Ah... I do not want to die...
+
+@1101
+{021e0201} of {02850201} has been assassinated by an unknown party.
+
+@1102
+So {C11} has been put to rest... We could not have beaten {02850203} without such a method.
+
+@1102.1
+You assassinated {C11}! Well done. {02850203} must be badly hurt.
+
+@1102.2
+{C5}... Even as an ally, what a fearsome {C1103}. The generals of {02850203} must be trembling.
+
+@1103
+man
+
+@1103.1
+fellow
+
+@1104
+{021e0202}'s life is mine.
+
+@1104.1
+{C173}... The assassination of {C11} was a success. The blow to {02850203} must be great.
+
+@1105
+{C5} killed... Was this {02850203}'s doing? Curse them!
+
+@1105.1
+To lose {C5} in such a way... Damn {02850203}!
+
+@1105.2
+{C5} killed by an assassin of {02850203}... Grr!
+
+@1106
+{02850202} uses a despicable means like assassination. What a barbaric country.
+
+@1106.1
+Assassination... Curse {02850202} for such a despicable method.
+
+@1106.2
+Someone is after my life... Well, I suppose I have become a little famous.
+
+@1107
+Which unit will you target?
+
+@1108
+Spread false word to the army of {021e0202} that their capital has fallen!
+
+@1108.1
+Lure the army of {021e0202} away and leave them unable to move!
+
+@1108.2
+Send forged orders to the army of {021e0202} and stir up their suspicion!
+
+@1109
+Damn, the troops are shaken and will not obey!
+
+@1109.1
+We have been had! The troops are moving on their own and orders do not reach them!
+
+@1109.2
+What a disaster! The troops are in confusion and cannot move!
+
+@1110
+False information from an unknown party seems to have thrown the army of {021e0201} of {02850201} into chaos.
+
+@1111
+Do not be fooled by such a transparent trick. It is an enemy ploy. Seize anyone suspicious!
+
+@1111.1
+Did you think such child's play would shake my army? Find the spy who slipped in!
+
+@1111.2
+I am not so foolish as to fail to tell truth from lies. Find and seize the suspicious persons!
+
+@1112
+Which terrain will you destroy?
+
+@1113
+Even an empty city will become a source of trouble if left standing. Tear it down!
+
+@1114
+Tonight is dark... Slip into the heart of the city under cover of darkness and set it ablaze.
+
+@1114.1
+Ah, a fog has risen... Good, climb the gates now and bring down the outer wall!
+
+@1114.2
+Under cover of night, set fires all at once. Hm, the wind is dry. Move to the windward side.
+
+@1115
+So much for {C1116}. It was nothing much.\pWe stole the {0210}{C190} cleanly.
+
+@1115.1
+We stole the {0210}{C190} in the confusion. Let us take it back to {02850201}.
+
+@1115.2
+We obtained the {0210}{C190} of {026b0206}.
+
+@1117
+{026b0206} of {02920206} was raided, and it seems the {0210}{C190} was stolen by an unknown party.
+
+@1118
+The walls of {026b0206} have crumbled considerably in this attack.
+
+@1118.1
+With this much destruction, repairs will not be easy.
+
+@1118.2
+Without walls, taking it will be easy.
+
+@1119
+The walls of {026b0206} in {02920206} seem to have been destroyed by an unknown party.
+
+@1120
+As expected of {026b0206}. With such tight security, we cannot even get in...
+
+@1120.1
+The security is too tight... Good order is a sign of good rule. We have no choice but to give up this time.
+
+@1120.2
+Not only the guards but the citizens are on alert. We cannot lay a hand on it...
+
+@1121
+Destroy this {0210} so thoroughly that it cannot be repaired!
+
+@1121.1
+I will destroy this {0210} completely.
+
+@1121.2
+Destroy the {0210} and strike a blow at {026b0206}!
+
+@1122
+They call {026b0206} a great city, but its security was nothing much.
+
+@1122.1
+There is next to no security on the frontier. Ruining the {0210} only made it more of a frontier.
+
+@1123
+The {0210} of {026b0206} in {02920206} seems to have been destroyed by an unknown party.
+
+@1124
+As expected of {026b0206}. With this security we cannot even approach the {0210}.
+
+@1124.1
+I thought it a frontier and underestimated it too much... The guards of the {0210} are well trained.
+
+@1125
+Even a {0210} beyond our control must be destroyed to cut off future trouble!
+
+@1126
+Good, the {0210} is destroyed.
+
+@1127
+There seems to be a suspicious character. Seize him and check his identity.
+
+@1127.1
+There is a suspicious person. Seize him.
+
+@1128
+Block the roads and set up checkpoints. Seize any suspicious persons without mercy.
+
+@1129
+For me to fail... I will return for now.
+
+@1129.1
+How unlucky for someone like me... It cannot be helped. I will return for now.
+
+@1129.2
+Failure comes at times... I will go back and try again.
+
+@1130
+{021e0201}, who went to carry out espionage on {02850202}, has been captured.
+
+@1131
+Captured {021e0201} of {02850201}, who was trying to carry out espionage in {02860202}.
+
+@1132
+Captured {021e0201} of {02850201}, who was trying to carry out espionage on the army of {021e0202}.
+
+@1133
+There are not enough funds to build the facility.
+
+@1134
+We do not have enough funds to expand {026b0206}, do we?
+
+@1134.1
+We do not have enough funds to expand {026b0206}.
+
+@1135
+There are not enough funds to build a road.
+
+@1136
+Then I shall begin work. It will surely be a fine {0210}.
+
+@1136.1
+Leave it to me. I will build a {0210} like none anyone has seen.
+
+@1136.2
+I will give it my all and build a splendid {0210}.
+
+@1136.3
+A fine idea that will strengthen the nation. I will begin at once.
+
+@1137
+It is good to work up a sweat oneself and take part in domestic affairs.
+
+@1137.1
+I cannot leave it to my subordinates. I will show how to build the {0210} myself.
+
+@1137.2
+Domestic affairs are the foundation of a nation and cannot be neglected. I will set the example myself.
+
+@1138
+Repair the outer wall of {026b0206} and strengthen its defenses.
+
+@1138.1
+Leave it to me. I will make it a great city you will hardly recognize.
+
+@1138.2
+I will give it my all and build splendid walls.
+
+@1138.3
+Stronger walls are necessary to prepare for emergencies. I will begin at once.
+
+@1139
+Let us expand the walls of {026b0206} and secure our defenses against emergencies.
+
+@1139.1
+Preparation brings peace of mind. I will command the strengthening of the walls myself.
+
+@1140
+I will clear the stones, level the ground, and make a fine road.
+
+@1140.1
+Leave it to me. Once this road is built, travel will be far easier.
+
+@1140.2
+Roads bring caravans and, I believe, the growth of culture.
+
+@1141
+We will lay roads to connect every region. Now, to work!
+
+@1141.1
+I will take command myself and build a road from {02860201} to the world beyond.
+
+@1142
+Then I shall begin removing the road.
+
+@1143
+Then let us remove the road here.
+
+@1144
+It seems nobody in {026b0206} wants the {0210}.
+
+@1145
+The development of {0211} culture in {026b0206} is truly astonishing.
+
+@1145.1
+There is much to learn from the {0211} culture of {026b0206}.
+
+@1146
+{026b0206} seems ahead of us in {0211} culture. We must learn from them.
+
+@1146.1
+The progress of {0211} culture in {026b0206} is remarkable. We must take it back to {02860201} and spread it.
+
+@1147
+Trade has brought excellent {0211} knowledge.
+
+@1148
+Traded {0210} in {026b0206} and gained {0215} in money.
+
+@1149
+Traded {0210} in {026b0206} and gained {0215} in money.
+
+@1150
+Traded {0210} in {026b0206} and gained {0215} in money.
+
+@1151
+{02850201} has founded a capital, {026b0206}, in the land of {02900206}.
+
+@1152
+We shall settle here. Let us name the capital {026b0206}.
+
+@1152.1
+I shall build a capital here. Let it be named {026b0206}.
+
+@1153
+From this day, this land is named {026b0206} and made our capital.
+
+@1153.1
+This place is our capital from now on. Its name shall be {026b0206}.
+
+@1154
+{021e0202}, {021e0201} of {026b0206} seems to be meeting secretly with someone.
+
+@1155
+Ill rumors about {021e0201} seem to be spreading around {026b0206}.
+
+@1156
+{021e0201}, someone has slipped into {026b0206}.
+
+@1157
+{021e0201}, someone has mingled with {021e0202}'s unit.
+
+@1158
+{021e0201}, trouble! The people of {026b0206} are rioting.
+
+@1159
+we
+
+@1160
+The army led by {021e0201} is in disorder and cannot act.
+
+@1161
+The army led by {021e0201} has recovered from its confusion and can act again.
+
+@1162
+Cancel the road construction?
+
+@1163
+You can plan at most 50 squares of road at a time.
+
+@1164
+You cannot build a road here.
+
+@1165
+There is already a road in the selected section.
+
+@1166
+The selected section is already marked for road construction.
+
+@1167
+Build the road as planned?
+
+@1168
+Select the city to move to.
+
+@1169
+Select the city to attack.
+
+@1170
+Select the city to expand.
+
+@1171
+Select the city to supply.
+
+@1172
+Select the city to destroy.
+
+@1173
+Select the city to trade with.
+
+@1174
+Select the generals to move to the same city.
+
+@1175
+Rice paddies cannot be made in Islamic, Western or Eastern European cities, so fields cannot be made on wetland.
+
+@1176
+A pity, but we can marry no further... Let us turn back...
+
+@1176.1
+A pity, but no further marriages are possible... We shall turn back now.
+

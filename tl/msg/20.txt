@@ -1,0 +1,480 @@
+@20000
+~
+
+@20001
+Curse you, {0258020b}!
+
+@20002
+Brethren who serve our Lord, let us join hands to defeat the heathens!
+
+@20003
+Agreed. This land was given to us by the Lord and is sacred. We will not let barbarians trample it.
+
+@20004
+With the courage of us knights, we shall destroy them. Form the Crusade!
+
+@20005
+In response to the invasion by {0258020b}, the European Alliance has been formed.
+
+@20006
+{0258020b} has joined the European Alliance.
+
+@20007
+Curse you, {0258020b}!
+
+@20008
+Allahu Akbar! (God is great!)\p Servants of the one God, take up your swords! It is Jihad, the holy war!
+
+@20009
+In the name of Allah, let us unite and strike down the infidels. Jihad!!
+
+@20010
+In response to the invasion by {0258020b}, the Islamic Alliance has been formed.
+
+@20011
+{0258020b} has joined the Islamic Alliance.
+
+@20012
+Curse you, {0258020b}!
+
+@20013
+Our best course is to join hands with the surrounding countries and stand against them.
+
+@20014
+Kings of the neighboring lands, let us fight together to defend our culture from the barbarian invasion.
+
+@20015
+Yes, a fine plan. We will annihilate them to the last soldier.
+
+@20016
+In response to the invasion by {0258020b}, the East Asian Alliance has been formed.
+
+@20017
+{0258020b} has joined the East Asian Alliance.
+
+@20018
+Curse you, {0258020b}!
+
+@20019
+It has come to this. We must ally not only ourselves but our neighbors to resist them.
+
+@20020
+Brethren, we revere the same Vedic gods and are bound by strong ties. Let us fight together!
+
+@20021
+Quite so. Whoever the enemy may be, we will show no mercy to those who would trample our fertile lands.
+
+@20022
+In response to the invasion by {0258020b}, the South Asian Alliance has been formed.
+
+@20023
+{0258020b} has joined the South Asian Alliance.
+
+@20024
+Greetings, {021e0201}. I am glad to see you in good health.
+
+@20025
+Yes. But I hear there was some omen today.
+
+@20026
+Indeed. I was observing the heavens...
+
+@20027
+and it seems a bountiful harvest will come to our country.
+
+@20028
+Is that so? That is good news.
+
+@20029
+As you foresaw, this year will surely bring a good harvest.
+
+@20030
+Greetings, {021e0201}. I am glad to see you in good health.
+
+@20031
+Yes. But what is today's word from the heavens?
+
+@20032
+I have cast the fortune of your child, {021e0201}.
+
+@20033
+Oh! And the result?
+
+@20034
+Blessed with benevolence. In time the child will become a man skilled in governing.
+
+@20035
+Blessed with valor. In time the child will become a man skilled in war.
+
+@20036
+Blessed with cunning. In time the child will become a man skilled in strategy.
+
+@20037
+That is good news. I look forward to seeing {021e0201} grow.
+
+@20038
+{021e0201}'s politics has risen.
+
+@20039
+{021e0201}'s combat has risen.
+
+@20040
+{021e0201}'s strategy has risen.
+
+@20041
+Greetings, {021e0201}. I am glad to see you in good health.
+
+@20042
+Yes. But what do the omens say today?
+
+@20043
+Indeed. I was observing the heavens...
+
+@20044
+Signs of misfortune have appeared in the direction of {0210}.
+
+@20045
+What! What does that mean?
+
+@20046
+It is probably a sign that disaster will strike {0210}.
+
+@20047
+I see... The land of {0210} will decline.
+
+@20048
+This may be a good chance to make war.
+
+@20049
+Ah, {C6}! You have come at just the right time.
+
+@20050
+Hm? {C5}, is something the matter?
+
+@20051
+Lately I have grown fond of astrology.\p So I would like to read the stars for {C6}.
+
+@20052
+Oh, how interesting. And what will you tell me?
+
+@20053
+I thought I would read your compatibility with your consorts.
+
+@20054
+Nonsense! What use is such a thing?
+
+@20055
+What are you saying! An heir is a matter of state. It is a ruler's duty.
+
+@20056
+Very well. Go ahead and read them.
+
+@20057
+Yes, then...
+
+@20059
+Well?
+
+@20060
+Ah! This is...
+
+@20061
+What is it? What did the result show?
+
+@20062
+The consort most compatible with {C6} is...
+
+@20063
+Which one?
+
+@20064
+Lady Lachi!
+
+@20066
+Lady Lachi will surely embrace all of {C6}.
+
+@20068
+...? What is the matter? My readings are very accurate, you know.
+
+@20069
+Hey! You did read it properly, did you not?
+
+@20070
+Of course. I used the latest scholarly texts...
+
+@20071
+Then explain why it comes out that way!
+
+@20072
+Th-that brightest star there represents {C6}...
+
+@20073
+And the lovely star nestled beside it is Lady Lachi...
+
+@20074
+A woman watched the two of them from the shadows.
+
+@20075
+Hehe... {021e0201}, you seem to be doing well.
+
+@20076
+Then tonight's banquet will be with {021e0201}... Blush.
+
+@20077
+One day, {021e0201} visited the Dazaifu Tenmangu shrine while touring the realm.
+
+@20078
+So this is the Tenmangu. I hear it is a shrine dedicated to the god of learning.
+
+@20079
+Yes! It is said to have been built to honor a man named Sugawara no Michizane.
+
+@20080
+What sort of man was Sugawara no Michizane?
+
+@20081
+He was an official at this country's court, excelled in scholarship, and rose high. But he was banished to this place through a political rival's plot.
+
+@20082
+After his death, everyone who took part in the plot was struck dead by lightning, one by one. People at the time feared it was Michizane's curse.
+
+@20083
+For that reason Michizane is also worshiped as a god of thunder.
+
+@20084
+Hmm... Hearing that, this building does feel full of divine power.
+
+@20085
+Lord Michizane, grant your blessings to me as well.
+
+@20086
+{021e0201}'s politics has risen.
+
+@20087
+One day, {021e0201} visited Mont-Saint-Michel Abbey while touring the realm.
+
+@20088
+So this is Mont-Saint-Michel Abbey...\pI hear it is a Christian building.
+
+@20089
+Yes! It is an abbey dedicated to the archangel Michael.
+
+@20090
+For what deeds is this Michael revered by the people?
+
+@20091
+Yes! According to Christian scripture, an angel named Lucifer once led an army and raised his bow against God.
+
+@20092
+Lucifer is commonly called Satan, and it was Michael who struck Satan down with God's sword.
+
+@20093
+So he is a brave messenger of God who vanquished the devil.
+
+@20094
+Yes, and so Michael is also known as the guardian angel of warriors.
+
+@20095
+Hmm... I feel as if courage is welling up in me as well.
+
+@20096
+{021e0201}'s combat has risen.
+
+@20097
+One day, {021e0201} was touring the streets of Baghdad.
+
+@20098
+Oh, what a lively city. I hear this city is the setting of a tale called the Arabian Nights.
+
+@20099
+Yes!
+
+@20100
+They say the Arabian Nights is also called One Thousand and One Nights. Why is that?
+
+@20101
+Yes! It has this origin.
+
+@20102
+Long ago there was a cruel king who kept taking wives, and the morning after each wedding he had her killed to protect the nation's secret treasure.
+
+@20103
+Oh.
+
+@20104
+A woman named Scheherazade devised a plan. Once she became the king's wife, she told him a story each night.
+
+@20105
+The king, wanting to hear the rest, did not execute Scheherazade. After listening to tales for a thousand and one nights, he is said to have given up his cruel ways.
+
+@20106
+That is why the Arabian Nights is called One Thousand and One Nights.
+
+@20107
+Hmm... That woman was certainly quick-witted. I must follow her example.
+
+@20108
+{021e0201}'s strategy has risen.
+
+@20109
+One day, {021e0201} visited the Hindu temple Angkor Wat.
+
+@20110
+So this is Angkor Wat. The carvings on the walls are magnificent.
+
+@20111
+These carvings take as their subject the ancient Indian epic, the Mahabharata.
+
+@20112
+What sort of story is this Mahabharata?
+
+@20113
+Simply put, it is a tale of war between two tribes of ancient India...
+
+@20114
+But the scale of that war is truly grand.
+
+@20115
+How so?
+
+@20116
+A hundred brothers fought five brothers, and the two armies clashed with eight million soldiers combined.
+
+@20117
+Eight million!
+
+@20118
+There is also a weapon called "Agneya"...
+
+@20119
+It fires a shining arrow that burns the enemy to ash, and can even boil away rivers and seas.
+
+@20120
+What! What kind of weapon is that?
+
+@20121
+Well, it appears in legend, so I cannot say what sort of weapon it actually was...
+
+@20122
+Hmm... What a titanic tale of war. It makes me tremble with the urge to fight.
+
+@20123
+{021e0201}'s combat has risen.
+
+@20124
+In {027c}, {0258020b} obtained all the cultural items.
+
+@20125
+In the capital, {026b0206}, a literary revival known as the Renaissance blossomed splendidly.
+
+@20126
+{C6}, the people too rejoice at this flowering of culture.
+
+@20127
+The rise in our literary and artistic activity is truly magnificent.
+
+@20128
+Yes... This prosperity must be unmatched even among foreign lands.
+
+@20129
+This is thanks to {C6}, who protected culture and eagerly introduced new technology.
+
+@20130
+To think our country would flourish so... I am truly honored to serve my lord.
+
+@20131
+But we have not accomplished everything yet.\pFor further advance, I count on your efforts.
+
+@20132
+Yes, my lord!
+
+@20133
+All culture levels in {026b0206} are now at maximum.
+
+@20134
+The gold reserves of {026b0206} are now at maximum.
+
+@20135
+The food reserves of {026b0206} are now at maximum.
+
+@20136
+The standing troops of {026b0206} are now at maximum.
+
+@20137
+The defense of {026b0206} is now at maximum.
+
+@20138
+The loyalty of your generals is now at maximum.
+
+@20139
+That day, {0258020b} held a grand banquet to celebrate the unification of Mongolia.
+
+@20140
+Tonight's feast marks the unification of Mongolia by our tribe. Enjoy yourselves to your heart's content.
+
+@20141
+{C6}, congratulations on the unification of Mongolia.
+
+@20142
+Until now the Mongol people could never band together and form one nation.
+
+@20143
+But at last, under {C6}, unification has been achieved.
+
+@20144
+Yes, but I believe this unification came by the will of Heaven.
+
+@20145
+And the true destiny Heaven has given me is for the Mongols to conquer the world.\pDo you not agree?
+
+@20146
+Truly so. And to accomplish that great deed, we will not shrink from any road, however full of hardship.
+
+@20147
+Reassuring words. I count on your service.
+
+@20148
+That day, {0258020b} held a grand banquet to celebrate the unification of Europe.
+
+@20149
+Tonight is a joyous night celebrating our country's hegemony. Enjoy yourselves to your heart's content.
+
+@20150
+Indeed, I always believed {C6} would surely unify Europe.
+
+@20151
+This is the greatest feat since the coronation of Charlemagne.
+
+@20152
+{C6}, a traveling minstrel wishes to offer a poem in praise of this great feat.
+
+@20153
+Is that so? Then, minstrel, let us hear it.
+
+@20154
+Yes, then, if I may be so bold...
+
+@20155
+Clad in silver armor, with countless knights in train,\nhe rides across the battlefield,\nAlexander come again!
+
+@20156
+The tempered sword of treasure will one day rule the world.\nIn Heaven there is God,\non Earth there is {021e0201}!
+
+@20157
+Hm, a poem worthy of me. Well done, minstrel.
+
+@20158
+By the way, I hear you have traveled to many lands. Tell me of foreign countries.
+
+@20159
+In foreign lands, a country called {0258020b} has grown mighty. It seems it will one day contend with {021e0201} for the hegemony of the world.
+
+@20160
+In foreign lands there is no country as mighty as {0258020b}. The day {021e0201} holds hegemony over the world must be near.
+
+@20161
+I see, I see. In any case, this unification of Europe will only increase our country's power.
+
+@20162
+And for further growth, I intend to strive on. I ask all of you to help me.
+

@@ -1,0 +1,150 @@
+@35001
+A farming method common in medieval Western Europe. The fields are split in two: half lies fallow while the other half grows beans and wheat. It developed into the Three-Field System.
+
+@35003
+A farming method that replaced the Two-Field System in medieval Western Europe. Fields are split in three: a winter crop, a spring crop and fallow, rotated over three years.
+
+@35005
+Rice native to Champa (southern Vietnam). It resists drought and ripens early. Grown in Jiangnan, China too, it was paired with late rice for double cropping.
+
+@35007
+The oldest surviving Chinese farming text. It describes how to grow many crops and process foods, at a level of skill little different from today's techniques.
+
+@35009
+A plow with wheels, developed for heavy alluvial soil. It existed in Roman times, but even in the Middle Ages only wealthy farmers owned one.
+
+@35011
+A tool for sowing grain. Types differ by method: broadcast, drill or hill. Drills were used in India's dry farming.
+
+@35013
+A dog that guards a pasture. It watched the sheep and protected the ranch's property.
+
+@35015
+Cattle native to Mongolia. Used for dairy, meat and farm work, they range as far as northeast China. They have reddish or yellow-brown coats and strong resistance to harsh conditions.
+
+@35017
+Sheep native to Spain. A large, fine-wooled breed that is also eaten. Rams are horned, ewes hornless. With it, Spain built a monopoly on wool production.
+
+@35019
+A fodder plant native to Persia and Central Asia. Rich in protein, minerals and vitamins, it is the best of all forage grasses, called the "Queen of Forage."
+
+@35021
+A work by Xenophon, who served Philip II of Macedon. It is the oldest text on riding and keeping horses.
+
+@35023
+A mixture of saltpeter, sulfur and charcoal. A by-product of Tang alchemy, its recipe appears in the Song Wujing Zongyao. It was put to use as a weapon under the Jin.
+
+@35025
+A tall tower for attacking castles. It is rolled up beside the walls, and men on its top platform shoot or hurl stones into the castle. Some had a heavy iron-tipped log to batter the walls.
+
+@35027
+The Byzantine flamethrower, used to burn down enemies. Being made from naphtha, its fire is hard to put out. It was powerful in many wars and struck fear into foes.
+
+@35029
+A kind of bow common in medieval Europe. A trigger looses the bolt, so it has great power and range and is easy to use. Its weakness is the time needed to set the bolt.
+
+@35031
+A weapon that hurls stones or arrows by the springing force of twisted rope bundles or hair. Used in ancient Rome and China, it served as a siege weapon until cannons appeared.
+
+@35033
+A weapon like a cannon. An iron tube is packed with powder and shot, then lit to fire at the enemy. Invented by the Jin, it was adopted by the Mongols who fought them, and used in the Mongol invasions of Japan too.
+
+@35035
+Armor of metal plates that covers and protects the whole body. Developed in response to better bows and other weapons. Its defense is superb, but it is heavy and offers little mobility.
+
+@35037
+The book of Sun Tzu, a military thinker of ancient China, in 13 chapters. It ranges from local tactics to the management of a whole state, and its rare insight made it a favorite of many generals for ages.
+
+@35039
+A work by the Roman military writer Vegetius, written in the late 4th century. It covers army organization and troop training, and even catapults and signaling.
+
+@35041
+Julius Caesar's account of his campaigns in Gaul. Valued as a key source on the ancient Germans and also as a masterpiece of Latin literature.
+
+@35043
+By Plutarch of ancient Rome. Also called the Parallel Lives, it tells the lives of 23 pairs of Greek and Roman heroes with similar careers.
+
+@35045
+The war record of Hannibal, great general of Carthage. It describes how he led cavalry and elephants over the Alps to invade Italy in the Punic Wars against Rome.
+
+@35047
+The battle formation of Epaminondas, a general of ancient Greece, called the "oblique order." A deep, dense mass was placed on the left wing, while the center and right were set back step by step.
+
+@35049
+Fighting waged by Muslims to convert unbelievers, translated as "holy war." A warrior who dies in a holy war was believed to go straight to paradise.
+
+@35051
+A device that shows direction. One of China's three great inventions, put to use in the Song era. It greatly improved the safety of sea travel and spurred Europe's Age of Discovery.
+
+@35053
+A structure that shines a light to mark a sea route. Built since Hellenistic times. The light of the Pharos of Alexandria was said to be visible from some 56 kilometers away.
+
+@35055
+A multi-purpose astronomical instrument, widely used in the medieval Islamic world and Europe. Besides stargazing, it served for calendars, astrology and measuring the size of buildings.
+
+@35057
+Its first aim was religious: reading the will of God from the heavens. In the Middle Ages it was studied mainly in the Islamic world, and helped sailors learn direction and weather to sail safely.
+
+@35059
+The study of predicting events from the motion of the heavens. It influenced medicine and pharmacy and spurred better observing instruments. Its worth went unchallenged until Galileo's time.
+
+@35061
+A device for steering a ship. Introduced to European sailing ships around the 12th century. Handling improved greatly over the old method of turning with oars.
+
+@35063
+A triangular sail used on many Arab ships (dhows). Suited to sailing with the wind from the side. It reached Europe through the Muslims.
+
+@35065
+A building style used in Byzantine churches. Its marks are round domes and mosaic murals inside; Hagia Sophia is the finest example.
+
+@35067
+A building style popular in Western Europe in the 11th and 12th centuries. The cathedrals of Pisa and Worms are typical. Marked by heavy stone walls, dark interiors and round arches.
+
+@35069
+Based on the fortress building of ancient Rome. Until cannons appeared it kept attackers at bay; the great walls of Constantinople were proudly held to be impregnable.
+
+@35071
+Temples carved into sheer rock cliffs. They began in India, with temples at Ajanta and Ellora, and later spread to China and elsewhere.
+
+@35073
+The building style of Japan's Heian nobles. Many halls were joined by corridors. Outside lay a broad garden with a pond, where ceremonies such as dances were held.
+
+@35075
+The slender towers attached to a mosque, an Islamic temple. Built in great numbers in the Ottoman Turkish age.
+
+@35077
+A printing method using wooden blocks. Invented in China around the 6th to 7th centuries and widespread in the Song era. It greatly influenced the invention of movable type in Europe.
+
+@35079
+A printing method using metal alloy type. Invented by Gutenberg of Germany in the 15th century, it brought books to the common people of Europe.
+
+@35081
+A school of Confucianism completed by Zhu Xi of the Southern Song. It later influenced Japanese thinking too.
+
+@35083
+Invented by Cai Lun of China in the early 2nd century. After the Battle of Talas, Chinese papermakers captured by the Muslims carried it westward.
+
+@35085
+Today's numerals. They began in India, and the discovery of zero made them a superb system for calculation. They reached Islam around the 7th to 8th centuries, then spread to Europe.
+
+@35087
+Developed in the medieval Islamic world. The Iranian mathematician al-Khwarizmi did much, and the title of his work gave us the word "algebra."
+
+@35089
+A book on arithmetic and elementary algebra by the Italian mathematician Leonardo. Known as the first book to present Arabic numerals systematically to the West.
+
+@35091
+The grand collection of ancient Roman law, compiled on the order of Byzantine Emperor Justinian. In three parts, the Code, the Digest and the Institutes, it became the basis of modern law in Europe.
+
+@35093
+A facility for observing the heavens, built mainly in Islam and China. The national observatory in Dadu, capital of the Yuan, held instruments such as the armillary sphere, and scholars like Guo Shoujing thrived there.
+
+@35095
+The natural science work of the Roman author Pliny. An encyclopedia covering every field: astronomy, geography, botany, medicine and pharmacy. It has 37 volumes and 20,000 entries.
+
+@35097
+Geometric patterns drawn from plant stems and leaves. A unique abstract art that grew in the Islamic world, where idols are forbidden, used for wall decoration and book bindings.
+
+@35099
+A kind of mural. Watercolors are painted on wet plaster. Known since ancient Near Eastern times, it was popular in places like the Byzantine Empire.
+

@@ -1,0 +1,950 @@
+SCEDAT1:title	Wolf of the Steppe
+SCEDAT1:intro	In the late 12th century, a young man named Temujin was acclaimed Khan (king) on the war-torn Mongolian plateau. After defeating his old enemy Jamukha, Temujin established his hegemony over the plateau and took the name Genghis Khan. In the west, meanwhile, the Christian drive to retake the Holy Land was intensifying, and crusaders led by Richard the Lionheart repeatedly clashed with the Islamic hero Saladin over Jerusalem. All of Eurasia was about to be swallowed by wars of heroes.
+# SCEDAT1 regions/seas/islands (field 15 bytes = 14 chars)
+SCEDAT1:00208	Japan
+SCEDAT1:0021b	North China
+SCEDAT1:0022e	South China
+SCEDAT1:00241	Tibet
+SCEDAT1:00254	Mongolia
+SCEDAT1:00267	India
+SCEDAT1:0027a	Central Asia
+SCEDAT1:0028d	West Asia
+SCEDAT1:002a0	Egypt
+SCEDAT1:002b3	North Africa
+SCEDAT1:002c6	Balkans
+SCEDAT1:002d9	Western Rus
+SCEDAT1:002ec	France
+SCEDAT1:002ff	England
+SCEDAT1:00312	Pacific Ocean
+SCEDAT1:00325	East China Sea
+SCEDAT1:00338	S China Sea
+SCEDAT1:0034b	Bay of Bengal
+SCEDAT1:0035e	Southeast Asia
+SCEDAT1:00371	Arabian Sea
+SCEDAT1:00384	Red Sea
+SCEDAT1:00397	Black Sea
+SCEDAT1:003aa	Med. Sea
+SCEDAT1:003bd	Baltic Sea
+SCEDAT1:003d0	North Sea
+SCEDAT1:003e3	Atlantic Ocean
+SCEDAT1:003f6	Sea of Japan
+SCEDAT1:00409	West Siberia
+SCEDAT1:0041c	Germany
+SCEDAT1:0042f	Italy
+SCEDAT1:00442	Iberia
+SCEDAT1:00455	Korea
+SCEDAT1:00468	Eastern Rus
+SCEDAT1:0047b	Turkestan
+SCEDAT1:0048e	Persia
+SCEDAT1:004a1	East Siberia
+SCEDAT1:004b4	Scandinavia
+SCEDAT1:004c7	Jeju
+SCEDAT1:004da	Taiwan
+SCEDAT1:004ed	Hainan
+SCEDAT1:00500	Philippines
+SCEDAT1:00513	Borneo
+SCEDAT1:00526	Sumatra
+SCEDAT1:00539	Ceylon
+SCEDAT1:0054c	Andaman
+SCEDAT1:0055f	Socotra
+SCEDAT1:00572	Cyprus
+SCEDAT1:00585	Crete
+SCEDAT1:00598	Euboea
+SCEDAT1:005ab	Sicily
+SCEDAT1:005be	Sardinia
+SCEDAT1:005d1	Corsica
+SCEDAT1:005e4	Gotland
+SCEDAT1:005f7	Majorca
+SCEDAT1:0060a	Ireland
+SCEDAT1:0061d	Zealand
+# SCEDAT1 countries (field 19 bytes = 18 chars)
+SCEDAT1:0062f	England
+SCEDAT1:00681	France
+SCEDAT1:006d3	Holy Rome
+SCEDAT1:00725	Castile
+SCEDAT1:00777	Sicily
+SCEDAT1:007c9	Venice
+SCEDAT1:0081b	Norway
+SCEDAT1:0086d	Poland
+SCEDAT1:008bf	Hungary
+SCEDAT1:00911	Kievan Rus
+SCEDAT1:00963	Byzantium
+SCEDAT1:009b5	Morocco
+SCEDAT1:00a07	Egypt
+SCEDAT1:00a59	Baghdad
+SCEDAT1:00aab	Khwarezm
+SCEDAT1:00afd	Western Liao
+SCEDAT1:00b4f	Ghor
+SCEDAT1:00ba1	India
+SCEDAT1:00bf3	Tibet
+SCEDAT1:00c45	Mongolia
+SCEDAT1:00c97	Jadaran
+SCEDAT1:00ce9	Kerait
+SCEDAT1:00d3b	Western Xia
+SCEDAT1:00d8d	Jin
+SCEDAT1:00ddf	Southern Song
+SCEDAT1:00e31	Ly
+SCEDAT1:00e83	Angkor
+SCEDAT1:00ed5	Goryeo
+SCEDAT1:00f27	Kamakura
+SCEDAT1:00f79	Hiraizumi
+# SCEDAT1 cities (field 21 bytes = 20 chars)
+SCEDAT1:00fcb	London
+SCEDAT1:01008	Paris
+SCEDAT1:01045	Cologne
+SCEDAT1:01082	Genoa
+SCEDAT1:010bf	Toledo
+SCEDAT1:010fc	Palermo
+SCEDAT1:01139	Venice
+SCEDAT1:01176	Krakow
+SCEDAT1:011b3	Pest
+SCEDAT1:011f0	Kiev
+SCEDAT1:0122d	Constantinople
+SCEDAT1:0126a	Marrakesh
+SCEDAT1:012a7	Tunis
+SCEDAT1:012e4	Cairo
+SCEDAT1:01321	Damascus
+SCEDAT1:0135e	Baghdad
+SCEDAT1:0139b	Samarkand
+SCEDAT1:013d8	Delhi
+SCEDAT1:01415	Calicut
+SCEDAT1:01452	Lhasa
+SCEDAT1:0148f	Balasagun
+SCEDAT1:014cc	Onon
+SCEDAT1:01509	Gorgonak
+SCEDAT1:01546	Xingqing
+SCEDAT1:01583	Huining
+SCEDAT1:015c0	Yanjing
+SCEDAT1:015fd	Lin'an
+SCEDAT1:0163a	Quanzhou
+SCEDAT1:01677	Kaesong
+SCEDAT1:016b4	Kamakura
+SCEDAT1:016f1	Ghor
+SCEDAT1:0172e	Hanoi
+SCEDAT1:0176b	Angkor
+SCEDAT1:017a8	Tola
+SCEDAT1:017e5	Nishapur
+SCEDAT1:01822	Dazaifu
+SCEDAT1:0185f	Kaifeng
+SCEDAT1:0189c	Dunhuang
+SCEDAT1:018d9	Kucha
+SCEDAT1:01916	Novgorod
+SCEDAT1:01953	Bergen
+SCEDAT1:01990	Hiraizumi
+# SCEDAT1 goods (field 11 bytes = 10 chars)
+SCEDAT1:019cd	Wine
+SCEDAT1:019e2	Olive Oil
+SCEDAT1:019f7	Sugar
+SCEDAT1:01a0c	Tea
+SCEDAT1:01a21	Spices
+SCEDAT1:01a36	Horses
+SCEDAT1:01a4b	Elephants
+SCEDAT1:01a60	Camels
+SCEDAT1:01a75	Salt
+SCEDAT1:01a8a	Furs
+SCEDAT1:01a9f	Silk Cloth
+SCEDAT1:01ab4	Wool Cloth
+SCEDAT1:01ac9	Cotton
+SCEDAT1:01ade	Celadon
+SCEDAT1:01af3	Porcelain
+SCEDAT1:01b08	Silverware
+SCEDAT1:01b1d	Glassware
+SCEDAT1:01b32	Copper
+SCEDAT1:01b47	Silver
+SCEDAT1:01b5c	Gold
+SCEDAT1:01b71	Incense
+SCEDAT1:01b86	Paintings
+SCEDAT1:01b9b	Tortoise
+SCEDAT1:01bb0	Amber
+SCEDAT1:01bc5	Coral
+SCEDAT1:01bda	Jade
+SCEDAT1:01bef	Pearls
+SCEDAT1:01c04	Ivory
+SCEDAT1:01c19	Timber
+SCEDAT1:01c2e	Herbs
+SCEDAT1:01c43	Iron
+# SCEDAT1 technologies (field 23 bytes = 22 chars)
+SCEDAT1:01c59	Two-Field System
+SCEDAT1:01c73	Three-Field System
+SCEDAT1:01c8d	Champa Rice
+SCEDAT1:01ca7	Qimin Yaoshu
+SCEDAT1:01cc1	Wheeled Plow
+SCEDAT1:01cdb	Seed Drill
+SCEDAT1:01cf5	Sheepdogs
+SCEDAT1:01d0f	Mongolian Cattle
+SCEDAT1:01d29	Merino Sheep
+SCEDAT1:01d43	Alfalfa
+SCEDAT1:01d5d	Horsemanship Manual
+SCEDAT1:01d77	Gunpowder
+SCEDAT1:01d91	Siege Tower
+SCEDAT1:01dab	Greek Fire
+SCEDAT1:01dc5	Crossbow
+SCEDAT1:01ddf	Catapult
+SCEDAT1:01df9	Thunder Crash Bomb
+SCEDAT1:01e13	Plate Armor
+SCEDAT1:01e2d	The Art of War
+SCEDAT1:01e47	De Re Militari
+SCEDAT1:01e61	Gallic War
+SCEDAT1:01e7b	Parallel Lives
+SCEDAT1:01e95	Hannibal's War
+SCEDAT1:01eaf	Epaminondas' Tactics
+SCEDAT1:01ec9	Jihad
+SCEDAT1:01ee3	Compass
+SCEDAT1:01efd	Lighthouse
+SCEDAT1:01f17	Astrolabe
+SCEDAT1:01f31	Astronomy
+SCEDAT1:01f4b	Astrology
+SCEDAT1:01f65	Stern Rudder
+SCEDAT1:01f7f	Lateen Sail
+SCEDAT1:01f99	Byzantine Architecture
+SCEDAT1:01fb3	Romanesque
+SCEDAT1:01fcd	Castle Architecture
+SCEDAT1:01fe7	Cave Temples
+SCEDAT1:02001	Shinden-zukuri
+SCEDAT1:0201b	Minarets
+SCEDAT1:02035	Woodblock Printing
+SCEDAT1:0204f	Movable Type Printing
+SCEDAT1:02069	Neo-Confucianism
+SCEDAT1:02083	Papermaking
+SCEDAT1:0209d	Arabic Numerals
+SCEDAT1:020b7	Algebra
+SCEDAT1:020d1	Liber Abaci
+SCEDAT1:020eb	Corpus Juris Civilis
+SCEDAT1:02105	Observatory
+SCEDAT1:0211f	Natural History
+SCEDAT1:02139	Longbow
+SCEDAT1:02153	Fresco Painting
+SCEDAT1:0216d	Icons
+SCEDAT1:02187	Picture Scrolls
+SCEDAT1:021a1	Mosaics
+SCEDAT1:021bb	Cloisonne
+SCEDAT1:021d5	Landscape Painting
+SCEDAT1:021ef	Khmer Art
+SCEDAT1:02209	Pipa
+SCEDAT1:02223	Erhu
+SCEDAT1:0223d	Sitar
+SCEDAT1:02257	Morin Khuur
+SCEDAT1:02271	Lute
+SCEDAT1:0228b	Balalaika
+SCEDAT1:022a5	Bagpipes
+SCEDAT1:022bf	The Canon of Medicine
+SCEDAT1:022d9	Pharmacology
+SCEDAT1:022f3	Surgery
+SCEDAT1:0230d	Shanghan Lun
+SCEDAT1:02327	Galen's Medical Works
+SCEDAT1:02341	Anatomy
+SCEDAT1:0235b	Ayurveda
+SCEDAT1:02375	Ishinpo
+SCEDAT1:0238f	Ginseng
+SCEDAT1:023a9	Miniatures
+SCEDAT1:023c3	Spinning Wheel
+SCEDAT1:023dd	Alchemy
+SCEDAT1:023f7	Chinese Alchemy
+SCEDAT1:02411	Ore Crusher
+SCEDAT1:0242b	Dream Pool Essays
+SCEDAT1:02445	Persian Carpets
+SCEDAT1:0245f	Indigo Dyeing
+# SCEDAT1 unit types (field 11 bytes = 10 chars)
+SCEDAT1:02478	Light Inf
+SCEDAT1:02488	Heavy Inf
+SCEDAT1:02498	Pikemen
+SCEDAT1:024a8	War Monks
+SCEDAT1:024b8	Vikings
+SCEDAT1:024c8	Assassins
+SCEDAT1:024d8	Crusaders
+SCEDAT1:024e8	Shortbows
+SCEDAT1:024f8	Longbowmen
+SCEDAT1:02508	Crossbows
+SCEDAT1:02518	Lancers
+SCEDAT1:02528	Shock Cav
+SCEDAT1:02538	Knights
+SCEDAT1:02548	H.Archers
+SCEDAT1:02558	Hunter Cav
+SCEDAT1:02568	Samurai
+SCEDAT1:02578	Mongol Cav
+SCEDAT1:02588	Camelry
+SCEDAT1:02598	Elephants
+SCEDAT1:025a8	Catapult
+SCEDAT1:025b8	Gunners
+SCEDAT1:025c8	Flamers
+SCEDAT1:025d8	Belfry
+# SCEDAT1 people (field 17 bytes = 16 chars)
+SCEDAT1:025ea	Yoritomo
+SCEDAT1:0261d	Yoshitsune
+SCEDAT1:02650	Benkei
+SCEDAT1:02683	Noriyori
+SCEDAT1:026b6	Hojo Tokimasa
+SCEDAT1:026e9	Hojo Yoshitoki
+SCEDAT1:0271c	Hojo Yasutoki
+SCEDAT1:0274f	Oe Hiromoto
+SCEDAT1:02782	Hatakeyama
+SCEDAT1:027b5	Zhangzong
+SCEDAT1:027e8	Wei Shaowang
+SCEDAT1:0281b	Yelu Ahai
+SCEDAT1:0284e	Yelu Chucai
+SCEDAT1:02881	Wanyan Fuxing
+SCEDAT1:028b4	Qiu Chuji
+SCEDAT1:028e7	Wanyan Husha
+SCEDAT1:0291a	Yelu Liuge
+SCEDAT1:0294d	Myeongjong
+SCEDAT1:02980	Yi Gyu-bo
+SCEDAT1:029b3	Choe Chung-heon
+SCEDAT1:029e6	Kim Gyeong-son
+SCEDAT1:02a19	Xiaozong
+SCEDAT1:02a4c	Zhao Dun
+SCEDAT1:02a7f	Shi Miyuan
+SCEDAT1:02ab2	Zhen Dexiu
+SCEDAT1:02ae5	Zhu Xi
+SCEDAT1:02b18	Jia Sidao
+SCEDAT1:02b4b	Cheng Dachang
+SCEDAT1:02b7e	Lu Xiangshan
+SCEDAT1:02bb1	Sakya Pandita
+SCEDAT1:02be4	Sangye
+SCEDAT1:02c17	Drakpa Gyaltsen
+SCEDAT1:02c4a	Genghis Khan
+SCEDAT1:02c7d	Jochi
+SCEDAT1:02cb0	Chagatai
+SCEDAT1:02ce3	Ogedei
+SCEDAT1:02d16	Batu
+SCEDAT1:02d49	Boorchu
+SCEDAT1:02d7c	Khasar
+SCEDAT1:02daf	Temuge
+SCEDAT1:02de2	Jelme
+SCEDAT1:02e15	Subutai
+SCEDAT1:02e48	Chilaun
+SCEDAT1:02e7b	Kublai
+SCEDAT1:02eae	Boroqul
+SCEDAT1:02ee1	Jamukha
+SCEDAT1:02f14	Taichar
+SCEDAT1:02f47	Jebe
+SCEDAT1:02f7a	Tayang Khan
+SCEDAT1:02fad	Kuchlug
+SCEDAT1:02fe0	Jurchedei
+SCEDAT1:03013	Quildar
+SCEDAT1:03046	Tata-tonga
+SCEDAT1:03079	Muqali
+SCEDAT1:030ac	Toghril Khan
+SCEDAT1:030df	Jakha Gambhu
+SCEDAT1:03112	Senggum
+SCEDAT1:03145	Bilge Beki
+SCEDAT1:03178	Qori Shilemun
+SCEDAT1:031ab	Alin Taishi
+SCEDAT1:031de	Todoyan
+SCEDAT1:03211	Chilku
+SCEDAT1:03244	Arslan Khan
+SCEDAT1:03277	Tegin Osal
+SCEDAT1:032aa	Renzong
+SCEDAT1:032dd	Li Renyou
+SCEDAT1:03310	Li Chunyou
+SCEDAT1:03343	Li Anquan
+SCEDAT1:03376	Muhammad Ghori
+SCEDAT1:033a9	Ghiyath al-Din
+SCEDAT1:033dc	Aibak
+SCEDAT1:0340f	Bakhtiyar Khilji
+SCEDAT1:03442	Qabacha
+SCEDAT1:03475	Yildiz
+SCEDAT1:034a8	Iltutmish
+SCEDAT1:034db	Chishti
+SCEDAT1:0350e	Balban
+SCEDAT1:03541	Jaichand
+SCEDAT1:03574	Kulottunga
+SCEDAT1:035a7	Ganapati
+SCEDAT1:035da	Ballala
+SCEDAT1:0360d	Raja
+SCEDAT1:03640	Muhammad
+SCEDAT1:03673	Jalal al-Din
+SCEDAT1:036a6	Yalavach
+SCEDAT1:036d9	Timur Malik
+SCEDAT1:0370c	Ahmad
+SCEDAT1:0373f	Inalchuq
+SCEDAT1:03772	Togai Khan
+SCEDAT1:037a5	Kumar Tegin
+SCEDAT1:037d8	Sultan Shah
+SCEDAT1:0380b	al-Nasir
+SCEDAT1:0383e	Yaqut
+SCEDAT1:03871	Ibn al-Athir
+SCEDAT1:038a4	al-Zahir
+SCEDAT1:038d7	Saladin
+SCEDAT1:0390a	al-Aziz
+SCEDAT1:0393d	al-Afdal
+SCEDAT1:03970	al-Adil
+SCEDAT1:039a3	al-Kamil
+SCEDAT1:039d6	Maimonides
+SCEDAT1:03a09	Ibn Arabi
+SCEDAT1:03a3c	al-Qifti
+SCEDAT1:03a6f	al-Mansur
+SCEDAT1:03aa2	Muhammad Nasir
+SCEDAT1:03ad5	Ibn Jubayr
+SCEDAT1:03b08	Ibn Rushd
+SCEDAT1:03b3b	Abu Bakr
+SCEDAT1:03b6e	Ibn al-Awwam
+SCEDAT1:03ba1	Isaac II
+SCEDAT1:03bd4	Alexios III
+SCEDAT1:03c07	Alexios IV
+SCEDAT1:03c3a	Mankaphas
+SCEDAT1:03c6d	Doukas
+SCEDAT1:03ca0	Bela III
+SCEDAT1:03cd3	Andrew II
+SCEDAT1:03d06	Bank Ban
+SCEDAT1:03d39	Stefan Nemanja
+SCEDAT1:03d6c	Vsevolod III
+SCEDAT1:03d9f	Alexander
+SCEDAT1:03dd2	Dmitry
+SCEDAT1:03e05	Prince Igor
+SCEDAT1:03e38	Yuri
+SCEDAT1:03e6b	Casimir II
+SCEDAT1:03e9e	Leszek
+SCEDAT1:03ed1	Duke of Gdansk
+SCEDAT1:03f04	Vladimir
+SCEDAT1:03f37	William II
+SCEDAT1:03f6a	Tancred
+SCEDAT1:03f9d	Michael Scot
+SCEDAT1:03fd0	Orio Mastropiero
+SCEDAT1:04003	Enrico Dandolo
+SCEDAT1:04036	St. Francis
+SCEDAT1:04069	Frederick I
+SCEDAT1:0409c	Henry VI
+SCEDAT1:040cf	Frederick II
+SCEDAT1:04102	Duke of Swabia
+SCEDAT1:04135	Leopold
+SCEDAT1:04168	Walther
+SCEDAT1:0419b	Albertus Magnus
+SCEDAT1:041ce	Otto
+SCEDAT1:04201	Azzo
+SCEDAT1:04234	Philip II
+SCEDAT1:04267	Louis VIII
+SCEDAT1:0429a	Louis IX
+SCEDAT1:042cd	Henry II
+SCEDAT1:04300	John of Brienne
+SCEDAT1:04333	Guy de Lusignan
+SCEDAT1:04366	Philip of Alsace
+SCEDAT1:04399	Villard
+SCEDAT1:043cc	Richard I
+SCEDAT1:043ff	John
+SCEDAT1:04432	Longchamp
+SCEDAT1:04465	Hubert Walter
+SCEDAT1:04498	Fitzpeter
+SCEDAT1:044cb	Dei Rossi
+SCEDAT1:044fe	Simon
+SCEDAT1:04531	Robin Hood
+SCEDAT1:04564	Alfonso VIII
+SCEDAT1:04597	Sancho
+SCEDAT1:045ca	St. Dominic
+SCEDAT1:045fd	Cao Tong
+SCEDAT1:04630	Hue Tong
+SCEDAT1:04663	Tran Thu Do
+SCEDAT1:04696	Jayavarman
+SCEDAT1:046c9	Samtac
+SCEDAT1:046fc	Jaka
+SCEDAT1:0472f	Theodorus
+SCEDAT1:04762	Prithviraj
+SCEDAT1:04795	Otomo Yoriyasu
+SCEDAT1:047c8	Adachi Yasumori
+SCEDAT1:047fb	Li Zhi
+SCEDAT1:0482e	Shi Tianze
+SCEDAT1:04861	al-Tusi
+SCEDAT1:04894	Saadi
+SCEDAT1:048c7	Rumi
+SCEDAT1:048fa	Ibn Khallikan
+SCEDAT1:0492d	Ahmad
+SCEDAT1:04960	al-Busiri
+SCEDAT1:04993	Ibn Said
+SCEDAT1:049c6	Henrik Koszegi
+SCEDAT1:049f9	Roger Bacon
+SCEDAT1:04a2c	Conrad
+SCEDAT1:04a5f	Guo Shoujing
+SCEDAT1:04a92	Juvayni
+SCEDAT1:04ac5	Sverre
+SCEDAT1:04af8	Haakon III
+SCEDAT1:04b2b	Snorri Sturluson
+SCEDAT1:04b5e	Yasuhira
+SCEDAT1:04b91	Kunihira
+SCEDAT1:04bc4	Conrad
+SCEDAT1:04bf7	Kumagai Naozane
+SCEDAT1:04c2a	Aja Gambu
+SCEDAT1:04c5d	Yelu Talie
+SCEDAT1:04c90	Sha Jun
+SCEDAT1:04cc3	Tekishi
+SCEDAT1:04cf6	Gao Yuanfu
+SCEDAT1:04d29	Roman
+SCEDAT1:04d5c	Volodislav
+SCEDAT1:04d8f	Hushahu
+SCEDAT1:04dc2	Chenheshang
+SCEDAT1:04df5	Nasu Yoichi
+SCEDAT1:04e28	Xiaoxin
+# SCEDAT1 consorts (field 17 bytes = 16 chars)
+SCEDAT1:04e5a	Berengaria
+SCEDAT1:04e72	Isabella
+SCEDAT1:04e8a	Beatrix
+SCEDAT1:04ea2	Berenguela
+SCEDAT1:04eba	Constance
+SCEDAT1:04ed2	Laura
+SCEDAT1:04eea	Jadwiga
+SCEDAT1:04f02	Anastasia
+SCEDAT1:04f1a	Yaroslavna
+SCEDAT1:04f32	Margit
+SCEDAT1:04f4a	Anis
+SCEDAT1:04f62	Safiya
+SCEDAT1:04f7a	Zubaida
+SCEDAT1:04f92	Tarub
+SCEDAT1:04faa	Puska
+SCEDAT1:04fc2	Shirin
+SCEDAT1:04fda	Losang
+SCEDAT1:04ff2	Borte
+SCEDAT1:0500a	Chaqa
+SCEDAT1:05022	Qiguo
+SCEDAT1:0503a	Empress Wu
+SCEDAT1:05052	Xuande
+SCEDAT1:0506a	Hojo Masako
+SCEDAT1:05082	Latchi
+SCEDAT1:0509a	Alan
+SCEDAT1:050b2	Zhaosheng
+SCEDAT1:050ca	Anmei
+SCEDAT1:050e2	Mumtaz
+SCEDAT1:050fa	Margrethe
+SCEDAT1:05112	Noriko
+SCEDAT1:0512a	Shizuka Gozen
+SCEDAT2:title	Blue Wolf Heirs
+SCEDAT2:intro	In the 13th century, the Mongol Empire that swept across Eurasia was divided among the heirs of Genghis Khan. Kublai Khan, who ruled China, renamed his state Yuan in the Chinese style and campaigned as far as Southeast Asia, Korea and Japan, aiming to rule all of Asia. In the west, the Mongols, the Islamic states and the Christian states formed a three-way standoff, advancing and retreating by turns. With Genghis Khan gone, Eurasia was about to plunge into chaos again.
+# SCEDAT2 regions/seas/islands (field 15 bytes = 14 chars)
+SCEDAT2:00208	Japan
+SCEDAT2:0021b	North China
+SCEDAT2:0022e	South China
+SCEDAT2:00241	Tibet
+SCEDAT2:00254	Mongolia
+SCEDAT2:00267	India
+SCEDAT2:0027a	Central Asia
+SCEDAT2:0028d	West Asia
+SCEDAT2:002a0	Egypt
+SCEDAT2:002b3	North Africa
+SCEDAT2:002c6	Balkans
+SCEDAT2:002d9	Western Rus
+SCEDAT2:002ec	France
+SCEDAT2:002ff	England
+SCEDAT2:00312	Pacific Ocean
+SCEDAT2:00325	East China Sea
+SCEDAT2:00338	S China Sea
+SCEDAT2:0034b	Bay of Bengal
+SCEDAT2:0035e	Southeast Asia
+SCEDAT2:00371	Arabian Sea
+SCEDAT2:00384	Red Sea
+SCEDAT2:00397	Black Sea
+SCEDAT2:003aa	Med. Sea
+SCEDAT2:003bd	Baltic Sea
+SCEDAT2:003d0	North Sea
+SCEDAT2:003e3	Atlantic Ocean
+SCEDAT2:003f6	Sea of Japan
+SCEDAT2:00409	West Siberia
+SCEDAT2:0041c	Germany
+SCEDAT2:0042f	Italy
+SCEDAT2:00442	Iberia
+SCEDAT2:00455	Korea
+SCEDAT2:00468	Eastern Rus
+SCEDAT2:0047b	Turkestan
+SCEDAT2:0048e	Persia
+SCEDAT2:004a1	East Siberia
+SCEDAT2:004b4	Scandinavia
+SCEDAT2:004c7	Jeju
+SCEDAT2:004da	Taiwan
+SCEDAT2:004ed	Hainan
+SCEDAT2:00500	Philippines
+SCEDAT2:00513	Borneo
+SCEDAT2:00526	Sumatra
+SCEDAT2:00539	Ceylon
+SCEDAT2:0054c	Andaman
+SCEDAT2:0055f	Socotra
+SCEDAT2:00572	Cyprus
+SCEDAT2:00585	Crete
+SCEDAT2:00598	Euboea
+SCEDAT2:005ab	Sicily
+SCEDAT2:005be	Sardinia
+SCEDAT2:005d1	Corsica
+SCEDAT2:005e4	Gotland
+SCEDAT2:005f7	Majorca
+SCEDAT2:0060a	Ireland
+SCEDAT2:0061d	Zealand
+# SCEDAT2 countries (field 19 bytes = 18 chars)
+SCEDAT2:0062f	England
+SCEDAT2:0067b	France
+SCEDAT2:006c7	Holy Rome
+SCEDAT2:00713	Castile
+SCEDAT2:0075f	Sicily
+SCEDAT2:007ab	Venice
+SCEDAT2:007f7	Norway
+SCEDAT2:00843	Poland
+SCEDAT2:0088f	Hungary
+SCEDAT2:008db	Rus
+SCEDAT2:00927	Byzantium
+SCEDAT2:00973	Morocco
+SCEDAT2:009bf	Tunis
+SCEDAT2:00a0b	Egypt
+SCEDAT2:00a57	Persia
+SCEDAT2:00aa3	Kipchak
+SCEDAT2:00aef	Chagatai
+SCEDAT2:00b3b	Ogedei
+SCEDAT2:00b87	Tibet
+SCEDAT2:00bd3	Yuan
+SCEDAT2:00c1f	Southern Song
+SCEDAT2:00c6b	Delhi
+SCEDAT2:00cb7	India
+SCEDAT2:00d03	Pagan
+SCEDAT2:00d4f	Tran
+SCEDAT2:00d9b	Goryeo
+SCEDAT2:00de7	Kamakura
+# SCEDAT2 cities (field 21 bytes = 20 chars)
+SCEDAT2:00e33	London
+SCEDAT2:00e70	Paris
+SCEDAT2:00ead	Cologne
+SCEDAT2:00eea	Genoa
+SCEDAT2:00f27	Toledo
+SCEDAT2:00f64	Naples
+SCEDAT2:00fa1	Venice
+SCEDAT2:00fde	Krakow
+SCEDAT2:0101b	Pest
+SCEDAT2:01058	Novgorod
+SCEDAT2:01095	Constantinople
+SCEDAT2:010d2	Marrakesh
+SCEDAT2:0110f	Tunis
+SCEDAT2:0114c	Tabriz
+SCEDAT2:01189	Cairo
+SCEDAT2:011c6	Damascus
+SCEDAT2:01203	Baghdad
+SCEDAT2:01240	Nishapur
+SCEDAT2:0127d	Samarkand
+SCEDAT2:012ba	Delhi
+SCEDAT2:012f7	Calicut
+SCEDAT2:01334	Lhasa
+SCEDAT2:01371	Sarai
+SCEDAT2:013ae	Almaliq
+SCEDAT2:013eb	Emil
+SCEDAT2:01428	Karakorum
+SCEDAT2:01465	Dadu
+SCEDAT2:014a2	Chengdu
+SCEDAT2:014df	Lin'an
+SCEDAT2:0151c	Quanzhou
+SCEDAT2:01559	Kaesong
+SCEDAT2:01596	Kamakura
+SCEDAT2:015d3	Pagan
+SCEDAT2:01610	Hanoi
+SCEDAT2:0164d	Dazaifu
+SCEDAT2:0168a	Kiev
+SCEDAT2:016c7	Xiangyang
+SCEDAT2:01704	Huining
+SCEDAT2:01741	Dunhuang
+SCEDAT2:0177e	Bergen
+SCEDAT2:017bb	Hiraizumi
+# SCEDAT2 goods (field 11 bytes = 10 chars)
+SCEDAT2:017f8	Wine
+SCEDAT2:0180d	Olive Oil
+SCEDAT2:01822	Sugar
+SCEDAT2:01837	Tea
+SCEDAT2:0184c	Spices
+SCEDAT2:01861	Horses
+SCEDAT2:01876	Elephants
+SCEDAT2:0188b	Camels
+SCEDAT2:018a0	Salt
+SCEDAT2:018b5	Furs
+SCEDAT2:018ca	Silk Cloth
+SCEDAT2:018df	Wool Cloth
+SCEDAT2:018f4	Cotton
+SCEDAT2:01909	Celadon
+SCEDAT2:0191e	Porcelain
+SCEDAT2:01933	Silverware
+SCEDAT2:01948	Glassware
+SCEDAT2:0195d	Copper
+SCEDAT2:01972	Silver
+SCEDAT2:01987	Gold
+SCEDAT2:0199c	Incense
+SCEDAT2:019b1	Paintings
+SCEDAT2:019c6	Tortoise
+SCEDAT2:019db	Amber
+SCEDAT2:019f0	Coral
+SCEDAT2:01a05	Jade
+SCEDAT2:01a1a	Pearls
+SCEDAT2:01a2f	Ivory
+SCEDAT2:01a44	Timber
+SCEDAT2:01a59	Herbs
+SCEDAT2:01a6e	Iron
+# SCEDAT2 technologies (field 23 bytes = 22 chars)
+SCEDAT2:01a84	Three-Field System
+SCEDAT2:01a9e	Four-Field System
+SCEDAT2:01ab8	Champa Rice
+SCEDAT2:01ad2	Qimin Yaoshu
+SCEDAT2:01aec	Wheeled Plow
+SCEDAT2:01b06	Chain Pump
+SCEDAT2:01b20	Agricultural Treatise
+SCEDAT2:01b3a	Seed Drill
+SCEDAT2:01b54	Sheepdogs
+SCEDAT2:01b6e	Merino Sheep
+SCEDAT2:01b88	Alfalfa
+SCEDAT2:01ba2	Cheese
+SCEDAT2:01bbc	Cashmere
+SCEDAT2:01bd6	Silkie Fowl
+SCEDAT2:01bf0	Gunpowder
+SCEDAT2:01c0a	Siege Tower
+SCEDAT2:01c24	Greek Fire
+SCEDAT2:01c3e	Fire-Oil Sprayer
+SCEDAT2:01c58	Catapult
+SCEDAT2:01c72	Huihui Cannon
+SCEDAT2:01c8c	Thunder Crash Bomb
+SCEDAT2:01ca6	Urban's Cannon
+SCEDAT2:01cc0	Plate Armor
+SCEDAT2:01cda	Longbow
+SCEDAT2:01cf4	Damascus Steel
+SCEDAT2:01d0e	Fire Dragon Rocket
+SCEDAT2:01d28	The Art of War
+SCEDAT2:01d42	De Re Militari
+SCEDAT2:01d5c	Song of Roland
+SCEDAT2:01d76	Parallel Lives
+SCEDAT2:01d90	Tournaments
+SCEDAT2:01daa	Shahnameh
+SCEDAT2:01dc4	Wujing Zongyao
+SCEDAT2:01dde	Compass
+SCEDAT2:01df8	Armillary Sphere
+SCEDAT2:01e12	Astrolabe
+SCEDAT2:01e2c	Astronomy
+SCEDAT2:01e46	World Map
+SCEDAT2:01e60	Astrology
+SCEDAT2:01e7a	Galley
+SCEDAT2:01e94	Yingzao Fashi
+SCEDAT2:01eae	Byzantine Architecture
+SCEDAT2:01ec8	Romanesque
+SCEDAT2:01ee2	Gothic Architecture
+SCEDAT2:01efc	Castle Architecture
+SCEDAT2:01f16	Dravidian Architecture
+SCEDAT2:01f30	Minarets
+SCEDAT2:01f4a	Woodblock Printing
+SCEDAT2:01f64	Movable Type Printing
+SCEDAT2:01f7e	Neo-Confucianism
+SCEDAT2:01f98	Papermaking
+SCEDAT2:01fb2	Summa Theologica
+SCEDAT2:01fcc	Marco Polo
+SCEDAT2:01fe6	Greek Philosophy
+SCEDAT2:02000	The Divine Comedy
+SCEDAT2:0201a	Phags-pa Script
+SCEDAT2:02034	Arabesque
+SCEDAT2:0204e	Venetian Glass
+SCEDAT2:02068	Icons
+SCEDAT2:02082	Picture Scrolls
+SCEDAT2:0209c	Mosaics
+SCEDAT2:020b6	Cloisonne
+SCEDAT2:020d0	Stained Glass
+SCEDAT2:020ea	Perfume
+SCEDAT2:02104	The Canon of Medicine
+SCEDAT2:0211e	Herbal Compendium
+SCEDAT2:02138	Surgery
+SCEDAT2:02152	Galen's Medical Works
+SCEDAT2:0216c	Anatomy
+SCEDAT2:02186	Ginseng
+SCEDAT2:021a0	Medical Aphorisms
+SCEDAT2:021ba	Salerno
+SCEDAT2:021d4	Crossbow
+SCEDAT2:021ee	Spinning Wheel
+SCEDAT2:02208	Eyeglasses
+SCEDAT2:02222	Alchemy
+SCEDAT2:0223c	Philosopher's Stone
+SCEDAT2:02256	Chinese Alchemy
+SCEDAT2:02270	On Diverse Arts
+SCEDAT2:0228a	Tripitaka Koreana
+# SCEDAT2 unit types (field 11 bytes = 10 chars)
+SCEDAT2:022a3	Light Inf
+SCEDAT2:022b3	Heavy Inf
+SCEDAT2:022c3	Pikemen
+SCEDAT2:022d3	War Monks
+SCEDAT2:022e3	Vikings
+SCEDAT2:022f3	Assassins
+SCEDAT2:02303	Crusaders
+SCEDAT2:02313	Shortbows
+SCEDAT2:02323	Longbowmen
+SCEDAT2:02333	Crossbows
+SCEDAT2:02343	Lancers
+SCEDAT2:02353	Shock Cav
+SCEDAT2:02363	Knights
+SCEDAT2:02373	H.Archers
+SCEDAT2:02383	Hunter Cav
+SCEDAT2:02393	Samurai
+SCEDAT2:023a3	Mongol Cav
+SCEDAT2:023b3	Camelry
+SCEDAT2:023c3	Elephants
+SCEDAT2:023d3	Catapult
+SCEDAT2:023e3	Gunners
+SCEDAT2:023f3	Flamers
+SCEDAT2:02403	Belfry
+# SCEDAT2 people (field 17 bytes = 16 chars)
+SCEDAT2:02415	Hojo Tokimune
+SCEDAT2:02448	Hojo Munemasa
+SCEDAT2:0247b	Hojo Sadatoki
+SCEDAT2:024ae	Shoni Sukeyoshi
+SCEDAT2:024e1	Otomo Yoriyasu
+SCEDAT2:02514	Takezaki Suenaga
+SCEDAT2:02547	Adachi Yasumori
+SCEDAT2:0257a	Wonjong
+SCEDAT2:025ad	Kim Bang-gyeong
+SCEDAT2:025e0	Kim Tong-jeong
+SCEDAT2:02613	Duzong
+SCEDAT2:02646	Jia Sidao
+SCEDAT2:02679	Wen Tianxiang
+SCEDAT2:026ac	Zhang Shijie
+SCEDAT2:026df	Lu Xiufu
+SCEDAT2:02712	Li Zhi
+SCEDAT2:02745	Kublai Khan
+SCEDAT2:02778	Bayan
+SCEDAT2:027ab	Ariq Qaya
+SCEDAT2:027de	Aju
+SCEDAT2:02811	Ahmad Fanakati
+SCEDAT2:02844	Shi Tianze
+SCEDAT2:02877	Hong Dagu
+SCEDAT2:028aa	Dorji
+SCEDAT2:028dd	Hugechi
+SCEDAT2:02910	Jingim
+SCEDAT2:02943	Kokochu
+SCEDAT2:02976	Toghon
+SCEDAT2:029a9	Guo Shoujing
+SCEDAT2:029dc	Kaidu
+SCEDAT2:02a0f	Shiregi
+SCEDAT2:02a42	Chapar
+SCEDAT2:02a75	Boraq
+SCEDAT2:02aa8	Masud Beg
+SCEDAT2:02adb	Duwa
+SCEDAT2:02b0e	Jamal
+SCEDAT2:02b41	Jalairtai
+SCEDAT2:02b74	Negubei
+SCEDAT2:02ba7	Mongke Temur
+SCEDAT2:02bda	Tuda Mongke
+SCEDAT2:02c0d	Tula Buqa
+SCEDAT2:02c40	Abaqa
+SCEDAT2:02c73	Tergai
+SCEDAT2:02ca6	Tekuder
+SCEDAT2:02cd9	Gaykhatu
+SCEDAT2:02d0c	Rashid al-Din
+SCEDAT2:02d3f	Juvayni
+SCEDAT2:02d72	al-Tusi
+SCEDAT2:02da5	Arghun
+SCEDAT2:02dd8	Saadi
+SCEDAT2:02e0b	Rumi
+SCEDAT2:02e3e	Phagspa
+SCEDAT2:02e71	Rinchen
+SCEDAT2:02ea4	Chakna
+SCEDAT2:02ed7	Thanh Tong
+SCEDAT2:02f0a	Tran Hung Dao
+SCEDAT2:02f3d	Tran Binh Trong
+SCEDAT2:02f70	Narathihapate
+SCEDAT2:02fa3	Kyawswa
+SCEDAT2:02fd6	Ban Mueang
+SCEDAT2:03009	Balban
+SCEDAT2:0303c	Amir Khusrau
+SCEDAT2:0306f	Kaiqubad
+SCEDAT2:030a2	Jalal Khalji
+SCEDAT2:030d5	Maravarman
+SCEDAT2:03108	Ramachandra
+SCEDAT2:0313b	Narasimha
+SCEDAT2:0316e	Baybars
+SCEDAT2:031a1	Baraka
+SCEDAT2:031d4	Salamish
+SCEDAT2:03207	Ibn Khallikan
+SCEDAT2:0323a	Ibn Taymiyya
+SCEDAT2:0326d	Ahmad
+SCEDAT2:032a0	al-Muntasir
+SCEDAT2:032d3	al-Busiri
+SCEDAT2:03306	Ibn Said
+SCEDAT2:03339	Abu Yaqub
+SCEDAT2:0336c	Yusuf
+SCEDAT2:0339f	Yaghmurasan
+SCEDAT2:033d2	Ibn Battuta
+SCEDAT2:03405	Yaroslav III
+SCEDAT2:03438	Vasily
+SCEDAT2:0346b	Prince Daniel
+SCEDAT2:0349e	Boleslaw V
+SCEDAT2:034d1	Henryk
+SCEDAT2:03504	Gediminas
+SCEDAT2:03537	Stephen V
+SCEDAT2:0356a	Ladislaus IV
+SCEDAT2:0359d	Henrik Koszegi
+SCEDAT2:035d0	Michael VIII
+SCEDAT2:03603	Andronikos
+SCEDAT2:03636	Akropolites
+SCEDAT2:03669	Pachymeres
+SCEDAT2:0369c	Maximus
+SCEDAT2:036cf	Tiepolo
+SCEDAT2:03702	Marco Polo
+SCEDAT2:03735	Monte Corvino
+SCEDAT2:03768	Pietro d'Abano
+SCEDAT2:0379b	Charles I
+SCEDAT2:037ce	Charles II
+SCEDAT2:03801	Herbert
+SCEDAT2:03834	Roger de Lauria
+SCEDAT2:03867	Rudolf I
+SCEDAT2:0389a	Albrecht
+SCEDAT2:038cd	Adolf
+SCEDAT2:03900	Heinrich
+SCEDAT2:03933	Conrad
+SCEDAT2:03966	Wenceslas II
+SCEDAT2:03999	Ottokar II
+SCEDAT2:039cc	Philip III
+SCEDAT2:039ff	Philip IV
+SCEDAT2:03a32	Thomas Aquinas
+SCEDAT2:03a65	Nogaret
+SCEDAT2:03a98	Pierre
+SCEDAT2:03acb	Henry III
+SCEDAT2:03afe	Earl of Cornwall
+SCEDAT2:03b31	Edward I
+SCEDAT2:03b64	Duns Scotus
+SCEDAT2:03b97	Roger Bacon
+SCEDAT2:03bca	William Wallace
+SCEDAT2:03bfd	Alfonso X
+SCEDAT2:03c30	Pedro III
+SCEDAT2:03c63	Ramon Llull
+SCEDAT2:03c96	Manuel
+SCEDAT2:03cc9	Guido
+SCEDAT2:03cfc	Ashikaga Takauji
+SCEDAT2:03d2f	Nitta Yoshisada
+SCEDAT2:03d62	Masashige
+SCEDAT2:03d95	Zhu Yuanzhang
+SCEDAT2:03dc8	Bayezid
+SCEDAT2:03dfb	Timur
+SCEDAT2:03e2e	John Ball
+SCEDAT2:03e61	Wat Tyler
+SCEDAT2:03e94	Sigismund
+SCEDAT2:03ec7	Stefan Dusan
+SCEDAT2:03efa	Yi Seong-gye
+SCEDAT2:03f2d	Guillaume Cale
+SCEDAT2:03f60	Ibn Khaldun
+SCEDAT2:03f93	Qalawun
+SCEDAT2:03fc6	Magnus VI
+SCEDAT2:03ff9	Eric II
+SCEDAT2:0402c	Haakon V
+SCEDAT2:0405f	Sturla
+SCEDAT2:04092	Taira Yoritsuna
+SCEDAT2:040c5	Shoni Kagesuke
+SCEDAT2:040f8	Lu Wenhuan
+SCEDAT2:0412b	Zhang Hongfan
+SCEDAT2:0415e	Toqta
+SCEDAT2:04191	Nogai
+# SCEDAT2 consorts (field 17 bytes = 16 chars)
+SCEDAT2:041c3	Elena
+SCEDAT2:041db	Clementia
+SCEDAT2:041f3	Mechthild
+SCEDAT2:0420b	Eleanor
+SCEDAT2:04223	Marguerite
+SCEDAT2:0423b	Angela
+SCEDAT2:04253	Kunigunda
+SCEDAT2:0426b	Erzsebet
+SCEDAT2:04283	Anna
+SCEDAT2:0429b	Theodora
+SCEDAT2:042b3	Aziha
+SCEDAT2:042cb	Itimad
+SCEDAT2:042e3	Shara
+SCEDAT2:042fb	Despina
+SCEDAT2:04313	Sansarma
+SCEDAT2:0432b	Orghana
+SCEDAT2:04343	Aigiaruc
+SCEDAT2:0435b	Peisa
+SCEDAT2:04373	Chabi
+SCEDAT2:0438b	Shuntian
+SCEDAT2:043a3	Donia
+SCEDAT2:043bb	Kamala
+SCEDAT2:043d3	Atulatiri
+SCEDAT2:043eb	Xianying
+SCEDAT2:04403	Guangming
+SCEDAT2:0441b	Horiuchi
+SCEDAT2:04433	Ingeborg

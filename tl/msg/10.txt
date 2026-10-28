@@ -1,0 +1,186 @@
+@10000
+Wine
+
+@10001
+Liquor made by fermenting grapes. Widely spread across Europe in Roman times. In the Middle Ages it was consumed for church rites and noble feasts.
+
+@10002
+Olive Oil
+
+@10003
+Oil pressed from the olive, a fruit native to the eastern Mediterranean. Greece and others are the main producers. Used for cooking, lamps and many other purposes.
+
+@10004
+Sugar
+
+@10005
+Prized as a medicine in the Middle Ages. From the 17th century, when large-scale production began in the New World, it spread to common people along with tea drinking.
+
+@10006
+Tea
+
+@10007
+Picked leaves of a tree of the camellia family. Drunk in China since before the Common Era, and reached Europe in the 17th century. Today there are green, black and Chinese teas.
+
+@10008
+Spices
+
+@10009
+Fruits and seeds of plants such as pepper and mustard. Used in medicine and to preserve food, and later as seasoning. Traded at especially high prices in Europe.
+
+@10010
+Horses
+
+@10011
+Used for farm work, transport and as weapons of war. In the relay system Genghis Khan spread across his vast domain, tens of thousands of horses carried news swiftly.
+
+@10012
+Elephants
+
+@10013
+Used as "chariots" in ancient Rome, and in battle in India and Southeast Asia. Also used as labor, and their tusks fetch high prices as ornaments.
+
+@10014
+Camels
+
+@10015
+First domesticated in Arabia and Iran, then spread across the Middle East. Slower than horses, but hardy in harsh lands, so they served as transport and weapons in the deserts.
+
+@10016
+Salt
+
+@10017
+Used as food and to preserve food. A precious commodity since ancient times; in China successive dynasties held a monopoly on it and kept the profits.
+
+@10018
+Furs
+
+@10019
+Tanned animal skins. Northern Europe is the main producer. Made into bags, shoes and clothing. Highly prized, they became a symbol of the wealth of the powerful.
+
+@10020
+Silk Cloth
+
+@10021
+Cloth woven from silkworm cocoon thread. Its beautiful sheen made it a symbol of the authority of the powerful. Exported in bulk from China to Europe along the route called the "Silk Road."
+
+@10022
+Wool Cloth
+
+@10023
+Cloth woven from sheep's wool. The main clothing of medieval Europe. Made in Flanders and England.
+
+@10024
+Cotton Cloth
+
+@10025
+Cloth woven from cotton thread. India is the main producer. Very durable, it spread throughout the world.
+
+@10026
+Celadon
+
+@10027
+Porcelain with a blue or green tint. Invented in China. Many masterpieces come from the Song and Goryeo.
+
+@10028
+Porcelain
+
+@10029
+Made mainly in China, and flourished especially under the Song. Kiln towns such as Jingdezhen prospered, and the wares were exported to the Islamic world and Europe, prized by kings and nobles.
+
+@10030
+Silverware
+
+@10031
+Used in the Middle Ages for rites and toasts. In Europe it went into relics such as chalices and crosses.
+
+@10032
+Glassware
+
+@10033
+The Middle East is the main producer. Serious production began in places like Sassanid Persia. Later the wares of Venice, which learned the craft from Middle Eastern artisans, became famous.
+
+@10034
+Copper
+
+@10035
+Pure copper is too soft to be a good material, so it is often mixed with tin to make bronze. It can also be mixed with zinc to make brass.
+
+@10036
+Silver
+
+@10037
+Used for coins, jewelry and tableware. Mined in places like Augsburg in southern Germany. Until the New World was found it was always scarce, which spurred the growth of alchemy.
+
+@10038
+Gold
+
+@10039
+For its beauty and permanence, used worldwide for ornaments and coins. Before the New World was found, Africa was the main source, and Japan also exported it to China.
+
+@10040
+Perfume
+
+@10041
+Substances that give off a pleasant scent. Their history is old, and use began with the birth of civilization. Their fragrance intoxicates, and was often used in religious rites.
+
+@10042
+Paintings
+
+@10043
+In Europe most are on religious themes, and Byzantine icons have high artistic value. They did not develop in the Islamic world, which forbids idol worship.
+
+@10044
+Tortoiseshell
+
+@10045
+Made from the shell plates of the hawksbill turtle, and used for combs, hair ornaments and knife handles. Liked as an ornament and sold dear, so great numbers of hawksbills were caught.
+
+@10046
+Amber
+
+@10047
+Fossilized pine resin. Found mainly along the Baltic coast. Popular since antiquity for necklaces and other jewelry; in Japan it was worked into magatama beads.
+
+@10048
+Coral
+
+@10049
+The grown skeleton of coral polyps. Found mainly in tropical seas. Prized as a gem of the sea. Made into necklaces and other ornaments, and carved into small sculptures and reliefs.
+
+@10050
+Jade
+
+@10051
+A green gemstone, prized mainly in the East. By hardness there are two kinds, jadeite and nephrite. Jadeite is used as a gem, nephrite as material for ornaments.
+
+@10052
+Pearls
+
+@10053
+Lustrous beads taken from the pearl oyster. Gathered in Southeast Asia and Ceylon. Used in jewelry since the ancient Orient, and also prized ground into powder as medicine.
+
+@10054
+Ivory
+
+@10055
+The large upper tusks of the elephant. Prized for its beauty and ease of working, as a material for earrings, jewelry and carvings.
+
+@10056
+Timber
+
+@10057
+Used as a daily necessity for houses, tools, ships and fuel. In Europe, northern Europe produced it, and it was a main trade good of the Hanseatic League.
+
+@10058
+Herbal Drugs
+
+@10059
+Medicinal herbs and prescriptions used in Chinese medicine. Established in the Three Kingdoms and Six Dynasties period. Herbs are mostly plants, but about 15% of the ingredients are animals, minerals and the like.
+
+@10060
+Iron
+
+@10061
+Cheaper and stronger than bronze, so used for farm tools and weapons. The Middle East excelled at smithing, and the swords made in Damascus cut better than any other.
+

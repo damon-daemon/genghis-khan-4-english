@@ -1,0 +1,312 @@
+@31001
+There is no princess available for marriage.
+
+@31002
+There is no general available for marriage.
+
+@31003
+From now on I will serve {02850201} with {0210}, harder than ever.
+
+@31004
+Father, thank you for all your care over the years. I will surely be happy with Lord {021e0201}.
+
+@31004.1
+Father, thank you for raising me. From now on I will live together with my husband.
+
+@31004.2
+Father... Please do not be lonely when I am married. I will surely be happy.
+
+@31005
+There is no general to dismiss.
+
+@31006
+Do it
+
+@31007
+So my service was not enough... Farewell...
+
+@31007.1
+I cannot understand your thinking, {C6}. Dismissed so suddenly... what am I to do from tomorrow?
+
+@31007.2
+How heartless. So I am of no use to you now. I suppose I will look for another post...
+
+@31007.3
+I had no time to prove my loyalty, and this is the thanks I get. I cannot go on like this.
+
+@31008
+Why must this happen to me? I have been loyal to you...
+
+@31008.1
+So all my loyal service meant nothing.
+
+@31009
+A banquet cannot be held without a consort or a general.
+
+@31010
+There is not enough gold to pay for a banquet.
+
+@31011
+A banquet cannot be held unless the ruler is in a city.
+
+@31012
+The ruler has already acted.
+
+@31013
+Old friend, my daughters have grown up lovely, have they not?
+
+@31013.1
+Old friend, is there none among my daughters who pleases you?
+
+@31014
+Yes, they have all grown up beautiful. Wherever they marry, they will be a consort to be proud of.
+
+@31014.1
+All the women of {02850202} are beautiful. I could never choose.
+
+@31014.2
+Well, actually... I have long admired Lord {0210}...
+
+@31014.3
+They say all through the town that Lord {0210} is a beautiful person.
+
+@31014.4
+If I may say so, Lord {0210} is the most popular among my comrades.
+
+@31014.5
+Forgive me, but there is someone I have already set my heart on.
+
+@31014.6
+I wondered what you would ask... I cannot speak of such things...
+
+@31014.7
+I live on the battlefield. Forgive me, but I have no interest in women.
+
+@31015
+Old friend, what should our nation aim for from now on?
+
+@31015.1
+Old friend, how do you see the future of {02850201}?
+
+@31015.2
+Old friend, what course should our nation take now?
+
+@31016
+{C7}, what should {02860201} aim for from now on?
+
+@31016.1
+{C7}, what course should {02860201} take now?
+
+@31017
+First, expand the cities and secure enough housing for many people to live in.
+
+@31017.1
+Funds seem to be running short. How about developing the towns to end that worry?
+
+@31017.2
+I am uneasy about our food stores. How about increasing the fields and pastures?
+
+@31017.3
+Our troops are too few. We should build more villages and put effort into raising soldiers.
+
+@31017.4
+A nation cannot be governed without talent. How about recruiting people actively?
+
+@31017.5
+Ally with the far, attack the near. How about sending envoys to ally with distant nations?
+
+@31017.6
+There is only war! Leave the vanguard to me and I will surely win a great victory.
+
+@31017.7
+Our nation is still small. We must build up our strength through domestic affairs.
+
+@31017.8
+Removing one harm matters more than bringing one benefit. Forget expeditions and strengthen the home front.
+
+@31017.9
+Expanding our territory requires expeditions. But we should refrain from needless slaughter.
+
+@31017.10
+It is a banquet, so let us not be stiff. Let us make it a lively one!
+
+@31017.11
+Let us work to spread the Lama faith. Then happiness will come to the people as well.
+
+@31017.12
+Spread Christianity. Let as many people as possible learn the teachings of the Bible.
+
+@31017.13
+Only by having children and raising fine heirs will the nation's future be bright. Hold more banquets!
+
+@31017.14
+You should also tour your domain on your own two feet.
+
+@31017.15
+If we develop our culture, the nation will prosper, and the people's lives will prosper even more.
+
+@31017.16
+The first strike wins! The way to win a war is to attack before other nations build their strength!
+
+@31018
+If we develop our culture, the nation will prosper, and the people's lives will prosper even more.
+
+@31018.1
+The first strike wins! The way to win a war is to attack before other nations build their strength!
+
+@31019
+Old friend, what do you do with your days of rest?
+
+@31020
+{C7}, how have you been lately?
+
+@31021
+Old as I am, I cannot rest all the time. I look after my grandchildren.
+
+@31021.1
+I hear the biwa is in fashion lately, so I mean to learn it when I find the time.
+
+@31021.2
+I think it helps in commanding troops, so I go hawking and the like.
+
+@31021.3
+I read the stars to divine this nation's future.
+
+@31021.4
+I have been tired lately, so I put rest first.
+
+@31021.5
+I am a person with no hobbies at all. There is nothing worth mentioning.
+
+@31021.6
+There is much I want to do, but I can hardly find the time.
+
+@31022
+On sunny days I till my own field, and on rainy days I spend my time reading.
+
+@31022.1
+I sweat on my brow beside the farmers and learn about building a nation.
+
+@31022.2
+I tour many markets and study trade.
+
+@31022.3
+I visit the old ruins of {02860201} to study architecture.
+
+@31022.4
+I sometimes stay up all night arguing with scholars about how to develop culture.
+
+@31022.5
+To sharpen my eye for people, I try to meet all kinds of them.
+
+@31022.6
+Lately I am absorbed in the Kokin Wakashu. Poetry does soothe the heart.
+
+@31022.7
+I spend my days reading at leisure.
+
+@31023
+For discipline of body and mind, I stand under a waterfall day and night.
+
+@31023.1
+I drill with the naginata to prepare for the coming war.
+
+@31023.2
+I am studying martial arts. Shall I teach you too, {C31000}?
+
+@31023.3
+The other day I trained my body at sumo. For a man, hunting and sumo are the finest pastimes.
+
+@31023.4
+Lately I have been reading the Tales of King Arthur. I would love to win glory like the Knights of the Round Table.
+
+@31023.5
+I am drilling the troops. My speed in commanding them is getting sharper.
+
+@31023.6
+I am drilling the troops. On the battlefield I will win a great victory with a charge.
+
+@31023.7
+I am training in archery. With the bow, I will yield to no one on the battlefield.
+
+@31023.8
+I am studying siege warfare. I will take any castle, however strong.
+
+@31023.9
+There is no telling when war will come, so I keep my body trained every day.
+
+@31024
+To sharpen my eye for people, I try to meet all kinds of them.
+
+@31024.1
+So as not to be shamed when I serve as an envoy, I go to the {C31025} to learn etiquette.
+
+@31024.2
+I am studying fire tactics for the battlefield. With fire I will do enormous damage to the enemy camp.
+
+@31024.3
+I am studying surprise attacks. I will strike the enemy with an ambush.
+
+@31024.4
+I am studying the thought of the Hundred Schools. I would like to become a great strategist like Sun Tzu.
+
+@31024.5
+To gain a broad education, I have books from many lands sent to me and read them.
+
+@31025
+temple
+
+@31025.1
+temple
+
+@31025.2
+temple
+
+@31025.3
+mosque
+
+@31025.4
+church
+
+@31025.5
+church
+
+@31025.6
+temple
+
+@31026
+Still, it has been a long time. I feel much better for talking with you, {C6}.
+
+@31026.1
+It was good to talk with {C7}. It feels as if the weight on my heart has lifted.
+
+@31027
+Oh, yes! Tonight let us read the stars to divine the fortune of Queen {0288021a}.
+
+@31028
+Have {0288021a}'s fortune told?
+
+@31029
+Oh! This is... Lady {0288021a} seems blessed with a child!
+
+@31030
+Oh! How happy I am!
+
+@31031
+I see... what a pity.
+
+@31032
+{C6}, tonight let us compose a poem in praise of Queen {0288021a}.
+
+@31033
+Oh, beautiful queen, Lady {0288021a}... Beside the throne you stand, like the Holy Mother herself...
+
+@31033.1
+Oh, beautiful queen, Lady {0288021a}, gentle as an angel... Like the goddess of victory, lead us on...
+
+@31033.2
+Oh, lovely queen, Lady {0288021a}, beautiful as a goddess... A thousand fine phrases strung together could never praise your form enough...
+
+@31034
+Oh! What a lovely poem, fit for me.
+

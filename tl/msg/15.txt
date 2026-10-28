@@ -1,0 +1,150 @@
+@15000
+King of England, called "the Lionheart" for his deeds on crusade and in the wars with France. He neglected domestic rule and wasted the treasury.
+
+@15001
+King of England. He lost war after war to France and imposed heavy taxes, provoking a revolt of the barons. He was forced to accept Magna Carta.
+
+@15002
+Chief Justiciar of England. While King Richard I was away on crusade, he ran the government. His tyranny provoked a revolt of the other barons, and he fled abroad.
+
+@15003
+Served King Richard I of England and handled the finances in his absence. He struggled to raise the enormous war costs and worked to make taxation fair.
+
+@15004
+Chief Justiciar of England. He assisted King John in administration.
+
+@15005
+Chief Justiciar of England. He served King John. He earned the barons' hatred and brought on the civil strife that led to Magna Carta.
+
+@15006
+French-born English noble. He opposed the despotic Henry III. To resist him he rallied the opposition and laid the foundation of today's English Parliament.
+
+@15007
+English earl. Stripped of his title for breaking the law, he became an outlaw hero based in Sherwood Forest. He is said to have robbed arrogant nobles and given to the poor.
+
+@15008
+King of Castile. He allied with Aragon and defeated the Muslim Almohads. He established the superiority of the Christian kingdoms in Spain.
+
+@15009
+King of Portugal, called "the Colonizer" for the many towns he founded on land taken from the Muslims. He promoted agriculture and the state's finances.
+
+@15010
+Founder of the Christian Dominican order. He is said to have given up all his property for the poor in a famine. The order later became very powerful.
+
+@15011
+Seventh emperor of Ly Vietnam. His unreasonable rule led to frequent rebellions. He sealed the decline of the dynasty.
+
+@15012
+Son of Cao Tong, seventh emperor of Ly Vietnam. He took the throne after his father's death.
+
+@15013
+Powerful lord of Ly Vietnam and founder of the Tran dynasty. Holding real power in the Ly court, he deposed Emperor Chieu Hoang and enthroned his nephew.
+
+@15014
+King of the Khmer Empire in Cambodia. He built many temples and hospitals, including Angkor Thom, and defeated the Cham armies, bringing the dynasty to its height.
+
+@15015
+Son of Jayavarman, king of the Khmer Empire.
+
+@15016
+Khmer official. He served Jayavarman.
+
+@15017
+Byzantine imperial kinsman. When the capital fell to the crusaders he fled to Nicaea, fought both crusaders and Muslims, and helped restore the empire.
+
+@15018
+King of the Chahamana dynasty of northern India. He once repulsed the invasion of the Ghurids, but was crushed at the Battle of Tarain, captured and executed.
+
+@15019
+Kamakura Shogunate's Governor of Chinzei. With Shoni Sukeyoshi he defended Kyushu in the Mongol invasions, and afterward settled in Bungo as a local magnate.
+
+@15020
+Kamakura warrior and Councilor. He married his daughter to Hojo Tokimune and wielded power as a maternal relative, but lost to Taira Yoritsuna and his clan perished.
+
+@15021
+Mathematician of the early Yuan. He served the Jin, retired after the Mongols destroyed it, and contributed to algebra, leaving Sea Mirror of Circle Measurements.
+
+@15022
+General and statesman of the Yuan. A magnate of Hebei, he surrendered early to the Mongols and, trusted by Kublai Khan, rose to a great Han warlord house.
+
+@15023
+Astronomer from Iran. With the support of Hulagu, ruler of the Ilkhanate, he built a great observatory. Learned beyond astronomy, he revived Islamic scholarship.
+
+@15024
+Iranian poet. After studying in Baghdad he wandered the lands for thirty years as a begging dervish. His Bustan and Gulistan are masterpieces of life lessons.
+
+@15025
+Iranian lyric poet. He left a masterpiece collection of poems founded on Islamic mysticism, and founded the Mevlevi order of dervishes with its whirling dance.
+
+@15026
+Islamic man of letters. He wrote biographies of Muslims. He served as chief judge of Syria under the Mamluks.
+
+@15027
+Muslim saint. A follower of Sufism (mysticism), he was active in Egypt.
+
+@15028
+Islamic poet. From a dream he saw while in a coma after a stroke, he wrote the long poem "The Mantle of the Prophet."
+
+@15029
+Arab historian and geographer. He served al-Muntasir of the Hafsids in Tunis and wrote geographical works such as The Extent of the Earth in Length and Breadth.
+
+@15030
+Governor in Hungary. He carried off the crown prince Ladislaus and rose against King Stephen. He was defeated and killed by the army of the Csak family of magnates.
+
+@15031
+English scholastic, called "the Wonderful Doctor." Versed in natural science, he is credited as the first in Europe to discover gunpowder and invent the magnifying glass.
+
+@15032
+German poet. Outstanding among the poets of medieval Germany, his flowing style greatly influenced later poetry.
+
+@15033
+Scientist of the Yuan and the greatest figure in Chinese scientific history. He drew up the Shoushi calendar with the armillary sphere and oversaw digging the Grand Canal.
+
+@15034
+Historian of the Ilkhanate. After serving as Hulagu's secretary, he was made governor of Baghdad. His History of the World Conqueror is a precious source on the Mongols.
+
+@15035
+King of Norway. He held down the power of the nobles and the Church to gain the upper hand, and pushed forward a policy of centralization.
+
+@15036
+Son of King Sverre of Norway. He succeeded his father after his death.
+
+@15037
+Poet from Iceland. He served the Norwegian royal house. He compiled the Edda, an epic based on Norse mythology.
+
+@15038
+Eighth Regent of the Kamakura Shogunate, bold and skilled in martial arts. He rejected Kublai Khan's demand for submission and turned back both Mongol invasions.
+
+@15039
+Younger brother of Hojo Tokimune. In the Kamakura Shogunate he was Councilor and Governor of Chikugo, and with his brother met the crisis of foreign invasion.
+
+@15040
+Son of Hojo Tokimune and ninth Regent of the Kamakura Shogunate. He cancelled the vassals' debts with the "Einin Edict of Virtuous Rule," but it only disordered the economy.
+
+@15041
+Governor of Chinzei and supreme commander of Kyushu's defense for the Kamakura Shogunate. He led the defenders against the Mongols and died of a wound.
+
+@15042
+Warrior who distinguished himself in the Mongol invasions. He leapt aboard enemy ships and took heads, as recorded in the Illustrated Scroll of the Mongol Invasion.
+
+@15043
+Twenty-fourth king of Goryeo. When the military regime fell to the Mongols he regained real power, made peace with them and moved the capital back to Kaesong.
+
+@15044
+General of Goryeo. He put down the Sambyeolcho army's rebellion against peace with the Mongols, and joined the Mongol expedition to Japan, but was beaten back.
+
+@15045
+Leader of the Sambyeolcho army. He resisted the Mongol conquest of Goryeo, attacking Mongol shipyards and transports and hampering the expedition to Japan.
+
+@15046
+Sixth emperor of the Southern Song. A puppet ruler of the chancellor Jia Sidao. Even as the Mongol invasion made matters grave, he was never told the truth.
+
+@15047
+Last chancellor of the Southern Song. Even after its fall he raised a loyalist army and resisted the Mongols. Captured by them, he refused office and was executed.
+
+@15048
+General of the late Southern Song. Even after the Song fell at the Battle of Yamen, he kept resisting the Mongols, hoping to rise again. He drowned in a storm.
+
+@15049
+Minister of the late Southern Song. He resisted the Mongols with Zhang Shijie. When the Song army was destroyed at Yamen, he leapt into the sea holding the child emperor.
+

@@ -1,0 +1,312 @@
+@34000
+London
+
+@34001
+A city in England. Founded by the Romans in the 1st century. It became the capital of the Anglo-Saxon kingdom in the 9th century and has been the political and economic center of Britain ever since.
+
+@34002
+Paris
+
+@34003
+A city in France. The Romans built it on a village founded by the Celts. Made the capital under the Capetian dynasty, it grew in population and became one of the largest cities in western Europe.
+
+@34004
+Cologne
+
+@34005
+A city on the Rhine in western Germany. A crossroads of trade routes, it grew greatly after Roman times. An archbishopric was set up there in the Frankish era, making it one of the greatest religious centers in Germany.
+
+@34006
+Genoa
+
+@34007
+An independent city-state in northwest Italy. It expanded its eastern trade during the Crusades and reached its peak in the 13th century, but fell into decline after defeat by its old rival Venice.
+
+@34008
+Toledo
+
+@34009
+A city in central Spain. Once the capital of the Visigothic kingdom, it fell to Muslim forces in the 8th century. Castile, a Christian power, retook it in the 11th century and made it the capital.
+
+@34010
+Palermo
+
+@34011
+A city on the northwest coast of Sicily and capital of the Kingdom of the Two Sicilies. Ruled in turn by Byzantines, Muslims and Normans, it developed a rich and varied culture.
+
+@34012
+Venice
+
+@34013
+A port city in northeast Italy. Once a Byzantine dependency, it became independent as a city republic. It won a monopoly on trade through the Crusades and grew until it was hailed as "Queen of the Adriatic."
+
+@34014
+Krakow
+
+@34015
+A city in southern Poland, the political and cultural center of the Polish kingdom. A university was founded under Casimir the Great in the 14th century, and it produced scholars such as Copernicus, who proposed the heliocentric theory.
+
+@34016
+Pest
+
+@34017
+A city on the east bank of the Danube in north-central Hungary. Built by the Romans, it later became a central city of the Hungarian kingdom. In the 19th century it was joined with Buda on the west bank to form Budapest.
+
+@34018
+Kiev
+
+@34019
+A city in north-central Ukraine. It became the capital of the Kievan Rus in the 9th century and flourished by adopting Byzantine culture, but fell under Mongol rule in the 13th century.
+
+@34020
+Constantinople
+
+@34021
+A city in western Turkey, today's Istanbul. Since becoming the capital of the Eastern Roman Empire, it prospered as the greatest city in Europe. At its height its population is said to have reached 500,000.
+
+@34022
+Marrakesh
+
+@34023
+A city in western Morocco, North Africa. It became the capital of the Almohads in the 12th century. It thrived as a base of the Sahara trade, and many mosques were built there.
+
+@34024
+Tunis
+
+@34025
+A city in northern Tunisia. Together with neighboring Carthage, it was founded by the Phoenicians. It was made the capital in the age of the Hafsids.
+
+@34026
+Cairo
+
+@34027
+A city in Egypt. Founded by the Fatimids in the 10th century, it replaced Baghdad as the center of the Islamic world.
+
+@34028
+Damascus
+
+@34029
+A city in southwest Syria. Founded in the 15th century BC, it prospered as a crossroads between East and West. It came under Muslim rule in the 7th century and was the capital in the Umayyad age.
+
+@34030
+Baghdad
+
+@34031
+A city in central Iraq and capital of the Abbasids. In the 8th century it held 2 million people and flourished as the greatest city in the world. In the 13th century it was invaded by the Mongol army under Hulagu and utterly destroyed.
+
+@34032
+Samarkand
+
+@34033
+A city in Central Asia. Located at a crossroads of the Silk Road, it has long flourished as an oasis city. In the 14th century it became the capital of Timur's empire and a center of Islamic culture.
+
+@34034
+Delhi
+
+@34035
+A city in northern India. It has long prospered as a strategic military site. Since Aibak, founder of the Slave Dynasty, made it his capital, it has been the capital of the successive Indo-Muslim dynasties.
+
+@34036
+Calicut
+
+@34037
+A port city on the Arabian Sea in southwest India. It prospered as a hub of Muslim-run Indian Ocean trade.
+
+@34038
+Lhasa
+
+@34039
+A city in south-central Tibet. It became the capital of the Tubo kingdom in the 7th century. It remained a center of Tibetan Buddhism (Lamaism), and countless temples were built there.
+
+@34040
+Balasagun
+
+@34041
+A city in Central Asia, at a crossroads of the Silk Road. A walled city was built there in the Tang era. When the Liao prince Yelu Dashi founded the Western Liao in the 12th century, it became their capital.
+
+@34042
+Onon
+
+@34043
+The region along the Onon River in Outer Mongolia. Home territory of the Mongols under Genghis Khan.
+
+@34044
+Gorgonak
+
+@34045
+The region along the Gorgonak River in Outer Mongolia. Home territory of the Jadaran tribe under Jamukha.
+
+@34046
+Xingqing
+
+@34047
+A city on the upper Yellow River in northwest China. Li Yuanhao of the Tangut people founded the Western Xia in the 11th century and made it his capital. It was taken by Genghis Khan in the 13th century.
+
+@34048
+Huining
+
+@34049
+A city in Heilongjiang in northeast China. In the 12th century Wanyan Aguda founded the Jin and made it his capital.
+
+@34050
+Yanjing
+
+@34051
+A city in Hebei, today's Beijing. It became the capital of the Jin in the 12th century. Later taken by the Mongols, it was renamed Dadu under Kublai Khan.
+
+@34052
+Lin'an
+
+@34053
+A port city in northern Zhejiang. It developed from the Sui era as the starting point of the Grand Canal. It flourished as the capital in the Southern Song age, with a population of 1 million.
+
+@34054
+Quanzhou
+
+@34055
+A port city in southeast Fujian. Westerners called it "Zayton." It developed as the starting point of the maritime Silk Road, and Marco Polo's "Travels" describes its prosperity.
+
+@34056
+Kaesong
+
+@34057
+A city in west-central Korea. It became the capital of Goryeo in the 10th century. The capital moved to Hanseong under the Joseon dynasty, but Kaesong remained a thriving commercial city.
+
+@34058
+Kamakura
+
+@34059
+It grew from the 11th century as a place tied to the Minamoto clan. When Yoritomo founded the shogunate there, it became the center of rule over eastern Japan. Facing Sagami Bay and ringed by mountains on three sides, it was a natural fortress.
+
+@34060
+Ghor
+
+@34061
+A city in western Afghanistan. It was under Turkic Muslim rule until the brothers Ghiyath and Ghori made it their base in the 12th century, won independence and founded the Ghurid dynasty.
+
+@34062
+Hanoi
+
+@34063
+A city in northern Vietnam. A Tang protectorate, it grew rapidly. Capital of the Ly dynasty from the 11th century, it has stayed Vietnam's capital since.
+
+@34064
+Angkor
+
+@34065
+A city in northwest Cambodia. It became the capital of the Khmer Empire in the 9th century, and the great walled city of Angkor Thom was built. It also had irrigation works such as reservoirs and canals.
+
+@34066
+Tola
+
+@34067
+The region along the Tola River in Outer Mongolia. Home territory of the Keraits under Toghril Khan.
+
+@34068
+Nishapur
+
+@34069
+A city in northeast Iran. Founded in the Sassanid Persian era, it became the capital of the Seljuk Turks and later came under Khwarezm.
+
+@34070
+Dazaifu
+
+@34071
+A city in northern Kyushu, named for a 6th-century government office. A diplomatic gateway and defensive base, its role passed to Chinzei Tandai after the Mongol invasions.
+
+@34072
+Kaifeng
+
+@34073
+A city in eastern Henan. It stands where the Yellow River meets the Grand Canal and grew as a center of transport and commerce. It was the capital of several dynasties from the Five Dynasties to the Northern Song.
+
+@34074
+Dunhuang
+
+@34075
+A city in northwest Gansu. It came under Chinese rule during the reign of Emperor Wu of Han. It grew as China's gateway to the Silk Road, and Buddhist culture, including cave temples, flourished there.
+
+@34076
+Kucha
+
+@34077
+A city on the northern edge of the Tarim Basin. As a crossroads of the Silk Road, it was fought over by neighboring powers. In the 13th century it was held by the Chagatai Khanate.
+
+@34078
+Novgorod
+
+@34079
+A city in western Russia. Vikings founded a principality there in the 9th century and built it up. In the 13th century a trading post of the Hanseatic League was set up there.
+
+@34080
+Bergen
+
+@34081
+A city in southwest Norway. A port on the North Sea, it has prospered since ancient times. It was the capital of Norway until the move to Oslo in the 13th century.
+
+@34082
+Naples
+
+@34083
+An independent city-state in southern Italy. Founded by the ancient Greeks. It was annexed by the Kingdom of the Two Sicilies in the 12th century, but became independent again as the Kingdom of Naples after that kingdom split.
+
+@34084
+Tabriz
+
+@34085
+A city in northwest Iran. It became the capital of Armenia in the 3rd century. Though it suffered much from strife and earthquakes, it prospered as the capital of the Ilkhanate in the 13th century.
+
+@34086
+Sarai
+
+@34087
+A city on the lower Volga in southwest Russia. Batu, grandson of Genghis Khan, made it the Golden Horde's capital.
+
+@34088
+Almaliq
+
+@34089
+A city in the Ili Valley of Central Asia. At a crossroads of the northern Tian Shan route, it has flourished since ancient times. It reached its peak in the 13th and 14th centuries as the capital of the Chagatai Khanate.
+
+@34090
+Emil
+
+@34091
+A Central Asian city on Lake Ebinur's shore, north of the Tian Shan. It became the Ogedei Khanate's capital.
+
+@34092
+Karakorum
+
+@34093
+A city on the Orkhon River in Outer Mongolia. Built by Ogedei, second Khan of the Mongol Empire. It prospered as the imperial capital until Kublai Khan moved it to Dadu.
+
+@34094
+Dadu
+
+@34095
+A city in Hebei, China, and capital of the Yuan, today's Beijing. Built by Kublai Khan. Merchants, scholars and travelers came from all over the world, and at its height it recorded a population of 1 million.
+
+@34096
+Chengdu
+
+@34097
+A city in Sichuan in western China. A walled city was built in the Warring States period, and it has long prospered as a political and military stronghold. In the Three Kingdoms age Liu Bei made it the capital of Shu Han.
+
+@34098
+Pagan
+
+@34099
+A city on the middle Irrawaddy in central-western Myanmar. In the 11th century King Anawrahta founded the Pagan dynasty and made it his capital.
+
+@34100
+Xiangyang
+
+@34101
+A city in Hubei, China. A crossroads of transport and military strategy, it was the site of the fiercest battle between the Yuan and the Southern Song.
+
+@34102
+Hiraizumi
+
+@34103
+A town in southern Iwate. Long a military base for the campaigns against the Emishi. In the 11th century it became the seat of the Oshu Fujiwara, and a unique culture flourished there, seen in buildings such as Chuson-ji.
+

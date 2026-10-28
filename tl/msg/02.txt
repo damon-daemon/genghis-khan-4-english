@@ -1,0 +1,372 @@
+@2000
+Council
+
+@2000.1
+Kurultai
+
+@2000.2
+Council
+
+@2002
+versatile
+
+@2002.1
+political
+
+@2002.2
+martial
+
+@2002.3
+strategic
+
+@2003
+well connected
+
+@2003.1
+well versed in foreign affairs
+
+@2003.2
+highly learned
+
+@2003.3
+skilled in building
+
+@2003.4
+gifted in trade
+
+@2003.5
+eager to develop new land
+
+@2003.6
+{C2007} skilled in domestic affairs
+
+@2004
+well connected
+
+@2004.1
+well versed in foreign affairs
+
+@2004.2
+{C2008} cunning
+
+@2005
+good at surprise attacks
+
+@2005.1
+strong in sieges
+
+@2005.2
+a skilled archer
+
+@2005.3
+skilled in troop command
+
+@2005.4
+renowned as a fierce general
+
+@2005.5
+{C2006} confident in arms
+
+@2006
+highly
+
+@2006.1
+quite
+
+@2006.2
+fairly
+
+@2007
+highly
+
+@2007.1
+quite
+
+@2007.2
+fairly
+
+@2008
+highly
+
+@2008.1
+quite
+
+@2008.2
+fairly
+
+@2009
+{02860201} must still hold hidden talent. Leave it to me.
+
+@2009.1
+Whether famous or unknown, I will promote the able to general.
+
+@2009.2
+Then let us widen recruitment and give many a place to use their gifts.
+
+@2009.3
+Then I will search {02860201} and dig up the talent buried in the world.
+
+@2009.4
+I will surely find someone who will be a pillar of our nation.
+
+@2009.5
+I will not return until I have found a rare talent. I am off to search.
+
+@2010
+We shall take in many talents and gather able men, whatever their land or race.
+
+@2010.1
+To reform our ranks, let us recruit able men from among the common people.
+
+@2010.2
+I will tour the towns myself and look for a pillar of the nation.
+
+@2010.3
+We shall raise to general those who have ability but have not been able to show it.
+
+@2010.4
+I cannot rely on others... I will find a rare talent with my own feet and eyes.
+
+@2011
+In {02860201}, I met {021e0203}. Sounds like someone who is {C2003}.
+
+@2011.1
+{C6}, in the mountains of {02860201} I met a man named {021e0203}.
+
+@2011.2
+{C6}, in town I heard rumors of a man. They say a wise man named {021e0203} lives in {02860201}.
+
+@2011.3
+I hear a man named {021e0203} lives in the outskirts of {02860201}.
+
+@2011.4
+In a {C2012} in {02860201}, I met a man named {021e0203}.
+
+@2011.5
+In {02860201} I heard the fame of a man named {021e0203}.
+
+@2012
+pleasure quarter
+
+@2012.1
+pleasure quarter
+
+@2012.2
+tavern
+
+@2013
+I met {021e0203} in {02860201}! Sounds like someone who is {C2003}.
+
+@2013.1
+The name {021e0203} is heard often in {02860201}...
+
+@2013.2
+A rare talent named {021e0203} seems to be living in hiding in {02860201}.
+
+@2013.3
+A man named {021e0203} seems to be living in {02860201}.
+
+@2013.4
+Everyone says {021e0203} of {02860201} is a man of great promise.
+
+@2014
+Sadly, there seems to be no rare talent in {02860201}.
+
+@2014.1
+{C6}, there seems to be no one of note in {02860201}.
+
+@2014.2
+{C6}, there were no able men in {02860201}.
+
+@2014.3
+Sadly, I could not find anyone of ability in {02860201}.
+
+@2014.4
+{C6}... I met no one worthwhile in {02860201}.
+
+@2015
+Rare talents are hard to find. Perhaps training those we have is more important.
+
+@2015.1
+There seems to be no one of promise in {02860201}.
+
+@2015.2
+Not even after all this searching... Rare talents are hard to come by.
+
+@2015.3
+{02860201} seems to have been too large to search.
+
+@2016
+You wanted to talk to me?
+
+@2016.1
+What do you want with me?
+
+@2017
+With {C7}, we would fear nothing. Will you lend us your strength?
+
+@2017.1
+Forgive my haste, but will you serve {C13}?
+
+@2017.2
+Nothing is a greater loss to a nation than leaving {C7} idle. Will you work with me?
+
+@2017.3
+I understand your talent. Shall we join our strength?
+
+@2018
+At last I have met someone like you.\pWill you work for me?
+
+@2018.1
+Will you use your {C2002} talent in {02850201}?
+
+@2018.2
+Will you use your {C2002} talent in my {02850201}?
+
+@2018.3
+{C4}, will you lend me your strength?
+
+@2019
+Thank you for the offer. I will do my utmost for {02850203}.
+
+@2019.1
+I thank you for calling on me.\pI will do what little I can for {C13}.
+
+@2019.2
+Having received {C7}'s offer, I cannot sit idle. I gladly enter the service of {C13}.
+
+@2020
+I understand your feelings, {C6}.\pIf this old man will do, I am ready to serve at any time.
+
+@2020.1
+{C6} came here in person... I will serve you for life.
+
+@2020.2
+I am deeply moved that you would call on one like me. I will serve until I die.
+
+@2020.3
+Your resolve, {C6}, has touched my heart.\pCommand me in anything.
+
+@2021
+I am too old now. I would be of no use.
+
+@2021.1
+Chasing beasts in the hills suits me better.
+
+@2021.2
+Please leave. I have no interest in worldly affairs.
+
+@2021.3
+Thank you, but I do not wish to change my life now.
+
+@2021.4
+{C13} could not make use of me.
+
+@2021.5
+I cannot believe {C13}'s ways suit this age.
+
+@2022
+Please leave... It seems too early for me to enter the world.
+
+@2022.1
+Leave me... I have other things I wish to do.
+
+@2022.2
+I do not think I could get along well with you.
+
+@2023
+My heart leaps to think we will serve together from now on.
+
+@2023.1
+I thought that {C7} would never choose the wrong lord.
+
+@2023.2
+Good. This saves my face. It was worth coming.
+
+@2024
+To have a famed general like {C7} under me... For one who leads men, there is no greater honor.
+
+@2024.1
+I look forward to the next battle. I await {C7}'s exploits.
+
+@2024.2
+I look forward to the next {C2000}. I expect much from {C7}.
+
+@2024.3
+With you, {C2001}, {02850201} will surely grow stronger.
+
+@2024.4
+{021e0202}... Lend me your strength.
+
+@2024.5
+You chose well. Now {02850201} is secure.
+
+@2025
+It is a shame to let your talent lie buried, {C2001}, but it cannot be helped...
+
+@2025.1
+Each person has a road of their own, it seems...
+
+@2025.2
+{C2001}, your mind seems made up. A pity, but it cannot be helped.
+
+@2026
+I will call again another day.\pI will come as often as it takes until you serve me, {C2001}.
+
+@2026.1
+If not now, then someday I will make you say yes.
+
+@2026.2
+I see... Come any time if you change your mind.\pThe gates are always open to {C2001}.
+
+@2027
+If you change your mind, {C2001}, come at any time.
+
+@2027.1
+A pity... I will look for other talent.
+
+@2027.2
+It is hard to win someone over.
+
+@2028
+{021e0202} of {02860201} has become a retainer of {021e0203}.
+
+@2029
+{021e0202} of {02860201} does not yet wish to serve anyone.
+
+@2030
+You can delegate only cities under your own rule.
+
+@2031
+You cannot attack your own city.
+
+@2032
+You cannot supply an enemy city.
+
+@2033
+No city to attack is selected.
+
+@2034
+You cannot trade while surrounded by the enemy.
+
+@2035
+You have nothing to sell.
+
+@2036
+You cannot sell any more.
+
+@2037
+You do not have enough money.
+
+@2038
+You cannot buy any more.
+
+@2039
+There is no general to become lord.
+
+@2040
+There is no general to become lord in your place.
+
+@2041
+You cannot appoint a lord in the capital.
+

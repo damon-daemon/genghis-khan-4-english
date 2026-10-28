@@ -1,0 +1,800 @@
+# country pool 0 (18 chars max)
+00002	Zipangu
+00015	Japon
+00028	Hapon
+0003b	Yamato
+# country pool 1 (18 chars max)
+00802	Dokan
+00815	Kunlun
+00828	Tanggula
+0083b	U-Tsang
+0084e	Xizang
+# country pool 2 (18 chars max)
+01002	Dektar
+01015	Jangar
+01028	Oirat
+0103b	Kyrgyz
+0104e	Garkhan
+# country pool 3 (18 chars max)
+01802	Dharmapa
+01815	Andhra
+01828	Magadha
+0183b	Varsha
+0184e	Rudra
+# country pool 4 (18 chars max)
+02002	Fergana
+02015	Azim
+02028	Saman
+0203b	Shahji
+0204e	Baji
+# country pool 5 (18 chars max)
+02802	Canaan
+02815	Bahram
+02828	Giyaruk
+0283b	Karim
+0284e	Vardana
+# country pool 6 (18 chars max)
+03002	Pero
+03015	Nomos
+03028	Ptolemaios
+0303b	Hyksos
+0304e	Fatima
+# country pool 7 (18 chars max)
+03802	Vandal
+03815	Mauretania
+03828	Numidia
+0383b	Idris
+0384e	Cyrenaica
+# country pool 8 (18 chars max)
+04002	Macedonia
+04015	Thrace
+04028	Salonia
+0403b	Doria
+0404e	Nikephoros
+# country pool 9 (18 chars max)
+04802	Rurik
+04815	Volga
+04828	Fyodor
+0483b	Simeon
+0484e	Elborg
+# country pool 10 (18 chars max)
+05002	Loire
+05015	Chateau
+05028	Brian
+0503b	Antoine
+0504e	Delphine
+# country pool 11 (18 chars max)
+05802	Albert
+05815	Grenhill
+05828	Stuart
+0583b	York
+0584e	Stirling
+# country pool 12 (18 chars max)
+06002	Racha
+06015	Pinang
+06028	Vijaya
+0603b	Surya
+0604e	Taramat
+# country pool 13 (18 chars max)
+06802	Amur
+06815	Ural
+06828	Yenisei
+0683b	Baikal
+0684e	Lena
+# country pool 14 (18 chars max)
+07002	Rhine
+07015	Bavaria
+07028	Saxony
+0703b	Bohemia
+0704e	Hesse
+# country pool 15 (18 chars max)
+07802	Tuscany
+07815	Apennine
+07828	Etruria
+0783b	Campania
+0784e	Adria
+# country pool 16 (18 chars max)
+08002	Andalusia
+08015	Iberia
+08028	Catalonia
+0803b	Cantabrica
+0804e	Guadiana
+# country pool 17 (18 chars max)
+08802	Taebaek
+08815	Datong
+08828	Daehan
+0883b	Korea
+0884e	Cheonggu
+08861	Haedong
+# country pool 18 (18 chars max)
+09002	Rurik
+09015	Volga
+09028	Fyodor
+0903b	Simeon
+0904e	Elborg
+# country pool 19 (18 chars max)
+09802	Fergana
+09815	Azim
+09828	Saman
+0983b	Shahji
+0984e	Baji
+# country pool 20 (18 chars max)
+0a002	Arabia
+0a015	Makran
+0a028	Babylon
+0a03b	Sasan
+0a04e	Semnan
+# country pool 21 (18 chars max)
+0a802	Amur
+0a815	Ural
+0a828	Yenisei
+0a83b	Baikal
+0a84e	Lena
+# country pool 22 (18 chars max)
+0b002	Bosnia
+0b015	Barents
+0b028	Trondheim
+0b03b	Lapland
+0b04e	Vanern
+# country pool 23 (18 chars max)
+0b802	Taebaek
+0b815	Datong
+0b828	Daehan
+0b83b	Korea
+0b84e	Cheonggu
+0b861	Haedong
+# country pool 24 (18 chars max)
+0c002	Taiwan
+0c015	Zhina
+# country pool 25 (18 chars max)
+0c802	Hainan
+0c815	Wuzhi
+# country pool 26 (18 chars max)
+0d002	Mindanao
+0d015	Luzon
+0d028	Celebes
+# country pool 27 (18 chars max)
+0d802	Kalimantan
+0d815	Sarawak
+# country pool 28 (18 chars max)
+0e002	Batak
+0e015	Barisan
+# country pool 29 (18 chars max)
+0e802	Sigiriya
+0e815	Mihintale
+# country pool 30 (18 chars max)
+0f002	Andaman
+0f015	Bengal
+# country pool 31 (18 chars max)
+0f802	Socotra
+0f815	Aden
+# country pool 32 (18 chars max)
+10002	Cyprus
+10015	Nicosia
+# country pool 33 (18 chars max)
+10802	Knossos
+10815	Crete
+10828	Minos
+# country pool 34 (18 chars max)
+11002	Evia
+11015	Aegean
+# country pool 35 (18 chars max)
+11802	Sicily
+11815	Palermo
+# country pool 36 (18 chars max)
+12002	Sardinia
+12015	Sassari
+# country pool 37 (18 chars max)
+12802	Corsica
+12815	Corse
+# country pool 38 (18 chars max)
+13002	Gotland
+13015	Baltic
+# country pool 39 (18 chars max)
+13802	Mallorca
+13815	Balearic
+# country pool 40 (18 chars max)
+14002	Ireland
+14015	Celt
+# country pool 41 (18 chars max)
+14802	Dane
+# town pool 42 (20 chars max)
+15002	Uji
+15017	Kofu
+1502c	Fukuhara
+15041	Fuchu
+15056	Ominato
+1506b	Yoshino
+15080	Shirakawa
+15095	Urado
+150aa	Iwaki
+150bf	Itsukushima
+150d4	Owada
+150e9	Ito
+150fe	Kumano
+15113	Sendai
+15128	Hirado
+1513d	Nagoya
+15152	Edo
+# town pool 43 (20 chars max)
+15802	Datong
+15817	Nanjing
+1582c	Dading
+15841	Dongjing
+15856	Taiyuan
+1586b	Guanping
+15880	Kaiyuan
+15895	Shangjing
+158aa	Ningxia
+158bf	Fengyuan
+158d4	Taizhou
+158e9	Xiliang
+158fe	Dengzhou
+15913	Ganzhou
+15928	Xingqing
+1593d	Mizhou
+15952	Tongzhou
+15967	Henan
+1597c	Jingzhao
+# town pool 44 (20 chars max)
+16002	Mingzhou
+16017	Wenzhou
+1602c	Chaozhou
+16041	Guizhou
+16056	Leizhou
+1606b	Tianlin
+16080	Qingzhong
+16095	Qingyuan
+160aa	Qinzhou
+160bf	Rui'an
+160d4	Longxing
+160e9	Tanzhou
+160fe	Jizhou
+16113	Yingde
+16128	Deqing
+1613d	Nanchang
+16152	Xuzhou
+16167	Lianzhou
+1617c	Pingxing
+16191	Qingzhong
+# town pool 45 (20 chars max)
+16802	Gerze
+16817	Tokyarung
+1682c	Garyarsa
+16841	Shigatse
+16856	Gyantse
+1686b	Changtu
+16880	Yushu
+16895	Rutog
+168aa	Mango
+168bf	Razong
+168d4	Xichuanhe
+168e9	Bayingolin
+168fe	Amdo
+16913	Nagchu
+16928	Sorxian
+1693d	Batang
+16952	Yarlung
+16967	Nam
+1697c	Yamdrok
+16991	Barga
+# town pool 46 (20 chars max)
+17002	Noin Ula
+17017	Otuken
+1702c	Karabalgasun
+17041	Hamil
+17056	Beshbalik
+1706b	Karakhoja
+17080	Tula
+17095	Selenge
+170aa	Khalkha
+170bf	Ursin
+170d4	Angun
+170e9	Ingoda
+170fe	Baidarak
+17113	Kherlen
+17128	Manza
+1713d	Ekin
+17152	Ulja
+17167	Khoiten
+1717c	Khovd
+17191	Kirko
+# town pool 47 (20 chars max)
+17802	Lahore
+17817	Multan
+1782c	Taraori
+17841	Kannauj
+17856	Chittor
+1786b	Somnath
+17880	Kalyani
+17895	Warangal
+178aa	Nadia
+178bf	Puri
+178d4	Gwalior
+178e9	Konark
+178fe	Nellore
+17913	Aror
+17928	Mansura
+1793d	Devagiri
+17952	Thanjavur
+17967	Prabhas
+1797c	Quilon
+17991	Draksharama
+# town pool 48 (20 chars max)
+18002	Bactra
+18017	Ghazni
+1802c	Hecatompylos
+18041	Ecbatana
+18056	Susa
+1806b	Ctesiphon
+18080	Seleucia
+18095	Merv
+180aa	Kapur
+180bf	Mosarsa
+180d4	Purushapura
+180e9	Bamiyan
+180fe	Rayy
+18113	Bactra
+18128	Hirae
+1813d	Suyab
+18152	Charchan
+18167	Miran
+1817c	Karashahr
+18191	Hami
+# town pool 49 (20 chars max)
+18802	Korzion
+18817	Muscat
+1882c	Miletus
+18841	Tyre
+18856	Jeddah
+1886b	Edessa
+18880	Artaxata
+18895	Pergamon
+188aa	Ephesus
+188bf	Calais
+188d4	Petra
+188e9	Bostra
+188fe	Palmyra
+18913	Hatra
+18928	Trapezus
+1893d	Sinope
+18952	Sardis
+18967	Ilion
+1897c	Qatif
+18991	Aleppo
+# town pool 50 (20 chars max)
+19002	Memphis
+19017	Ammonium
+1902c	Syene
+19041	Berenice
+19056	Myos Hormos
+1906b	Pelusium
+19080	Dongola
+19095	Luxor
+190aa	Akhetaten
+190bf	Abu Simbel
+190d4	Buhen
+190e9	Thebes
+190fe	Lisht
+19113	Coptos
+19128	Damietta
+1913d	Karnak
+19152	Asyut
+19167	Hathor
+1917c	Al-Fayyum
+19191	Kalabsha
+# town pool 51 (20 chars max)
+19802	Carthage
+19817	Caesarea
+1982c	Sardae
+19841	Thamugadi
+19856	Hippo Regius
+1986b	Zama
+19880	Thapsus
+19895	Tenes
+198aa	Sabratha
+198bf	Leptis Magna
+198d4	Berenice
+198e9	Barca
+198fe	Tripoli
+19913	Walila
+19928	Fez
+1993d	Tangier
+19952	Maghreb
+19967	Melilla
+1997c	Kairouan
+19991	Cyrene
+# town pool 52 (20 chars max)
+1a002	Delphi
+1a017	Pella
+1a02c	Larissa
+1a041	Phyle
+1a056	Ambracia
+1a06b	Chaeronea
+1a080	Sirmium
+1a095	Aquincum
+1a0aa	Hadrianopolis
+1a0bf	Pharsalus
+1a0d4	Pydna
+1a0e9	Gran
+1a0fe	Sayo
+1a113	Epidamnos
+1a128	Eretria
+1a13d	Abdera
+1a152	Istros
+1a167	Therme
+1a17c	Salamis
+1a191	Ofen
+# town pool 53 (20 chars max)
+1a802	Tanais
+1a817	Bulgar
+1a82c	Kherson
+1a841	Halych
+1a856	Vladimir
+1a86b	Ryazan
+1a880	Polotsk
+1a895	Olbia
+1a8aa	Ichiri
+1a8bf	Torun
+1a8d4	Elbing
+1a8e9	Danzig
+1a8fe	Azom
+1a913	Vilna
+1a928	Pinsk
+1a93d	Kazan
+1a952	Poznan
+1a967	Smolensk
+1a97c	Yelets
+1a991	Tana
+# town pool 54 (20 chars max)
+1b002	Burgigala
+1b017	Torsa
+1b02c	Lugdunum
+1b041	La Tene
+1b056	Egmort
+1b06b	Narbo
+1b080	Turones
+1b095	Poitiers
+1b0aa	Lyon
+1b0bf	Cluny
+1b0d4	Vezelay
+1b0e9	Albi
+1b0fe	Limoges
+1b113	Sens
+1b128	Chartres
+1b13d	Besancon
+1b152	Tarentaise
+1b167	Orleans
+1b17c	Yastiyon
+1b191	Clermont
+# town pool 55 (20 chars max)
+1b802	Danville
+1b817	Vincennes
+1b82c	Evans
+1b841	Northwall
+1b856	Petersburg
+1b86b	Saintport
+1b880	Kingston
+1b895	Marlborough
+1b8aa	Millicent
+1b8bf	Westbourne
+1b8d4	Georgetown
+1b8e9	Blore
+1b8fe	Chester
+1b913	Maiton
+1b928	Malcolm
+1b93d	Berek
+1b952	Owain
+1b967	Clarelles
+1b97c	Bowmouth
+1b991	Carna
+# town pool 56 (20 chars max)
+1c002	Slamet
+1c017	Agung
+1c02c	Palaya
+1c041	Mankato
+1c056	Medawa
+1c06b	Muatera
+1c080	Hakam
+1c095	Latina
+1c0aa	Wiron
+1c0bf	Angai
+1c0d4	Panom
+1c0e9	Rupla
+1c0fe	Chauk
+1c113	Bienna
+1c128	Kauma
+1c13d	Surmeli
+1c152	Murli
+1c167	Purnau
+1c17c	Etcheva
+1c191	Ursua
+# town pool 57 (20 chars max)
+1c802	Shilka
+1c817	Doenis
+1c82c	Miroya
+1c841	Saranaf
+1c856	Chutov
+1c86b	Gitar
+1c880	Serbisk
+1c895	Peterna
+1c8aa	Amusk
+1c8bf	Rasshof
+1c8d4	Rumyak
+1c8e9	Morska
+1c8fe	Novbisk
+1c913	Slokovo
+1c928	Solho
+1c93d	Irkutsk
+1c952	Kineska
+1c967	Kirniv
+1c97c	Emisiya
+1c991	Mirchisk
+# town pool 58 (20 chars max)
+1d002	Wirstadt
+1d017	Neuhilfer
+1d02c	Rosenburg
+1d041	Ritterland
+1d056	Fregen
+1d06b	Mussen
+1d080	Renfeld
+1d095	Magdeberg
+1d0aa	Brandes
+1d0bf	Hafen
+1d0d4	Garten
+1d0e9	Amplatz
+1d0fe	Meister
+1d113	Kalmark
+1d128	Gischer
+1d13d	Mehring
+1d152	Kneisel
+1d167	Gastburg
+1d17c	Alzer
+1d191	Amdorf
+# town pool 59 (20 chars max)
+1d802	Arenza
+1d817	Trimonti
+1d82c	Maggiore
+1d841	Cassino
+1d856	Giora
+1d86b	Carelira
+1d880	Brescia
+1d895	Elmina
+1d8aa	Cremea
+1d8bf	Lambria
+1d8d4	Merlana
+1d8e9	Cesaria
+1d8fe	Corna
+1d913	Colonna
+1d928	Fergamo
+1d93d	Maximia
+1d952	Medicia
+1d967	Trenta
+1d97c	Verini
+1d991	Alere
+# town pool 60 (20 chars max)
+1e002	Astria
+1e017	Ercolia
+1e02c	Serat
+1e041	Salvad
+1e056	Casas
+1e06b	Beles
+1e080	Ribarena
+1e095	Lacas
+1e0aa	Telsurua
+1e0bf	Alves
+1e0d4	Barinas
+1e0e9	San Fel
+1e0fe	El Jose
+1e113	Meriade
+1e128	Veracruz
+1e13d	San Carlo
+1e152	Lorencia
+1e167	Litbal
+1e17c	Valde
+1e191	Depasco
+# town pool 61 (20 chars max)
+1e802	Xiyang
+1e817	Qinghong
+1e82c	Bijin
+1e841	Ashang
+1e856	Pingdi
+1e86b	Chengjin
+1e880	Bashan
+1e895	Guiquan
+1e8aa	Anshun
+1e8bf	Yishun
+1e8d4	Ningzhou
+1e8e9	Chengqiu
+1e8fe	Qiangdao
+1e913	Jinpu
+1e928	Linjin
+1e93d	Gaosha
+1e952	Ruiguan
+1e967	Cidian
+1e97c	Xianmen
+1e991	Yizhou
+# town pool 62 (20 chars max)
+1f002	Tanais
+1f017	Bulgar
+1f02c	Kherson
+1f041	Halych
+1f056	Vladimir
+1f06b	Ryazan
+1f080	Polotsk
+1f095	Olbia
+1f0aa	Ichiri
+1f0bf	Torun
+1f0d4	Elbing
+1f0e9	Danzig
+1f0fe	Azom
+1f113	Vilna
+1f128	Pinsk
+1f13d	Kazan
+1f152	Poznan
+1f167	Smolensk
+1f17c	Yelets
+1f191	Tana
+# town pool 63 (20 chars max)
+1f802	Bactra
+1f817	Ghazni
+1f82c	Hecatompylos
+1f841	Ecbatana
+1f856	Susa
+1f86b	Ctesiphon
+1f880	Seleucia
+1f895	Merv
+1f8aa	Kapur
+1f8bf	Mosarsa
+1f8d4	Purushapura
+1f8e9	Bamiyan
+1f8fe	Rayy
+1f913	Bactra
+1f928	Hirae
+1f93d	Suyab
+1f952	Charchan
+1f967	Miran
+1f97c	Karashahr
+1f991	Hami
+# town pool 64 (20 chars max)
+20002	Korzion
+20017	Muscat
+2002c	Miletus
+20041	Tyre
+20056	Jeddah
+2006b	Edessa
+20080	Artaxata
+20095	Pergamon
+200aa	Ephesus
+200bf	Calais
+200d4	Petra
+200e9	Bostra
+200fe	Palmyra
+20113	Hatra
+20128	Trapezus
+2013d	Sinope
+20152	Sardis
+20167	Ilion
+2017c	Qatif
+20191	Aleppo
+# town pool 65 (20 chars max)
+20802	Shilka
+20817	Doenis
+2082c	Miroya
+20841	Saranaf
+20856	Chutov
+2086b	Gitar
+20880	Serbisk
+20895	Peterna
+208aa	Amusk
+208bf	Rasshof
+208d4	Rumyak
+208e9	Morska
+208fe	Novbisk
+20913	Slokovo
+20928	Solho
+2093d	Irkutsk
+20952	Kineska
+20967	Kirniv
+2097c	Emisiya
+20991	Mirchisk
+# town pool 66 (20 chars max)
+21002	Oslo
+21017	Trondhelm
+2102c	Muirana
+21041	Vasteras
+21056	Lulea
+2106b	Alesund
+21080	Narvik
+21095	Ostersund
+210aa	Bodo
+210bf	Orebro
+210d4	Goteborg
+210e9	Malmo
+210fe	Stavanger
+21113	Kristiansund
+21128	Tromso
+2113d	Boliden
+21152	Gronsberg
+21167	Karlstad
+2117c	Tarberg
+21191	Drammen
+# town pool 67 (20 chars max)
+21802	Xiyang
+21817	Qinghong
+2182c	Bijin
+21841	Ashang
+21856	Pingdi
+2186b	Chengjin
+21880	Bashan
+21895	Guiquan
+218aa	Anshun
+218bf	Yishun
+218d4	Ningzhou
+218e9	Chengqiu
+218fe	Qiangdao
+21913	Jinpu
+21928	Linjin
+2193d	Gaosha
+21952	Ruiguan
+21967	Cidian
+2197c	Xianmen
+21991	Yizhou
+# town pool 68 (20 chars max)
+22002	Taipei
+22017	Tainan
+# town pool 69 (20 chars max)
+22802	Dongfang
+22817	Haikou
+# town pool 70 (20 chars max)
+23002	Baguio
+23017	Negros
+2302c	Mayon
+23041	Cagayan
+23056	Quezon
+# town pool 71 (20 chars max)
+23802	Samarinda
+23817	Sarawak
+# town pool 72 (20 chars max)
+24002	Bengkulu
+24017	Aceh
+2402c	Batak
+# town pool 73 (20 chars max)
+24802	Sigiriya
+24817	Mihintale
+# town pool 74 (20 chars max)
+25002	Andaman
+25017	Nicobar
+# town pool 75 (20 chars max)
+25802	Socotra
+# town pool 76 (20 chars max)
+26002	Cyprus
+26017	Nicosia
+# town pool 77 (20 chars max)
+26802	Heraklion
+26817	Crete
+2682c	Minos
+# town pool 78 (20 chars max)
+27002	Evia
+27017	Cyclades
+# town pool 79 (20 chars max)
+27802	Messina
+# town pool 80 (20 chars max)
+28002	Sardegna
+28017	Sassari
+# town pool 81 (20 chars max)
+28802	Corse
+# town pool 82 (20 chars max)
+29002	Gotland
+# town pool 83 (20 chars max)
+29802	Palma
+29817	Mallorca
+# town pool 84 (20 chars max)
+2a002	Dublin
+2a017	Cork
+2a02c	Kilkenny
+2a041	Belfast
+2a056	Dundalk
+# town pool 85 (20 chars max)
+2a802	Copenhagen
+2a817	Zealand

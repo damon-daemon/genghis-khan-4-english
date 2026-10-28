@@ -1,0 +1,123 @@
+@29000
+Gothic Architecture
+
+@29001
+An architectural style that spread across European countries in the 13th century. Born in France after Romanesque architecture. Marked by tall spires, with stained glass used inside.
+
+@29003
+Dravidian Architecture
+
+@29004
+The style of Hindu temples in southern India. Rich in dynamic sculptures of Hindu gods such as Shiva.
+
+@29006
+Summa Theologica
+
+@29007
+By the Italian theologian Thomas Aquinas. A summation of Scholastic philosophy, centered on Christian doctrine and drawing in Aristotelian philosophy and other fields of knowledge.
+
+@29009
+The Travels of Marco Polo
+
+@29010
+The account told by the Italian traveler Marco Polo. It describes the lands of Asia he saw on his journey to China, and became the Westerners' source of knowledge about the East.
+
+@29012
+Greek Philosophy
+
+@29013
+The philosophy of ancient Greece, represented by Plato and Aristotle. Passed to Europe through Islam. It greatly influenced theology and gave birth to Scholastic philosophy.
+
+@29015
+The Divine Comedy
+
+@29016
+A religious epic poem by Dante, forerunner of the Renaissance. In this allegory the author himself, guided by a Roman poet of antiquity, journeys through Hell, Purgatory and Heaven.
+
+@29018
+Phags-pa Script
+
+@29019
+A script devised by the Tibetan monk Phags-pa on the order of Kublai Khan. Based on Tibetan script, it was used for official purposes such as edicts, inscriptions and coins.
+
+@29021
+Venetian Glass
+
+@29022
+Richly colored glassware. Through the Crusades, Venice learned the Islamic world's advanced glassmaking.
+
+@29024
+Stained Glass
+
+@29025
+Windows made of colored glass. Widely used in Gothic churches of the 13th century. Made with themes from Christ and the Bible, they created a mystical interior space.
+
+@29027
+Perfume
+
+@29028
+Scented water. At first used for religious purposes, such as sprinkling on sacred vessels. Once the Islamic world invented a method of distilling rose petals, it spread as an adornment for men and women alike.
+
+@29030
+Herbal Compendium
+
+@29031
+By the Arab botanist Ibn al-Baytar. It describes 1,400 medicinal herbs, including animal and mineral materials.
+
+@29032
+Raises medicine culture by {0210}.
+
+@29033
+Medical Aphorisms
+
+@29034
+By Maimonides, physician to Saladin. It describes treatments for asthma and hemorrhoids, poisons, and bathing methods. It also spread to Europe.
+
+@29035
+Raises medicine culture by {0210}.
+
+@29036
+Salerno Regimen of Health
+
+@29037
+A book on disease prevention made at the University of Salerno, a center of medicine. It holds health maxims such as "A cheerful heart, rest, and a moderate meal keep the doctor away."
+
+@29038
+Raises medicine culture by {0210}.
+
+@29039
+Eyeglasses
+
+@29040
+Said to have been invented in Italy at the end of the 13th century. In the 14th century Venice, with its thriving glass industry, also grew into a producer of eyeglasses.
+
+@29041
+Raises crafts culture by {0210}.
+
+@29042
+Philosopher's Stone
+
+@29043
+A substance sought by medieval alchemists, also called the "Elixir." It was believed to turn copper and lead into gold and silver, and to cure every disease.
+
+@29044
+Raises crafts culture by {0210}.\nCities with gold or silver specialties get double gold and silver income.
+
+@29045
+On Diverse Arts
+
+@29046
+By the German monk Theophilus. A textbook on church decoration techniques. Book I covers painting, Book II glasswork, and Book III metalwork.
+
+@29047
+Raises crafts culture by {0210}.
+
+@29048
+Tripitaka Koreana
+
+@29049
+Buddhist scriptures with commentaries and histories, written in 13th century Goryeo. Made in prayer for the Mongol army to withdraw. The printing blocks number 80,000 in all.
+
+@29050
+Raises crafts culture by {0210}.
+

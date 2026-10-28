@@ -1,0 +1,201 @@
+@22000
+Units led by a general with the combat skill Charge can perform Charge.
+
+@22001
+20
+
+@22002
+With the culture item Damascus Steel, critical hits become possible.
+
+@22003
+Units led by a general with the combat skill Charge can perform Charge.
+
+@22004
+45
+
+@22005
+Can only be formed by a nation with the culture item Plate Armor. With the culture item Damascus Steel, critical hits become possible.
+
+@22006
+Units led by a general with the combat skill Charge can perform Charge.
+
+@22007
+30
+
+@22009
+Units led by a general with the combat skill Charge can perform Charge.
+
+@22010
+33
+
+@22011
+Attack power doubles when led by Benkei.
+
+@22012
+Units led by a general with the combat skill Charge can perform Charge.
+
+@22013
+34
+
+@22014
+Attack power doubles on water.
+
+@22015
+Units led by a general with the combat skill Charge can perform Charge.
+
+@22016
+10
+
+@22017
+Attack power drops if led by a general not from the Islamic cultural sphere.
+
+@22018
+Units led by a general with the combat skill Charge can perform Charge.
+
+@22019
+28
+
+@22020
+Attack power drops if led by a general not from the Western or Eastern European cultural sphere. With the culture item Damascus Steel, critical hits become possible.
+
+@22021
+Units led by a general with the combat skill Fire Attack can perform Fire Attack and Fire Arrows.
+
+@22022
+9(arrows 27)
+
+@22024
+Units led by a general with the combat skill Fire Attack can perform Fire Attack and Fire Arrows.
+
+@22025
+16(arrows 48)
+
+@22026
+Can only be formed by a nation with the culture item Longbow.
+
+@22027
+Units led by a general with the combat skill Fire Attack can perform Fire Attack and Fire Arrows.
+
+@22028
+13(arrows 39)
+
+@22029
+Can only be formed by a nation with the culture item Crossbow.
+
+@22030
+Units led by a general with the combat skill Fire Attack can perform Fire Attack.
+
+@22031
+40
+
+@22032
+Can only be formed in a city whose domain includes a Horse-producing region.
+
+@22033
+Units led by a general with the combat skill Fire Attack can perform Fire Attack.
+
+@22034
+45
+
+@22035
+Can only be formed in a city whose domain includes a Horse-producing region.
+
+@22036
+Units led by a general with the combat skill Fire Attack can perform Fire Attack.
+
+@22037
+47
+
+@22038
+Can only be formed in a city whose domain includes a Horse-producing region.
+
+@22039
+Units led by a general with the combat skill Fire Attack can perform Fire Attack and Fire Arrows.
+
+@22040
+20
+
+@22041
+Can only be formed in a city whose domain includes a Horse-producing region.
+
+@22042
+Units led by a general with the combat skill Fire Attack can perform Fire Attack and Fire Arrows.
+
+@22043
+25
+
+@22044
+Can only be formed in a city whose domain includes a Horse-producing region.
+
+@22045
+Units led by a general with the combat skill Fire Attack can perform Fire Attack and Fire Arrows.
+
+@22046
+35(arrows 26)
+
+@22047
+Can only be formed in a city whose domain includes a Horse-producing region. Attack power drops if led by a general not from the Japanese cultural sphere.
+
+@22048
+Units led by a general with the combat skill Fire Attack can perform Fire Attack and Fire Arrows.
+
+@22049
+37(arrows 27)
+
+@22050
+Can only be formed in a city whose domain includes a Horse-producing region. Attack power drops if led by a general not from the Mongol cultural sphere.
+
+@22051
+Units led by a general with the combat skill Fire Attack can perform Fire Attack.
+
+@22052
+35
+
+@22053
+Can only be formed in a city whose domain includes a Camel-producing region. The cavalry aptitude bonus is halved if led by a general not from the Islamic cultural sphere.
+
+@22054
+Units led by a general with the combat skill Fire Attack can perform Fire Attack.
+
+@22055
+70
+
+@22056
+Can only be formed in a city whose domain includes an Elephant-producing region. The cavalry aptitude bonus is halved if led by a general not from the Indian cultural sphere.
+
+@22057
+Units led by a general with the combat skill Fire Attack can perform Fire Attack.
+
+@22058
+4(stones 48)
+
+@22059
+Can only be formed by a nation with the culture item Catapult or Huihui Cannon. Can attack units and the palace inside a castle indirectly from outside the walls. Cannot perform Stone Throw on water.
+
+@22060
+Units led by a general with the combat skill Fire Attack can perform Fire Attack.
+
+@22061
+6(cannon 60)
+
+@22062
+Can only be formed by a nation with the culture item Thunder Crash Bomb or Urban's Cannon. Can attack units and the palace inside a castle indirectly from outside the walls. Cannot perform Cannon Fire on water.
+
+@22063
+Units led by a general with the combat skill Fire Attack can perform Fire Attack.
+
+@22064
+5
+
+@22065
+Can only be formed by a nation with the culture item Greek Fire or Fire-Oil Sprayer.
+
+@22066
+Units led by a general with the combat skill Fire Attack can perform Fire Attack and Fire Arrows.
+
+@22067
+8(arrows 32)
+
+@22068
+Can only be formed by a nation with the culture item Siege Tower. Can attack units and the palace inside a castle indirectly from outside the walls. In field battles and on water, acts as Shortbowmen.
+

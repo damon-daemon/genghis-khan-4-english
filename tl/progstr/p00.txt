@@ -1,0 +1,406 @@
+PROG:800d3980	Switch Item
+PROG:800d6354	OK
+PROG:800d635c	Cancel
+PROG:800d636c	Hire
+PROG:800d6374	Free
+PROG:800d637c	Kill
+PROG:800d6390	Age
+PROG:800d6398	Pol
+PROG:800d63a0	Cmb
+PROG:800d63a8	Int
+PROG:800d63c8	%s, shall I recruit this person?
+PROG:800d63ec	%s, what shall be done\nwith this person?
+PROG:800d641c	Did you need\nsomething from me?
+PROG:800d6514	Type
+PROG:800d651c	Draft
+PROG:800d6528	Cost
+PROG:800d6530	Atk
+PROG:800d6538	Attacks
+PROG:800d6544	Move
+PROG:800d65dc	Navy
+PROG:800d65e4	Vikings
+PROG:800d65f0	Guard Knights
+PROG:800d65fc	Holy Knights
+PROG:800d6608	Knights
+PROG:800d6610	Heavy Cav.
+PROG:800d661c	Horde
+PROG:800d6628	Samurai
+PROG:800d6630	Monks
+PROG:800d6638	Guard Elephants
+PROG:800d6644	Elephants
+PROG:800d664c	Heavy Inf.
+PROG:800d6658	Crusade
+PROG:800d6660	Assassins
+PROG:800d666c	Guard Cav.
+PROG:800d6678	Guard Archers
+PROG:800d6684	Royal Guard
+PROG:800d6690	Cav
+PROG:800d6698	Arch
+PROG:800d689c	--------
+PROG:800d68b0	--------
+PROG:800d68c4	---------
+PROG:800d68d8	Direct
+PROG:800d68e0	Aggressive
+PROG:800d68ec	Defensive
+PROG:800d68f8	Transport
+PROG:800d6904	Domestic
+PROG:800d6910	Trade
+PROG:800d6934	Best
+PROG:800d693c	High
+PROG:800d6944	Avg
+PROG:800d694c	Low
+PROG:800d6954	Worst
+PROG:800d6970	Granary
+PROG:800d697c	Pastoral
+PROG:800d6988	Armory
+PROG:800d6994	Military
+PROG:800d69a0	Water
+PROG:800d69a8	Builders
+PROG:800d69b4	Scholars
+PROG:800d69c0	Arts
+PROG:800d69cc	Med.
+PROG:800d69d8	Crafts
+PROG:800d6a0c	Farm
+PROG:800d6a14	Ranch
+PROG:800d6a1c	Armory
+PROG:800d6a28	Drill Field
+PROG:800d6a30	Sawmill
+PROG:800d6a38	Univ.
+PROG:800d6a40	Art Studio
+PROG:800d6a4c	Clinic
+PROG:800d6a54	Crafts
+PROG:800d6c14	No nations
+PROG:800d6c24	Switch Unit
+PROG:800d6c30	Next Gen.
+PROG:800d6c3c	Consort
+PROG:800d6c44	Princess
+PROG:800d6c4c	Switch Type
+PROG:800d6c74	Wolf of the Steppe
+PROG:800d6c84	Blue Wolf Heirs
+PROG:800d6c98	Spring
+PROG:800d6ca0	Summer
+PROG:800d6ca8	Farm
+PROG:800d6cb0	Herd
+PROG:800d6cb8	Arms
+PROG:800d6cc0	Tact.
+PROG:800d6cc8	Sail
+PROG:800d6cd0	Build
+PROG:800d6cd8	Study
+PROG:800d6ce0	Arts
+PROG:800d6ce8	Med.
+PROG:800d6cf0	Crafts
+PROG:800d6cf8	Japan
+PROG:800d6d00	China
+PROG:800d6d08	Mon.
+PROG:800d6d10	India
+PROG:800d6d18	Islam
+PROG:800d6d20	E.Eur
+PROG:800d6d28	W.Eur
+PROG:800d6d30	India
+PROG:800d6d38	Islam
+PROG:800d6d44	10
+PROG:800d6d4c	11
+PROG:800d6d54	12
+PROG:800d6d5c	13
+PROG:800d6d64	14
+PROG:800d6d6c	15
+PROG:800d6d74	16
+PROG:800d6d7c	17
+PROG:800d6d84	18
+PROG:800d6d8c	19
+PROG:800d6d94	20
+PROG:800d6d9c	21
+PROG:800d6da4	22
+PROG:800d6dac	23
+PROG:800d6db4	24
+PROG:800d6dbc	25
+PROG:800d6dc4	26
+PROG:800d6dcc	27
+PROG:800d6dd4	28
+PROG:800d6ddc	29
+PROG:800d6de4	30
+PROG:800d6dec	31
+PROG:800d6df4	32
+PROG:800d6dfc	33
+PROG:800d6e04	34
+PROG:800d6e0c	35
+PROG:800d6e14	36
+PROG:800d6e1c	37
+PROG:800d6e24	38
+PROG:800d6e2c	39
+PROG:800d6e34	--
+PROG:800d6e3c	---
+PROG:800d6e44	Bldg
+PROG:800d6e4c	City
+PROG:800d6e54	Unit
+PROG:800d705c	Set up the play environment
+PROG:800d70ac	Stereo
+PROG:800d70b8	Mono
+PROG:800d70c4	Short
+PROG:800d70cc	Mid
+PROG:800d70d4	Long
+PROG:800d70dc	Show
+PROG:800d70e4	Select
+PROG:800d70ec	Hide
+PROG:800d70f4	OK
+PROG:800d7120	Sound
+PROG:800d712c	Display Time
+PROG:800d7138	Own Wars
+PROG:800d7300	Name
+PROG:800d7308	Mom
+PROG:800d7310	Age
+PROG:800da518	Mobile
+PROG:800da520	Chg
+PROG:800da528	Volley
+PROG:800da530	Fire
+PROG:800da538	Siege
+PROG:800da540	Amb
+PROG:800da560	King
+PROG:800da568	Clan
+PROG:800da570	Kin
+PROG:800da578	Folk
+PROG:800da580	Frgn
+PROG:800da5a0	Inf 
+PROG:800da5a8	Arch 
+PROG:800da5b0	Cav 
+PROG:800da5b8	Navy 
+PROG:800da6b0	General
+PROG:800da6b8	Rank
+PROG:800da6c0	Age
+PROG:800da6c8	Loy
+PROG:800da6d0	Merit
+PROG:800da6d8	Pol
+PROG:800da6e0	Cmb
+PROG:800da6e8	Int
+PROG:800da6f0	Unit
+PROG:800da6f8	Acted
+PROG:800da700	Nation
+PROG:800da708	Home Region
+PROG:800da714	City
+PROG:800da720	Location
+PROG:800da728	Inf
+PROG:800da730	Arch
+PROG:800da738	Cav
+PROG:800da740	Navy
+PROG:800da748	Farm
+PROG:800da750	Trade
+PROG:800da758	Build
+PROG:800da760	Cul
+PROG:800da768	Diplo
+PROG:800da770	Rec
+PROG:800da778	Mobile
+PROG:800da780	Chg
+PROG:800da788	Volley
+PROG:800da790	Fire
+PROG:800da798	Siege
+PROG:800da7a0	Amb
+PROG:800da7a8	Rel.
+PROG:800da7b0	Gpa
+PROG:800da7b8	In-law
+PROG:800da7c0	Son
+PROG:800da7c8	Bro.
+PROG:800da7d0	Uncle
+PROG:800da968	Quit the game?
+PROG:800db21c	Envoy
+PROG:800db224	Farmer
+PROG:800db22c	Merchant
+PROG:800db234	Minstrel
+PROG:800db240	Biwa Priest
+PROG:800db24c	Gessler
+PROG:800db258	Piper
+PROG:800db264	Seer
+PROG:800e1504	-
+PROG:800ed3b0	Sea
+PROG:800ed3b8	Coast
+PROG:800ed3c0	Plains
+PROG:800ed3c8	Desert
+PROG:800ed3d0	Forest
+PROG:800ed3d8	Jungle
+PROG:800ed3e0	Marsh
+PROG:800ed3e8	Mtns
+PROG:800ed3f0	Lake
+PROG:800ed4f4	City
+PROG:800ed4fc	Farm
+PROG:800ed504	Ranch
+PROG:800ed50c	Armory
+PROG:800ed518	Drill Field
+PROG:800ed520	Sawmill
+PROG:800ed528	Univ.
+PROG:800ed530	Art Studio
+PROG:800ed53c	Clinic
+PROG:800ed544	Crafts
+PROG:800ed5d0	Region
+PROG:800ed5d8	King
+PROG:800ed5e0	City
+PROG:800ed5e8	Lord
+PROG:800ed5f0	Road
+PROG:800ed5f8	Sea
+PROG:800ed600	Switch
+PROG:800ed608	--------------
+PROG:800ed70c	Switch the minimap display.
+PROG:800ed728	Pass and end your turn?\nIs that OK?
+PROG:800ed754	Select the nation to play.
+PROG:800edb1c	Use the D-pad to switch maps.
+PROG:800edeb4	-
+PROG:800ee0d0	OK
+PROG:800ee0d8	Cancel
+PROG:800ee0e0	OK
+PROG:800ee3c4	An
+PROG:800ee3cc	Lun
+PROG:800ee3d4	Lukna
+PROG:800ee3dc	Lan
+PROG:800ee3e4	Lin
+PROG:800ee3ec	Luk
+PROG:800ee3f4	Lik
+PROG:800ee3fc	Tori
+PROG:800ee404	Luche
+PROG:800ee40c	Lichu
+PROG:800ee43c	Shana
+PROG:800ee444	Haar
+PROG:800ee44c	Rata
+PROG:800ee454	Ti
+PROG:800ee46c	Zard
+PROG:800ee474	Lien
+PROG:800ee47c	Ida
+PROG:800ee484	Tima
+PROG:800ee49c	Dia
+PROG:800ee4a4	Rina
+PROG:800ee4ac	Lis
+PROG:800ee4b4	Lett
+PROG:800ee4bc	Rette
+PROG:800ee4d8	Dora
+PROG:800ee4e0	Sia
+PROG:800ee4e8	Riche
+PROG:800ee4f4	Anne
+PROG:800ee4fc	Rix
+PROG:800ee518	Grace
+PROG:800ee524	Roxane
+PROG:800ee530	Rosana
+PROG:800ee538	Aimee
+PROG:800ee544	Carla
+PROG:800ee54c	Katherine
+PROG:800ee558	Catherine
+PROG:800ee564	Cindy
+PROG:800ee570	Karen
+PROG:800ee578	Charlotte
+PROG:800ee588	Charlotte
+PROG:800ee598	Christina
+PROG:800ee5a8	Christine
+PROG:800ee5b8	Christine
+PROG:800ee5c8	Clara
+PROG:800ee5d0	Claire
+PROG:800ee5d8	Iris
+PROG:800ee5e0	Eleanor
+PROG:800ee5ec	Elizabeth
+PROG:800ee5f8	Elisabeth
+PROG:800ee608	Isabelle
+PROG:800ee614	Emmanuelle
+PROG:800ee620	Francisca
+PROG:800ee630	Olivia
+PROG:800ee63c	Henrietta
+PROG:800ee64c	Helen
+PROG:800ee654	Helene
+PROG:800ee660	Gloria
+PROG:800ee66c	Isabella
+PROG:800ee678	Jane
+PROG:800ee684	Jeanne
+PROG:800ee690	Margaret
+PROG:800ee6a0	Margarita
+PROG:800ee6b0	Mary
+PROG:800ee6b8	Maria
+PROG:800ee6c0	Pamela
+PROG:800ee6c8	Matilda
+PROG:800ee6d4	Sally
+PROG:800ee6dc	Lillian
+PROG:800ee6e8	Susanna
+PROG:800ee6f4	Suzanne
+PROG:800ee700	Lorraine
+PROG:800ee70c	Therese
+PROG:800ee718	Sylvia
+PROG:800ee724	Luisa
+PROG:800ee730	Julienne
+PROG:800ee740	Natalie
+PROG:800ee814	Kazarin
+PROG:800ee820	Anastasia
+PROG:800ee830	Nikita
+PROG:800ee83c	Marta
+PROG:800ee844	Mildia
+PROG:800ee850	Bianca
+PROG:800ee85c	Sigria
+PROG:800ee868	Marianne
+PROG:800ee874	Bozena
+PROG:800ee880	Salome
+PROG:800ee888	Euphemia
+PROG:800ee898	Catalina
+PROG:800ee8a4	Systia
+PROG:800ee8b0	Zora
+PROG:800ee8b8	Pandora
+PROG:800ee8c4	Alexandra
+PROG:800ee8d4	Sandra
+PROG:800ee8e0	Anita
+PROG:800ee8ec	Evia
+PROG:800ee8f8	Sarah
+PROG:800ee900	Elise
+PROG:800ee90c	Sevilla
+PROG:800ee918	Joju
+PROG:800ee924	Gabriela
+PROG:800ee930	Andrea
+PROG:800ee93c	Michaela
+PROG:800ee948	Teriera
+PROG:800ee954	Eva
+PROG:800ee95c	Mariah
+PROG:800ee968	Elvia
+PROG:800ee974	Prisia
+PROG:800ee980	Helena
+PROG:800ee988	Bradica
+PROG:800ee994	Mariya
+PROG:800ee9a0	Julian
+PROG:800ee9ac	Valerian
+PROG:800ee9bc	Teresa
+PROG:800ee9c4	Constancia
+PROG:800ee9d4	Stasia
+PROG:800ee9e0	Natasha
+PROG:800ee9ec	Fiana
+PROG:800ee9f8	Erin
+PROG:800eea00	Cynthia
+PROG:800eea0c	Cassandra
+PROG:800eea18	Tatiana
+PROG:800eea24	Lilith
+PROG:800eea2c	Ozaria
+PROG:800eea38	Rosamia
+PROG:800eeb0c	Lady
+PROG:800eeb14	Pr.
+PROG:800eeb1c	Gov.
+PROG:800eeb24	Regime
+PROG:800eeb2c	Court
+PROG:800eeb40	Kingdom
+PROG:800eeb48	Dynasty
+PROG:800eeb64	Emp.
+PROG:800eeb6c	League
+PROG:800eeb8c	Duchy
+PROG:800eeedc	Kamakura
+PROG:800ef1ec	Musicians
+PROG:800ef224	Dancer
+PROG:800ef634	Spring
+PROG:800ef63c	Summer
+PROG:800ef644	%4d %-4s
+PROG:800ef650	%s planning
+PROG:800ef65c	Region %s
+PROG:800ef664	%s units +%d
+PROG:800ef674	%s unit %s
+PROG:800ef680	City %s
+PROG:800ef690	(Road) 
+PROG:800ef6a8	River
+PROG:800ef754	Revolt
+PROG:800ef75c	Secede
+PROG:800ef764	Army
+PROG:800ef76c	Haul
+PROG:800ef774	Labor
+PROG:800ef77c	Envoy
+PROG:800ef784	Spy
+PROG:800ef78c	Move
+PROG:800ef794	Trade
+PROG:800ef79c	Move
+PROG:800ef7c4	Navy
+PROG:800ef7cc	Ship
+PROG:800ef7d4	Labor Unit

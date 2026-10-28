@@ -1,0 +1,702 @@
+@25001
+The young King of {02850201}, {021e0201}, has fallen ill and died with his ambitions unfulfilled.
+
+@25001.1
+King {021e0201} of {02850201} has lived out his years and passed away.
+
+@25001.2
+King {021e0201} of {02850201} has fallen ill and died despite all care.
+
+@25001.3
+King {021e0201} of {02850201} has been struck by a sudden illness and died with his ambitions unfulfilled.
+
+@25001.4
+King {021e0201} of {02850201} has died suddenly in an unforeseen accident.
+
+@25002
+{021e0201} has fallen ill and died young.
+
+@25002.1
+{021e0201} has lived out his years and passed away.
+
+@25002.2
+{021e0201}, Lord of {02860201}, has fallen ill and died.
+
+@25002.3
+{021e0201} has fallen ill and died.
+
+@25003
+Your son {021e0201} has fallen ill and died young.
+
+@25003.1
+Your son {021e0201} has lived out his years and passed away.
+
+@25003.2
+Your son {021e0201}, Lord of {02860201}, has fallen ill and died.
+
+@25003.3
+Your son {021e0201} has fallen ill and died.
+
+@25004
+Alas, {C4}... Would you leave this {C1} behind...?
+
+@25004.1
+Alas, {C25000}... Why take {C4} from me?
+
+@25005
+Alas, my son-in-law... To leave my daughter behind and go before her...
+
+@25005.1
+Alas, {021e0202}... What a great loss your death is to our nation!
+
+@25006
+{021e0202}, who long supported our nation, has gone... Rest in peace now.
+
+@25006.1
+{021e0202}... You served us so well. I will never forget you.
+
+@25007
+Alas, {021e0202}... To go in the prime of your service...
+
+@25007.1
+{021e0202} has gone... Let us pray for the soul of the departed.
+
+@25007.2
+Alas, {021e0202}... Rest in peace now.
+
+@25008
+Your consort {0288021a} has died.
+
+@25009
+Alas, {0288021a}... Why did you leave me and die?
+
+@25009.1
+Alas, {C25000}... Why do you so mercilessly take the one I love most?
+
+@25010
+{0288021a}, who had married {021e0201}, has died.
+
+@25011
+Alas, {0288021a}... {021e0202}, mourn my daughter's death with me...
+
+@25012
+{0288021a}, consort of {021e0201}, has died.
+
+@25013
+Your daughter {0210} has died.
+
+@25014
+Alas, {0210}... If I had known it would come to this, I should have married you off sooner...
+
+@25014.1
+Alas, {C25000}... Would you so heartlessly take my beloved daughter?
+
+@25015
+{021e0201}, your alliance with {021e0202} of {02850202} has ended.
+
+@25016
+{021e0201}, your alliance with {021e0202} of {02850202} will end in one year.
+
+@25017
+Soldiers deserted for lack of provisions? Running away because they were hungry... What a pathetic lot.
+
+@25017.1
+The soldiers deserted, you say... With the provisions gone, I can hardly blame them... But we must do something.
+
+@25018
+Damn! The provisions ran out and all the soldiers fled... I must go back to {02860201} for now.
+
+@25018.1
+With no provisions, all my men have run off... Once I am back in {02860201}, I will beat the spirit back into them.
+
+@25018.2
+My hungry soldiers have fled... I should have plundered what I needed to feed them.
+
+@25018.3
+The food ran out and the troops fled. Deserting is unchivalrous, but none can fight hungry...
+
+@25018.4
+The provisions ran out, the men fled... In the end I am left alone...
+
+@25018.5
+To abandon me alone just because the provisions ran short...
+
+@25019
+{021e0201} has set out as a wanderer.
+
+@25020
+The confusion has finally subsided. If we stayed confused any longer, we would play right into the enemy's hands.
+
+@25020.1
+If the enemy had attacked us like that, we would not have stood a chance. Somehow the confusion has calmed.
+
+@25020.2
+The confusion has somehow calmed. We nearly became easy prey for the enemy.
+
+@25021
+{026b0206} is surrounded by the enemy and has no income.
+
+@25022
+{026b0206} cannot pay salaries for lack of provisions, and soldiers are deserting.
+
+@25023
+{026b0206} cannot pay salaries for lack of funds, and the generals are grumbling.
+
+@25024
+invented
+
+@25024.1
+obtained
+
+@25024.2
+devised
+
+@25024.3
+born
+
+@25024.4
+discovered
+
+@25025
+In {02920206}, {0210}{C190} was {C25024}.
+
+@25026
+Whoa, a sudden storm!
+
+@25026.1
+What, a sudden storm! The mast has snapped! The ship is sinking, everyone abandon ship!
+
+@25026.2
+A storm! Furl the sails! Lash down the cargo! The ship will not hold like this!
+
+@25026.3
+Damn, a storm! Ah, the ship is going down... Everything is lost to the sea.
+
+@25027
+{021e0201}'s {0210} seems to have been lost at sea while sailing with {0211}.
+
+@25028
+Our caravan seems to have been lost in a storm while sailing with {0210}.
+
+@25029
+We cannot build facilities outside our territory.
+
+@25029.1
+Facilities cannot be built outside your territory.
+
+@25030
+The expansion of {026b0206} is complete.
+
+@25030.1
+The expansion of {026b0206} is complete.
+
+@25031
+{0210} is complete.
+
+@25031.1
+{0210} is complete.
+
+@25032
+All the roads are complete.
+
+@25032.1
+All the roads are complete.
+
+@25033
+The road has been removed.
+
+@25033.1
+The road has been removed.
+
+@25034
+There is a city at the destination, so we cannot enter. Canceling the move and waiting.
+
+@25034.1
+There is a city at the destination and it cannot be entered. Move canceled; waiting.
+
+@25035
+There is a foreign city at the destination, so we cannot enter. Canceling the move and waiting.
+
+@25035.1
+There is a foreign city at the destination and it cannot be entered. Move canceled; waiting.
+
+@25036
+We have reached the destination. Let us wait here for now.
+
+@25036.1
+Arrived at the destination. Waiting here.
+
+@25037
+We cannot track the target any further. Canceling the move and waiting here for now.
+
+@25037.1
+The target can no longer be tracked. Move canceled; waiting here for now.
+
+@25038
+{026b0206} is already ruled by another nation. Canceling the move and waiting.
+
+@25038.1
+{026b0206} is already under another nation's rule. Move canceled; waiting.
+
+@25039
+Let us enter {026b0206}.
+
+@25039.1
+Entering {026b0206}.
+
+@25040
+We have reached {026b0206}. Let us wait for now.
+
+@25040.1
+Arrived at {026b0206}. Waiting here.
+
+@25041
+We have lost sight of the target... It cannot be helped. Let us abort the mission and return to {02860201}.
+
+@25041.1
+The attack target has been lost... Mission aborted for now. Returning to {02860201}.
+
+@25042
+We have taken {026b0206}! Let us enter at once.
+
+@25042.1
+{026b0206} is already our city. Entering at once.
+
+@25043
+{026b0206}, our target, has been taken by an ally... It cannot be helped. Let us return to {02860201}.
+
+@25043.1
+{026b0206}, the target, already belongs to an ally. Attack canceled; returning to {02860201}.
+
+@25044
+There is a city at the destination, so we cannot enter. Canceling the plunder and waiting.
+
+@25044.1
+There is a city at the destination and it cannot be entered. Plunder canceled; waiting.
+
+@25045
+There is a foreign city at the destination, so we cannot enter. Canceling the plunder and waiting.
+
+@25045.1
+There is a foreign city at the destination and it cannot be entered. Plunder canceled; waiting.
+
+@25046
+The facility there does not belong to an enemy nation. Canceling the plunder and waiting.
+
+@25046.1
+The facility at the destination does not belong to an enemy nation. Plunder canceled; waiting.
+
+@25047
+There is no facility at the destination. Canceling the plunder and waiting for now.
+
+@25047.1
+There is no facility at the destination. Plunder canceled; waiting.
+
+@25048
+We cannot find the target army. Canceling the resupply and waiting here for now.
+
+@25048.1
+The target army cannot be found. Resupply canceled; waiting.
+
+@25049
+Resupply of the target army is complete. Let us return to {02860201}.
+
+@25049.1
+Resupply of the target is complete. Returning to {02860201}.
+
+@25050
+{026b0206} is already ruled by another nation...\p Canceling the resupply and returning to {02860201}.
+
+@25050.1
+{026b0206} is under another nation's rule...\p Resupply canceled; returning to {02860201}.
+
+@25051
+Resupply of {026b0206} is complete...\p Let us return to {02860201}.
+
+@25051.1
+Resupply of {026b0206} is complete...\p Now returning to {02860201}.
+
+@25052
+There is no general to persuade into defecting...\p Aborting the mission and returning to {02860201}.
+
+@25052.1
+There is no general to persuade into defecting...\p Mission aborted; returning to {02860201}.
+
+@25053
+There is no general to incite to rebellion...\p Aborting the mission and returning to {02860201}.
+
+@25053.1
+There is no general to incite to rebellion...\p Mission aborted; returning to {02860201}.
+
+@25054
+There is no general to target with rumors...\p Aborting the mission and returning to {02860201}.
+
+@25054.1
+There is no general to target with rumors...\p Mission aborted; returning to {02860201}.
+
+@25055
+Spreading more slander about {021e0202} is pointless now...\p Ending the rumors and returning to {02860201}.
+
+@25055.1
+Spreading more slander about {021e0202} seems pointless now...\p Rumors ended; returning to {02860201}.
+
+@25056
+There is no king to target for conflict...\p Aborting the mission and returning to {02860201}.
+
+@25056.1
+There is no king to target for conflict...\p Mission aborted; returning to {02860201}.
+
+@25057
+There is no nation to provoke into conflict...\p Aborting the mission and returning to {02860201}.
+
+@25057.1
+There is no nation to provoke into conflict...\p Mission aborted; returning to {02860201}.
+
+@25058
+There is no general to assassinate...\p Aborting the mission and returning to {02860201}.
+
+@25058.1
+There is no general to assassinate...\p Mission aborted; returning to {02860201}.
+
+@25059
+There is a city at the destination, so we cannot enter. Canceling the destruction and waiting.
+
+@25059.1
+There is a city at the destination and it cannot be entered. Destruction canceled; waiting.
+
+@25060
+There seems to be an enemy city at the destination. Let us change the mission to destroying {026b0206}.
+
+@25060.1
+There is an enemy city at the destination. Changing the mission to destroying {026b0206}.
+
+@25061
+We are out of money...\p Canceling the destruction and returning to {02860201}.
+
+@25061.1
+Out of money...\p Destruction canceled; returning to {02860201}.
+
+@25062
+There is no facility at the destination. Canceling the destruction and waiting here for now.
+
+@25062.1
+There is no facility at the destination. Destruction canceled; waiting.
+
+@25063
+The facility there does not belong to an enemy nation. Canceling the destruction and waiting.
+
+@25063.1
+The facility at the destination does not belong to an enemy nation. Destruction canceled; waiting.
+
+@25064
+No more of {026b0206} can be destroyed...\p Aborting the mission and returning to {02860201}.
+
+@25064.1
+{026b0206} cannot be destroyed any further...\p Mission aborted; returning to {02860201}.
+
+@25065
+{026b0206} is not an enemy city...\p Canceling the destruction and returning to {02860201}.
+
+@25065.1
+{026b0206} is not an enemy city...\p Destruction canceled; returning to {02860201}.
+
+@25066
+There is no need to destroy more of {026b0206}...\p Aborting the mission and returning to {02860201}.
+
+@25066.1
+There seems to be no need to destroy more of {026b0206}...\p Mission aborted; returning to {02860201}.
+
+@25067
+There is no army to throw into disarray...\p Aborting the mission and returning to {02860201}.
+
+@25067.1
+There is no army to throw into disarray...\p Mission aborted; returning to {02860201}.
+
+@25068
+There is no king to ally with...\p Aborting the mission and returning to {02860201}.
+
+@25068.1
+There is no king to ally with...\p Mission aborted; returning to {02860201}.
+
+@25069
+We cannot deepen relations with {02850202} any further...\p Aborting the mission and returning to {02860201}.
+
+@25069.1
+Relations with {02850202} cannot be deepened further...\p Mission aborted; returning to {02860201}.
+
+@25070
+There is no king to marry into...\p Aborting the mission and returning to {02860201}.
+
+@25070.1
+There is no king to marry into...\p Mission aborted; returning to {02860201}.
+
+@25071
+There is no princess available to marry...\p Aborting the mission and returning to {02860201}.
+
+@25071.1
+There is no princess available to marry...\p Mission aborted; returning to {02860201}.
+
+@25072
+There is no king whose alliance can be broken...\p Aborting the mission and returning to {02860201}.
+
+@25072.1
+There is no king whose alliance can be broken...\p Mission aborted; returning to {02860201}.
+
+@25073
+The alliance with {02850202} has already been broken...\p Aborting the mission and returning to {02860201}.
+
+@25073.1
+The alliance with {02850202} is already broken...\p Mission aborted; returning to {02860201}.
+
+@25074
+There is no king to threaten...\p Aborting the mission and returning to {02860201}.
+
+@25074.1
+There is no king to threaten...\p Mission aborted; returning to {02860201}.
+
+@25075
+There is no king to send a gift to...\p Aborting the mission and returning to {02860201}.
+
+@25075.1
+There is no king to send a gift to...\p Mission aborted; returning to {02860201}.
+
+@25076
+We have nothing to give {021e0202}...\p Aborting the mission and returning to {02860201}.
+
+@25076.1
+There is nothing to give {021e0202}...\p Mission aborted; returning to {02860201}.
+
+@25077
+There is no king to ask for a joint campaign...\p Aborting the mission and returning to {02860201}.
+
+@25077.1
+There is no king to ask for a joint campaign...\p Mission aborted; returning to {02860201}.
+
+@25078
+The alliance with {02850202} has expired...\p Canceling the request for a joint campaign and returning to {02860201}.
+
+@25078.1
+The alliance with {02850202} has expired...\p Request canceled; returning to {02860201}.
+
+@25079
+A joint campaign is already in place, so we cannot ask {02850202} for one...\p Aborting the mission and returning to {02860201}.
+
+@25079.1
+A joint campaign is already in place, so {02850202} cannot be asked for one...\p Mission aborted; returning to {02860201}.
+
+@25080
+There is a city at the destination, so we cannot enter...\p Canceling construction and waiting here for now.
+
+@25080.1
+There is a city at the destination and it cannot be entered...\p Construction canceled; waiting here.
+
+@25081
+There is a foreign city at the destination, so we cannot enter...\p Aborting the mission and waiting.
+
+@25081.1
+There is a foreign city at the destination and it cannot be entered...\p Mission aborted; waiting.
+
+@25082
+The destination lies outside our territory...\p Aborting the mission and waiting here for now.
+
+@25082.1
+The destination is outside our territory...\p Mission aborted; waiting.
+
+@25083
+There is a special product at the destination, so we cannot build here...\p Aborting the mission and waiting.
+
+@25083.1
+A special product was found at the destination...\p Mission aborted; waiting.
+
+@25084
+{026b0206} is already ruled by another nation...\p Canceling the expansion and waiting.
+
+@25084.1
+{026b0206} is now a foreign city...\p Expansion canceled; waiting.
+
+@25085
+There is no city that can be expanded...\p Let us abort the mission for now and return to {02860201}.
+
+@25085.1
+There is no city that can be expanded.\p Mission aborted for now...\p Returning to {02860201}.
+
+@25086
+There is no place to build a road...\p Aborting the mission and waiting.
+
+@25086.1
+There is no place where a road can be built...\p Mission aborted; waiting.
+
+@25087
+The destination is too close to another city...\p Canceling the settlement and waiting here for now.
+
+@25087.1
+There is a city near the destination, so we cannot settle...\p Settlement canceled; waiting.
+
+@25088
+The destination is too close to a foreign city...\p Canceling the settlement and waiting.
+
+@25088.1
+There is a foreign city near the destination, so we cannot settle...\p Settlement canceled; waiting.
+
+@25089
+There is a city at the destination and it cannot be entered...\p Movement canceled; waiting.
+
+@25090
+There is a foreign city at the destination and it cannot be entered...\p Movement canceled; waiting.
+
+@25091
+We have arrived at the destination...\p Movement ended; waiting.
+
+@25092
+The target can no longer be tracked...\p Movement canceled; waiting.
+
+@25093
+{026b0206} is a foreign city...\p Movement canceled; waiting.
+
+@25094
+We have arrived at {026b0206}...\p Movement ended; waiting.
+
+@25095
+{026b0206} is under another nation's rule...\p Canceling trade and waiting.
+
+@25095.1
+{026b0206} is a foreign city...\p Trade canceled; waiting.
+
+@25096
+{026b0206} is a foreign city...\p Trade canceled; waiting.
+
+@25097
+The road between {026b0206} and {02860201} has been cut...\p Canceling trade and waiting here for now.
+
+@25097.1
+The road between {026b0206} and {02860201} has been cut...\p Trade canceled; waiting here.
+
+@25098
+The road between {026b0206} and {026b0207} has been cut...\p Trade canceled; waiting here.
+
+@25099
+In {02860201}, the City of Learning, {021e0201}'s {0210} ability has blossomed and risen to {0215}.
+
+@25100
+In {02860201}, the City of Learning, {021e0201}'s {0210} talent blossomed into the skill "{0210}".
+
+@25101
+In {02860201}, the City of Soldiers, {021e0201}'s combat ability has blossomed and risen to {0215}.
+
+@25102
+In {02860201}, the City of Soldiers, {021e0201}'s combat ability blossomed, gaining the skill "{0210}".
+
+@25103
+In {02860201}, the City of Soldiers, {021e0201}'s aptitude for infantry has blossomed and risen to {0210}.
+
+@25104
+In {02860201}, the City of Water, {021e0201}'s naval aptitude has blossomed and risen to {0210}.
+
+@25105
+In {02860201}, the City of Arms, {021e0201}'s aptitude for archers has blossomed and risen to {0210}.
+
+@25106
+In {02860201}, the City of Herdsmen, {021e0201}'s aptitude for cavalry has blossomed and risen to {0210}.
+
+@25107
+An earthquake has struck {0210}, damaging the surrounding region.
+
+@25108
+An earthquake has struck {0210}, causing great damage to the surrounding region.
+
+@25109
+A great earthquake has struck {0210}, causing great damage to the surrounding region.
+
+@25110
+The earthquake in {0210} has caused damage in our own territory as well.
+
+@25111
+What?! An earthquake in our territory?\p Report the damage to me at once!
+
+@25112
+{026b0206}, the City of Builders, was spared by the earthquake.
+
+@25113
+As expected of {026b0206}, the City of Builders!\p A tremor like this cannot shake it!
+
+@25114
+The plague that raged in {0210} has passed.
+
+@25115
+The plague that killed so many in {0210} seems to have ended.
+
+@25116
+Good. Now the people of {0210} can live in peace.
+
+@25117
+A plague has broken out in {0210}.
+
+@25118
+Many have died in {0210}.
+
+@25119
+The plague in {0210} has caused damage in our own territory as well.
+
+@25120
+What?! A plague in our territory?\p Report the damage to me at once!
+
+@25121
+{026b0206}, the City of Medicine, was spared by the plague.
+
+@25122
+As expected of {026b0206}, the City of Medicine!\p Plague is no longer a threat to us.
+
+@25123
+The target city is in ruins, so there is nothing to be done...\p Aborting the mission for now and returning to {02860201}.
+
+@25123.1
+The target city has fallen to ruins...\p Mission aborted for now; returning to {02860201}.
+
+@25124
+We have lost sight of the target... It cannot be helped.\p Aborting the mission for now and returning to {02860201}.
+
+@25124.1
+We have lost sight of the target...\p Aborting the mission for now and returning to {02860201}.
+
+@25125
+The general we were targeting is dead, so there is nothing to be done...\p Aborting the mission for now and returning to {02860201}.
+
+@25125.1
+The general we were targeting has died...\p Mission aborted for now; returning to {02860201}.
+
+@25126
+The road is complete!\p Let us return to {02860201}.
+
+@25126.1
+The road is complete.\p Returning to {02860201}.
+
+@25127
+I cannot find a road to build.\p Let us return to {02860201}.
+
+@25127.1
+There is no road that needs building...\p Mission aborted for now; returning to {02860201}.
+
+@25128
+I cannot find a place to build.\p Let us return to {02860201}.
+
+@25128.1
+There is no place that needs building...\p Mission aborted for now; returning to {02860201}.
+
+@25129
+We cannot make a pact with {02850202}, the target of our joint campaign...\p Aborting the mission for now and returning to {02860201}.
+
+@25129.1
+We cannot make a pact with {02850202}, the target of our joint campaign...\p Mission aborted for now; returning to {02860201}.
+
+@25130
+We cannot marry into {02850202}, the target of our joint campaign...\p Aborting the mission for now and returning to {02860201}.
+
+@25130.1
+We cannot marry into {02850202}, the target of our joint campaign...\p Mission aborted for now; returning to {02860201}.
+
+@25131
+We are out of money...\p Aborting the mission and returning to {02860201}.
+
+@25131.1
+We are out of money...\p Mission aborted; returning to {02860201}.
+

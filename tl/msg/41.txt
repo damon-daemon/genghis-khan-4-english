@@ -1,0 +1,327 @@
+@41000
+William II (????-????)
+
+@41001
+3
+
+@41003
+Michael Scot (????-1236)
+
+@41004
+526
+
+@41006
+Enrico Dandolo (????-1205)
+
+@41007
+557
+
+@41009
+St. Francis (1182-1226)
+
+@41010
+79
+
+@41012
+Frederick I (????-1190)
+
+@41013
+2
+
+@41015
+Henry VI (1165-1197)
+
+@41016
+495
+
+@41018
+Frederick II (1194-1250)
+
+@41019
+74
+
+@41021
+Leopold (????-????)
+
+@41022
+497
+
+@41023
+Duke of Austria. When King Richard I of England trampled on his ducal banner, he arrested Richard and handed him over to Holy Roman Emperor Henry VI.
+
+@41024
+Walther (1170-1229)
+
+@41025
+498
+
+@41027
+Albertus Magnus (1200-1280)
+
+@41028
+499
+
+@41029
+A German natural scientist and philosopher. He mastered all the learning of his day. He taught and researched at a university he founded, and sent the theologian Thomas Aquinas out into the world.
+
+@41030
+Otto (1174-1218)
+
+@41031
+500
+
+@41033
+Philip II (1165-1223)
+
+@41034
+1
+
+@41036
+Louis VIII (1187-1226)
+
+@41037
+420
+
+@41039
+Louis IX (1214-1270)
+
+@41040
+75
+
+@41042
+Count of Flanders (????-????)
+
+@41043
+424
+
+@41045
+Richard I (1157-1199)
+
+@41046
+0
+
+@41047
+King of England. He distinguished himself in the Crusades and in the wars against France, and was called the Lionheart. But he neglected domestic affairs and squandered public funds, ruining the state finances.
+
+@41048
+John (1167-1216)
+
+@41049
+76
+
+@41051
+Longchamp (????-????)
+
+@41052
+451
+
+@41053
+Chief justiciar of England. He ran the government in place of King Richard I, who was away on crusade. His tyranny provoked the other lords to revolt, and he fled abroad.
+
+@41054
+Hubert Walter (????-????)
+
+@41055
+450
+
+@41057
+Dei Rossi (????-????)
+
+@41058
+453
+
+@41060
+Simon de Montfort (1208-1265)
+
+@41061
+454
+
+@41062
+A French-born English noble. He clashed with his sovereign, Henry III. To resist the king he rallied the opposition and laid the foundation of today's English Parliament.
+
+@41063
+Robin Hood (????-????)
+
+@41064
+77
+
+@41066
+Alfonso VIII (1155-1214)
+
+@41067
+4
+
+@41069
+Sancho (1154-1211)
+
+@41070
+560
+
+@41072
+St. Dominic (1170-1221)
+
+@41073
+83
+
+@41074
+A Spanish priest. He founded the Dominican Order. He is said to have given away all his wealth to the poor suffering in famine. The Dominicans later became the most powerful order of the Christian Church.
+
+@41075
+Cao Tong (????-????)
+
+@41078
+Tran Thu Do (????-????)
+
+@41079
+175
+
+@41080
+A powerful lord of Ly-dynasty Vietnam and founder of the Tran dynasty. After seizing real power under the Ly, he forced Emperor Chieu Hoang to abdicate and placed his own nephew on the throne.
+
+@41081
+Jayavarman (1130-1218)
+
+@41082
+26
+
+@41084
+Theodorus (????-1222)
+
+@41085
+82
+
+@41087
+Prithviraj (????-1192)
+
+@41088
+265
+
+@41090
+Otomo Yoriyasu (1222-1300)
+
+@41091
+143
+
+@41092
+A warrior of the Kamakura period. He served as the Chinzei magistrate. Put in charge of defending Kyushu with Shoni Sukeyoshi, he fought in the Mongol invasions. Even after the Mongols withdrew, he settled in Bungo in Kyushu and became a local magnate.
+
+@41093
+Adachi Yasumori (1231-1285)
+
+@41094
+136
+
+@41095
+A warrior of the Kamakura period. He held key posts such as Hyojoshu. He married his daughter to Hojo Tokimune and wielded power as an in-law, but after Tokimune's death he lost a struggle with Taira no Yoritsuna and his whole clan was destroyed.
+
+@41096
+Shi Tianze (1202-1275)
+
+@41097
+166
+
+@41099
+al-Tusi (1201-1274)
+
+@41100
+338
+
+@41102
+Saadi (1184-1291)
+
+@41103
+333
+
+@41104
+A Persian poet. After studying at the university in Baghdad, he wandered through many lands as a begging dervish for thirty years. His works, the Orchard and the Rose Garden, are masterpieces woven with lessons for life.
+
+@41105
+Rumi (????-????)
+
+@41106
+335
+
+@41107
+A Persian lyric poet. He left masterpieces of poetry based on Islamic mysticism. He also founded the Mevlevi order of dervishes and spread the practice of whirling dance.
+
+@41108
+Ibn Said (1208-1286)
+
+@41109
+371
+
+@41111
+Henrik Koszegi (????-1274)
+
+@41112
+398
+
+@41114
+Roger Bacon (1214-1294)
+
+@41115
+97
+
+@41117
+Conrad (1220-1287)
+
+@41118
+521
+
+@41120
+Guo Shoujing (1231-1316)
+
+@41121
+86
+
+@41123
+Juvayni (1226-1283)
+
+@41124
+337
+
+@41125
+A historian of the Ilkhanate. After serving as Hulagu's secretary, he was appointed governor of Baghdad. His History of the World Conqueror became a valuable source on the Mongols.
+
+@41126
+Sverre (????-????)
+
+@41127
+600
+
+@41129
+Snorri Sturluson (1178-1241)
+
+@41130
+504
+
+@41132
+Hojo Tokimune (1251-1284)
+
+@41133
+53
+
+@41135
+Hojo Munemasa (1253-1281)
+
+@41138
+Hojo Sadatoki (1271-1311)
+
+@41141
+Shoni Sukeyoshi (1198-1281)
+
+@41142
+130
+
+@41144
+Takezaki Suenaga (1246-????)
+
+@41145
+98
+
+@41147
+Wonjong (????-????)
+
+@41148
+52
+

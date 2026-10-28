@@ -1,0 +1,150 @@
+@16000
+Grandson of Genghis Khan and 5th Khan of the Mongol Empire. He destroyed the Southern Song, unified China and founded the Yuan. He also sent troops against Japan.
+
+@16001
+Famed general under Kublai Khan. As supreme commander of the Southern Song campaign he took the capital, Lin'an, and later put down Kaidu's rebellion in the north.
+
+@16002
+A general under Kublai Khan.
+
+@16003
+A general under Kublai Khan and grandson of Subutai, one of the "Four Hounds." He distinguished himself in the Southern Song campaign, taking Xiangyang and Yangzhou.
+
+@16004
+Finance official of the Yuan, of Muslim origin. Favored by Kublai Khan, he held one important post after another, ruled arbitrarily, and was killed by his opponents.
+
+@16005
+A Yuan general. He served as deputy commander of the Japan expedition, but was beaten back by bad weather.
+
+@16006
+Eldest son of Kublai Khan.
+
+@16007
+A son of Kublai Khan. He was appointed Prince of Yunnan.
+
+@16008
+A son of Kublai Khan, named in honor of Genghis Khan. He had a deep understanding of Chinese culture and was expected to succeed to the throne, but died young.
+
+@16009
+A son of Kublai Khan. He was appointed Prince of Ning.
+
+@16010
+A son of Kublai Khan. He was appointed Prince of Zhennan.
+
+@16011
+Ruler of the Ogedei Khanate. Allied with the Golden Horde and the Chagatai Khanate, he opposed Kublai's accession as Great Khan and made the split of the Mongol Empire final.
+
+@16012
+Son of Mongke, 4th Khan of the Mongol Empire.
+
+@16013
+Eldest son of Kaidu by a concubine. He succeeded his father as ruler of the Ogedei Khanate, but invited infighting, and Duwa of the Chagatai Khanate took his country.
+
+@16014
+7th ruler of the Chagatai Khanate. He invaded the Ilkhanate with a great army but suffered a crushing defeat and lost his power. He was killed by Kaidu, ruler of the Ogedei Khanate.
+
+@16015
+A financier from Khwarezm. He submitted to the Mongols with his father, Yalavach, and later handled administration and taxation in Samarkand.
+
+@16016
+10th ruler of the Chagatai Khanate. He clashed with Kublai in Kaidu's rebellion but later made peace. He absorbed the Ogedei Khanate and expanded his territory.
+
+@16017
+A scholar of Iran. He left writings on the affairs of Central Asia.
+
+@16018
+A general of the Chagatai Khanate. He distinguished himself in battles such as those against the Ilkhanate.
+
+@16019
+Grandson of Chagatai. He became the 8th ruler of the Chagatai Khanate.
+
+@16020
+5th ruler of the Golden Horde. When Kublai became Great Khan he allied with Kaidu and set himself against the Yuan and the Ilkhanate.
+
+@16021
+Younger brother of Mongke Temur. After his brother's death he became the 6th ruler of the Golden Horde.
+
+@16022
+Nephew of Mongke Temur. He became the 7th ruler of the Golden Horde.
+
+@16023
+2nd ruler of the Ilkhanate. He married a Byzantine princess and was baptized a Christian. He allied with the countries of Europe to stand against the Muslim Mamluks.
+
+@16024
+Younger brother of Abaqa, 2nd ruler of the Ilkhanate.
+
+@16025
+Brother of Abaqa. After his brother's death he became the 3rd ruler of the Ilkhanate. Because he befriended the Muslim states, he was killed by his anti-Muslim nephew, Arghun.
+
+@16026
+5th ruler of the Ilkhanate. A son of Abaqa. He succeeded his brother Arghun after his death. His debauchery and extravagance threw the government into disorder.
+
+@16027
+Physician and statesman of the Ilkhanate. Abaqa's personal physician, he became vizier to Ghazan. His "Compendium of Chronicles" is an important source on Mongol history.
+
+@16028
+4th ruler of the Ilkhanate and a son of Abaqa. He killed his uncle Tekuder and took the throne. Taking an anti-Muslim stance, he clashed with the Mamluks of Egypt.
+
+@16029
+A monk of Tibetan Buddhism. Highly valued by Kublai, he administered the old Western Xia lands and Tibet, and created the Phags-pa script, the Yuan's official script.
+
+@16030
+A Tibetan general. He fought the Mongol army that invaded across the southern border.
+
+@16031
+A monk of Tibetan Buddhism (Lamaism). Younger brother of Phagspa.
+
+@16032
+2nd ruler of Tran-dynasty Vietnam. He repelled two Mongol invasions.
+
+@16033
+A general of Tran-dynasty Vietnam, skilled in tactics. He crushed the Mongol army at the Battle of the Bach Dang River and saved Vietnam from the brink of destruction.
+
+@16034
+A general of Tran-dynasty Vietnam. He fought bravely against the Mongol army, but was captured and executed.
+
+@16035
+12th king of the Pagan dynasty of Southeast Asia. He rejected Kublai Khan's demand for submission and was invaded by the Mongols. Pagan fell and the dynasty perished.
+
+@16036
+Son of Narathihapate, the last king of the Pagan dynasty. He became lord of Pagan as a puppet of the Mongol army.
+
+@16037
+A general of the Shan people.
+
+@16038
+A poet of the Indian Slave Dynasty. Sultan Balban loved his talent. He wrote many poems in Persian and was also skilled in music.
+
+@16039
+Last sultan of the Indian Slave Dynasty. He was killed by his minister, Jalal al-Din.
+
+@16040
+Ruler of India's Khalji dynasty. He called himself a second Alexander the Great, repelled Mongol invasions and subjugated the Hindu dynasties of southern India.
+
+@16041
+Ruler of India's Pandya dynasty. He defeated the allied army of the Hoysalas and Cholas and boasted great power.
+
+@16042
+7th ruler of India's Yadava dynasty.
+
+@16043
+Ruler of India's Hoysala dynasty.
+
+@16044
+Hero of the medieval Islamic world. Rising from slavery, he became sultan of the Mamluks. In 17 years he made 38 campaigns and defeated the Crusaders and the Mongols.
+
+@16045
+Son of Baybars. 6th sultan (the title of a ruler in the Islamic world) of the Mamluks of Egypt.
+
+@16046
+Son of Baybars. 7th sultan (the title of a ruler in the Islamic world) of the Mamluks of Egypt.
+
+@16047
+Islamic jurist and theologian from Syria. He denounced the orthodox scholars and was often jailed. Stripped of his books and pen, he is said to have died in prison, in despair.
+
+@16048
+2nd ruler of the Hafsids of North Africa. He repelled the Seventh Crusade led by Louis IX, King of France.
+
+@16049
+6th ruler of the Marinids of North Africa.
+

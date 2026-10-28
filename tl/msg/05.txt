@@ -1,0 +1,762 @@
+@5000
+Celts
+
+@5000.1
+Germans
+
+@5000.2
+Arabs
+
+@5000.3
+warriors
+
+@5000.4
+warriors
+
+@5000.5
+Mongols
+
+@5000.6
+men
+
+@5001
+Buddha
+
+@5001.1
+God
+
+@5002
+Buddha
+
+@5002.1
+Heaven
+
+@5002.2
+God
+
+@5003
+{021e0201}! Look! I'm with child! The baby is moving in my belly!
+
+@5003.1
+{021e0201}, I... I seem to be with child. Please, live long, for the sake of the baby in my womb.
+
+@5003.2
+{021e0201}, it seems I am with child. Please pray to {C5001} for a safe birth.
+
+@5003.3
+{021e0201}, {0288021a} is with child. {0288021a} wishes to bear a strong son.
+
+@5003.4
+...{021e0201}... A small life seems to be growing inside me now...
+
+@5003.5
+{021e0201}, be glad! I am expecting! The physician said so himself.
+
+@5003.6
+{021e0201}, be glad.\p{C5001} has blessed us with a child.
+
+@5004
+Look, {021e0201}! See! It's a boy! A baby boy has been born!
+
+@5004.1
+He is a lovely boy. You are his only father... Watch over him for many years to come.
+
+@5004.2
+Oh, {C5001}, thank you. A healthy baby boy, born safely... Your prayers were surely heard, {021e0201}.
+
+@5004.3
+{021e0201}, {0288021a} has safely borne a healthy boy. He will surely become a fine warrior.
+
+@5004.4
+...{021e0201}... {0288021a} has borne a son... I am overjoyed!
+
+@5004.5
+{021e0201}, be glad. A healthy boy has been born. He is the fruit of our love.
+
+@5004.6
+{021e0201}, be glad.\p{C5001} has blessed us with a healthy baby boy.
+
+@5005
+Look, {021e0201}! It's a girl, a baby girl! A lovely girl, just like me!
+
+@5005.1
+Look, what a lovely baby girl has been born.\pPlease stay well for her sake.
+
+@5005.2
+Oh, {C5001}, thank you. A baby girl was born safely. Your prayers were surely heard, {021e0201}.
+
+@5005.3
+{021e0201}, {0288021a} has safely borne a girl. She will surely become a good wife and wise mother.
+
+@5005.4
+...{021e0201}... {0288021a} has borne a girl... Ah, my heart is full of joy!
+
+@5005.5
+{021e0201}, be glad. A lovely baby girl has been born. She is the fruit of our love.
+
+@5005.6
+{021e0201}, be glad.\p{C5001} has blessed us with a lovely baby girl.
+
+@5006
+Please name the child.
+
+@5007
+{C173} You let your guard down, {C9}.\pWith {02860201} in my hands, {C4} will be pleased too.
+
+@5007.1
+I can't stand {C9} any longer!\pI'm taking {02860201} and joining {021e0202}!
+
+@5007.2
+I have repaid my debt many times over with my service... My new lord is {021e0202}.
+
+@5007.3
+Guided by the power of eternal Heaven, I offer {02860201} and swear loyalty to {021e0202}!
+
+@5007.4
+I will not leave {02860201} to a man without Arab pride. {021e0202} is the one worthy to be my lord!
+
+@5007.5
+People of {02860201}! I am leaving {021e0203}. God has led us to {021e0202}!
+
+@5007.6
+I have waited for this moment! From today, our lord is {021e0202}!
+
+@5007.7
+The time has come to leave {02850203}!\pFrom today, the lord of {02860201} is {021e0202}!
+
+@5007.8
+The time has come to settle an old grudge!\pWe and {02860201} will join {021e0202}!
+
+@5008
+{C6}, {021e0203} of {02860203} has turned his coat and gone over to {021e0204}.
+
+@5008.1
+{C6}! A courier from {02860203}! {021e0203} has rebelled and defected to {02850204}!
+
+@5008.2
+Terrible news! {021e0203} of {02860203} has defected to {02850204}!
+
+@5009
+What! {C4}... There must be some mistake... I cannot believe it...
+
+@5009.1
+Curse you, {C8}! A mere vassal, forgetting my kindness and turning traitor...
+
+@5009.2
+Curse you, {C8}! Forgetting your oath as a retainer and betraying me!
+
+@5009.3
+In the end, he is just a foreigner...\pThen I will crush {021e0202} and teach him the terror of my army.
+
+@5009.4
+Fool... Selling your soul to the devil!\pO God, save the people of {02860202}.
+
+@5009.5
+Fool... Selling your soul to the devil!\pO God, save the people of {02860202}.
+
+@5009.6
+{021e0202} of {02860202} has gone over to {021e0203}! Grrr... Curse you, {021e0202}... You will pay for this...
+
+@5009.7
+Curse you, {C8}! Curse you, {021e0203}! You dare make a fool of me!
+
+@5009.8
+{021e0202}, you fool! Falling right into {021e0203}'s shallow scheme!
+
+@5010
+{C6}, {021e0203} has defected to us.
+
+@5010.1
+{C6}, a letter has come from {021e0203}. He will leave {02850204} and side with our nation.
+
+@5010.2
+{C6}, good news!\p{021e0203} of {02860203} has rebelled and defected to us.
+
+@5011
+What, {C4} joins us with all of {02860202}! {C173} As expected of {C4}!
+
+@5011.1
+To think we could take {02860202} without shedding blood... Oh, what a blessing. Let us thank {C5002}.
+
+@5011.2
+I can picture {021e0203} in a panic.
+
+@5011.3
+Thanks to {021e0202}, {02860202} fell into our hands with ease.
+
+@5011.4
+Betrayed by {021e0202}... The fate of {02850203} is sealed.
+
+@5012
+{C6}, {021e0203} has rebelled... {02860203} has passed from {02850205} to {02850204}.
+
+@5012.1
+{C6}, according to a courier...\p{021e0203} of {02860203} has rebelled, and {02860203} now belongs to {02850204}.
+
+@5012.2
+{C6}, in {02860203} of {02850205}... {021e0203} has rebelled, and {02860203} has fallen into the hands of {02850204}.
+
+@5013
+So {C5} took the bait that {021e0203} laid.
+
+@5013.1
+So {021e0203}'s scheme succeeded completely. Well done.
+
+@5013.2
+So {021e0203} took {02860202} without shedding a drop of blood.
+
+@5014
+{021e0201} of {02860201} has defected from {02850202} to {02850203}.
+
+@5015
+I kept quiet until now, but I never liked {C4}. Now I will show them the power of this man!
+
+@5015.1
+I kept quiet until now, but I never liked {C4}. Now I will show that fellow the power of this man!
+
+@5015.2
+I kept quiet until now, but I never liked {C4}. Now I will show that fellow the power of this man!
+
+@5015.3
+I feel guilty betraying {C4}, but my mind is made up. With {02860201} as a foothold, I will win the world!
+
+@5015.4
+I cannot spend my life as a mere captain. Old as I am, I will show them {021e0201} still lives!
+
+@5015.5
+I followed you believing in your promise, but you disappointed me. I will save {02860201}'s people myself!
+
+@5015.6
+{021e0202} never used my talents... Now I take {02860201} and become master of a nation!
+
+@5015.7
+I have had enough of {021e0202}.\p{02860201} is mine now!
+
+@5015.8
+The blood of {C5000} that flows in me cries out!\pNow is the time to rise and proclaim our dominion over the world!\pHere in {02860201}, I declare independence!
+
+@5015.9
+Will a general of a land guarded by gods and Buddha obey another nation forever? I'll found my own country!
+
+@5015.10
+No one can tame the descendants of the proud wolf!\p{02860201} is mine!
+
+@5015.11
+Now is the time to take back Arab pride...\pDo not let {021e0202} steal your soul! My only wish is independence!
+
+@5015.12
+{C173} The time has finally come!\pTo let the world know that {021e0201} lives, I declare independence in this land!
+
+@5015.13
+This {021e0201} will stand beneath no one...\pI will live as I please in {02860201}.
+
+@5015.14
+I will take {02860201} as the first step in {021e0201}'s conquest of the world.
+
+@5016
+{C6}! {021e0203} of {02860203} has raised the standard of revolt and seized {02860203}.
+
+@5016.1
+{C6}! A revolt in {02860203}! They have hailed {021e0203} as king and declared independence from our nation.
+
+@5016.2
+{C6}! {021e0203} has rebelled... He has holed up in {02860203} and declared independence from our nation.
+
+@5017
+{C4}, what about this {C1} do you find so displeasing... Do you hate your {C1} that much...
+
+@5017.1
+{021e0202} has betrayed me! Grr... He thought I was young and underestimated me! I will repay this humiliation!
+
+@5017.2
+{021e0202} rebels! He thought I was a mere child and let his guard down? This will not stand!
+
+@5017.3
+Curse you, {021e0202}! Raising a blade against this {C1}! I will wipe out your whole clan!
+
+@5017.4
+I see... So {021e0202} has rebelled...
+
+@5017.5
+What! {021e0202} rebels...\pAll his loyal service was a lie... Curse him!
+
+@5017.6
+Curse you, {021e0202}! You were waiting for your chance in {02860202}!
+
+@5018
+{C6}! The {021e0203} of {02860203} has rebelled! I hear he has broken away from {02850204}!
+
+@5018.1
+{C6}! The {021e0203} of {02850204}... Word comes that he has rebelled in {02860203}!
+
+@5018.2
+{C6}, {02850204} has a rebellion. {021e0203} seems to have declared independence in {02860203}.
+
+@5019
+So the {021e0202} of {02860202} has broken away...
+
+@5019.1
+Betrayed by his own kin... {021e0203} is truly unlucky. Mastery of the world is far beyond him.
+
+@5019.2
+Betrayed by his own kin before even facing a foreign foe... {021e0203} is still green.
+
+@5019.3
+{C173}... That young whelp could not handle {021e0202}, it seems. But to lose {02860202} as well...
+
+@5019.4
+Oh? The {021e0202} of {02860202} has... A fine lesson for a young king like {021e0203}.
+
+@5019.5
+The {021e0202} of {02860202} has raised his banner... Giving a fief to such a man shows he cannot rule.
+
+@5019.6
+Oh? The {021e0202} of {02860202} has... {021e0203} must be seething. {C173}...
+
+@5019.7
+So {021e0203} has learned how harsh it is to stand above others... Yet {02860202} is a high price to pay.
+
+@5019.8
+That {021e0202} has finally bared the fangs he kept hidden.
+
+@5019.9
+In the end, {02860202} and {021e0202} alike were too heavy a burden for {021e0203}.
+
+@5020
+The {021e0201} of {02860201} has declared independence and become king.
+
+@5021
+Where Mt. Fuji is in view
+
+@5021.1
+Where the Yangtze flows
+
+@5021.2
+Where the steppe wind blows
+
+@5021.3
+Where the harp is heard
+
+@5021.4
+Where holy Mecca is in view
+
+@5021.5
+Where forest and water abound
+
+@5021.6
+Where God's blessing rests
+
+@5022
+Buddha's guidance
+
+@5022.1
+the Mandate of Heaven
+
+@5022.2
+the fate of the Blue Wolf
+
+@5022.3
+God's guidance
+
+@5023
+The same blood runs in my veins as in yours, {C7}... Please take me into {02850202}!
+
+@5023.1
+Foreign waters do not suit me. {C5021}, this land is best. Please let me join {02850202}.
+
+@5023.2
+I honor you as Great Khan and swear lifelong loyalty. Please take me into your service.
+
+@5023.3
+I swear before God to be loyal for life. Please take me into {02850202}!
+
+@5023.4
+I swear before God to be loyal for life.\pPlease take me into {02850202}!
+
+@5023.5
+I can no longer bear the sloppiness of {02850203}. Let me serve Lord {021e0202}.
+
+@5023.6
+I have abandoned {02850203}.\pPlease take me into {02850202}, even as its humblest man.
+
+@5023.7
+I heard of Lord {021e0202} and wish to join your service. I have left {02850203} and come to you.
+
+@5024
+{C4}, do not stand on ceremony. Make yourself at home.
+
+@5024.1
+So you are {021e0202}. Do your best for {02850201}.
+
+@5024.2
+Well come. You will feel the difference from {02850203} for yourself.
+
+@5024.3
+Well come. By {C5022}, you are from today a general of my realm.
+
+@5024.4
+I had hoped for someone like you, {C5}, to serve me.
+
+@5024.5
+I have heard rumors of you for some time. Welcome!
+
+@5025
+{C6}, word comes that {021e0203}... has fled our realm and defected to {02850204}.
+
+@5025.1
+{C6}, one of your men seems to have defected. It appears {021e0203} has gone over to {02850204}.
+
+@5025.2
+{C6}, rumor has it that {021e0203} has defected to {02850204}...
+
+@5026
+{C4}, so you think {021e0203} is better than me...
+
+@5026.1
+{021e0202} has gone to {021e0203}... Damn them... Both {021e0203} and {021e0202} make a fool of me...
+
+@5026.2
+{021e0202} has betrayed me?! And to {021e0203}, of all men! I will not forget this!
+
+@5027
+{021e0201} has betrayed {02850202} and defected to {02850203}.
+
+@5028
+{C4} does not seem to need this {C1}... Then I have only to leave...
+
+@5028.1
+I will take no more orders from you, {C8}! From now on I do as I please.
+
+@5028.2
+Serving others is not in my nature. Wandering free suits me better.
+
+@5028.3
+{021e0202} is not for me... I will wander until the day I meet my true lord.
+
+@5029
+What?! A note from {C4}... Do you mean to abandon this {C1} and leave my realm...
+
+@5029.1
+What?! {021e0202} forgot my kindness and left the realm?! Hmm, a foreigner is a foreigner after all...
+
+@5029.2
+{021e0202} has left... To leave {021e0201} is a fool's act.
+
+@5029.3
+That {021e0202}... Throwing away rank and honor to leave is utter folly...
+
+@5029.4
+What?! {021e0202} has run off?\pHe thinks wandering is better than being a general of {02850201}?
+
+@5030
+{021e0201} has left {02850202} and become a wanderer.
+
+@5031
+{C6}! {021e0203}, away on campaign, has defected to {02850204}!
+
+@5031.1
+{C6}, {021e0203}, away on campaign, has rebelled! He has defected to {02850204}!
+
+@5031.2
+{C4}! {021e0203} has rebelled!\pHe has gone over to {02850204}, together with the troops he leads.
+
+@5032
+{C4} has defected?! A disgrace to {02850201}, defecting to {02850203}!
+
+@5032.1
+Damn you, {C8}... A mere retainer, stealing my troops and defecting to {021e0203}!
+
+@5032.2
+Damn you, {C8}... I will not forgive this betrayal! I will tear you limb from limb!
+
+@5032.3
+He stole the soldiers God gave me and defected to {021e0203}... Heaven's wrath will surely fall on him!
+
+@5032.4
+What, {021e0202} defected to {02850203} with his troops?! ...Is this {021e0203}'s scheme?
+
+@5032.5
+{021e0202} has gone over to {02850203}... Curse that {C8}! I was a fool to trust him with troops...
+
+@5032.6
+{021e0202} defected to {021e0203} with his troops?! Damn! Curse that {C8}!
+
+@5033
+{C6}, {021e0203} of {02850204} has rebelled! He has joined us with all his troops.
+
+@5033.1
+Good news, {C6}!\p{021e0203} of {02850204} has defected to us.
+
+@5033.2
+{C6}, part of the {02850204} army seems to have joined our side. I believe it is the force led by {021e0203}.
+
+@5034
+I, {021e0201}, have my reasons. I join {02850202}!
+
+@5034.1
+Lord {021e0202} is the Blue Wolf reborn!\pI believe you worthy of lifelong service, and I join your side.
+
+@5034.2
+I owe no more loyalty to {C13}, who has no Arab pride. The master I should truly serve is Lord {021e0202}!
+
+@5034.3
+I am going to {02850202}...\pWise soldiers, trust me and follow!
+
+@5034.4
+With this many troops, I have gift enough for Lord {021e0202}! Men! {021e0201} is a general of {02850202} now.
+
+@5034.5
+The time has come to give {021e0203} a surprise!\pFrom now on, Lord {021e0202} is the master of {021e0201}!
+
+@5035
+A wise choice. Now use those troops and show us what you can do.
+
+@5035.1
+Oh, {021e0202} brings his troops over to our side... I have heard of his fighting. This is welcome aid.
+
+@5035.2
+Oh, the army of {021e0202} comes to us... I can picture {021e0203}'s panic. {C173}
+
+@5035.3
+Defecting with his troops... That {021e0202} is more cunning than he looks.
+
+@5035.4
+So {021e0202} has defected to us! Well done, {021e0202}.
+
+@5036
+The {021e0201} of {02850202} has defected to {02850203}.
+
+@5037
+a samurai of Japan
+
+@5037.1
+a hero of the East
+
+@5037.2
+a Mongol warrior
+
+@5037.3
+an Indian warrior
+
+@5037.4
+an Arab warrior
+
+@5037.5
+a veteran warrior
+
+@5038
+Lord {021e0202}, a man named {021e0201} has come to {026b0206}.
+
+@5039
+{C4}, it has been a long time. Will you use me?
+
+@5039.1
+...I am {021e0201}. Please take me into your service...
+
+@5039.2
+I am {021e0201}, {C5037}. Use my strength.
+
+@5039.3
+I am {021e0201}. Please take me into your service.
+
+@5039.4
+Lord {021e0202} is a descendant of the Blue Wolf! Please take me into your service!
+
+@5039.5
+I am {021e0201}. I have come in the hope of being of use to Lord {021e0202}.
+
+@5039.6
+I am {021e0201}. I heard of {02850202} and have come from afar.
+
+@5039.7
+I think this is the only place where my strength can be put to use. I come asking for a post.
+
+@5039.8
+I will surely be of use to Lord {021e0202}. Please grant me a post!
+
+@5039.9
+I came hoping to be of some help to Lord {021e0202}.
+
+@5040
+Lord {021e0201}, will you hire this man?
+
+@5041
+Lord {021e0202}, I am sorry, but please leave. My realm no longer needs men like you.
+
+@5041.1
+It is shameless for a man like you to wish to serve my realm. Be gone at once.
+
+@5042
+I humble myself and you get arrogant!
+
+@5042.1
+What a cold thing to say...
+
+@5042.2
+What?! How rude!
+
+@5042.3
+Tch, this is pointless...
+
+@5042.4
+It cannot be helped...
+
+@5043
+I see... So I am not needed...
+
+@5043.1
+I see... Then there is no use staying here. I will go home.
+
+@5043.2
+{C5042} You will regret not taking me in someday.
+
+@5044
+{C4}, we share the same blood. Let us fight together!
+
+@5044.1
+In my land we say a man should stake his life on the ground he holds. It is one of our virtues. Give your all.
+
+@5044.2
+{021e0202}, was it? Show what you can do in my realm. May God's grace be with you.
+
+@5044.3
+This is more than I hoped for. {021e0202}, you said? I expect great things of you.
+
+@5044.4
+{021e0202}, from today you are a general of {02850201}. Serve me well.
+
+@5044.5
+My wish is to conquer the world. With you, I feel more confident. Let us ride the battlefields together!
+
+@5045
+As expected of {C4}. Though we were parted for a time, we are still {C183}.
+
+@5045.1
+Thank you... very much...
+
+@5045.2
+Such kind words... I will prove useful to you, {C6}.
+
+@5045.3
+I, {021e0201}, will serve {02850202} as a general and show you my full strength.
+
+@5045.4
+As expected of {C4}. It is just as I heard: a man of great stature.
+
+@5046
+Someone saw {C9} in the city. Shall I try to persuade him?
+
+@5046.1
+There is a promising man named {021e0203}. Shall I invite him to join us?
+
+@5046.2
+A man of my clan named {021e0203} is said to be wandering. Shall we invite him to join us?
+
+@5046.3
+{C6}, someone has seen {021e0203} of your clan. Shall I go and persuade him to join us?
+
+@5046.4
+There is a promising man named {021e0203} nearby. Shall we invite him?
+
+@5046.5
+How about welcoming a man named {021e0203} into our realm?
+
+@5046.6
+I have found a man named {021e0203}. I would like to persuade him to come to our realm at once.
+
+@5047
+I have no use for such a man in my clan. Leave him be.
+
+@5047.1
+{021e0203}... I have never heard of him. A man of unknown origin is not needed in {02850201}.
+
+@5047.2
+{C173} Do not talk nonsense. My realm is not so short of talent that it must beg for such men.
+
+@5047.3
+By {C5}'s account he is no great man. Then there is no need to invite him.
+
+@5048
+Go at once and persuade him to come to me.
+
+@5048.1
+If he is of {C5}'s clan, he can be trusted. Bring him at once.
+
+@5048.2
+What, such a man was lying hidden? Good, bring him here at once!
+
+@5048.3
+If {C5} says so, there can be no mistake. Bring him at once.
+
+@5048.4
+{021e0203}... I know that name. Good, bring him here.
+
+@5049
+{C4}, do not let yourself smolder in a place like this. Come and work with your {C1} in {02850201}.
+
+@5049.1
+I come from a small island country, but I hold a great dream: to conquer the world. Will you share it?
+
+@5049.2
+Living free as the wind is fine, but a man has things he must do. Come, let us chase our dream together.
+
+@5049.3
+To leave such talent unused is to insult God. Show your gifts in my realm!
+
+@5049.4
+You there! You must be tired of this wandering life. Would you care to work for my realm?
+
+@5049.5
+Why not serve {02850201} and spread the name of {C4} across the world?
+
+@5049.6
+{C4}, please lend your strength to my realm.
+
+@5051
+I cannot refuse a request from {C4}. Let us go together.
+
+@5051.1
+I have waited for such a chance... I will surely repay your hopes!
+
+@5051.2
+Such a polite invitation to a man like me... I gladly come.
+
+@5051.3
+I accept. I will become the greatest general in {02850202}.
+
+@5051.4
+You honor me... I was just about to come to you myself.
+
+@5052
+As expected of {C7}. {02850201} has gained a strong pillar.
+
+@5052.1
+I am grateful that you accept. Then let us go at once.
+
+@5052.2
+From now on, serve as a general of {02850201} and give it your all.
+
+@5053
+My name is {021e0201}! From today {026b0206} is ruled by me!
+
+@5053.1
+I am tired of this drifting life. The land of {026b0206} now belongs to {021e0201}!
+
+@5053.2
+How convenient, a city with no lord. From this {026b0206}, {021e0201} will aim to conquer the world.
+
+@5054
+{C6}! {026b0206} has been taken by a masterless warrior named {021e0203}.
+
+@5055
+What! {026b0206} has been taken?! Who is this {021e0202}?! Insolent...
+
+@5056
+{C4}, I hear {026b0206} was seized by a masterless warrior named {021e0203}.
+
+@5057
+Oh, {021e0203} lost {026b0206}, did he? He must have been careless. But who is this {021e0202}?
+
+@5058
+{021e0201} has taken {026b0206} and become king.
+

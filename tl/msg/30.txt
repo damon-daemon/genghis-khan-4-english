@@ -1,0 +1,141 @@
+@30005
+{021e0201} has raided the {0210} of {02850202}, led by {021e0202}.
+
+@30006
+{021e0201} has raided a caravan of {0258020b}.
+
+@30007
+The {0210} led by {021e0201} was raided by the army of {02850202}.
+
+@30008
+Our caravan was raided by the army of {02850201}, led by {021e0201}.
+
+@30009
+Damn! They got away!
+
+@30009.1
+Damn! Those cowards run fast.
+
+@30009.2
+Damn! They escaped!
+
+@30010
+That was a narrow escape.
+
+@30010.1
+Close call, that was close...
+
+@30010.2
+No one will get in our way!
+
+@30011
+Raiding caravans... what a despicable fellow.
+
+@30011.1
+They raided a caravan?! Curse {02850202}, how vile!
+
+@30012
+...Attack!
+
+@30012.1
+...Go!
+
+@30012.2
+...Charge!
+
+@30013
+...Fall back!
+
+@30013.1
+...Run!
+
+@30013.2
+...Curse you!
+
+@30014
+{C4}, think no ill of me. This is how I survive.
+
+@30014.1
+We are of one clan, but this is the way of an age of war... Charge!
+
+@30015
+Get them!
+
+@30016
+Seize every last piece of cargo! Let them learn the terror of the Mongol army!
+
+@30016.1
+{C30000}, charge! Take every valuable thing, leave nothing!
+
+@30016.2
+{C173} They are carrying plenty of supplies... {C30015}
+
+@30016.3
+In this age of endless strife, we cannot pick our means. {C30000}, go!
+
+@30017
+{C4}! Playing the bandit! Have you no shame?
+
+@30017.1
+Stooping to banditry... {021e0202} is a disgrace!
+
+@30019
+Our {02850201}'s
+
+@30019.1
+Entrusted by {C30018},
+
+@30020
+No! Lives must not be wasted. {C30000}, run!
+
+@30020.1
+How dare you attack {021e0201} of {02850201}!
+
+@30020.2
+Aaah! Bandits! {C30000}, run!
+
+@30020.3
+{C30019} precious goods... Curse you, {021e0202}...
+
+@30021
+We serve different countries. Kin or not, I will show no mercy.
+
+@30021.1
+Personal feelings have no place in a mission. {C4}, forgive me!
+
+@30022
+Attack! Leave not a single blade of grass where we have passed!
+
+@30022.1
+Building this right under our noses is unforgivable! {C30000}, attack!
+
+@30022.2
+I feel uneasy attacking the defenseless, but... think no ill of me!
+
+@30022.3
+That {021e0202} is working without a care... {C30015}
+
+@30022.4
+They are so absorbed in the work that their defenses are bare. {C30000}, attack!
+
+@30023
+{C30004}! To sink so low... It grieves me.
+
+@30023.1
+Attacking the defenseless... To think such a man is of my clan, I am ashamed!
+
+@30024
+Curse you, {021e0202}... interfering with us...
+
+@30024.1
+I will not give up! I will see through the mission I took on.
+
+@30024.2
+Attacking the defenseless like us... {021e0202} is a coward!
+
+@30025
+The caravan was raided by {02850202}?! What were the guards doing?
+
+@30025.1
+The caravan was raided and the trade goods taken... Curse {02850202}!
+

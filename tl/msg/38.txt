@@ -1,0 +1,1707 @@
+@38000
+What is the name of the tent the Mongols live in?
+
+@38001
+Ger
+
+@38002
+Gem
+
+@38003
+Geb
+
+@38004
+Which of these was a famous physician of ancient Greece?
+
+@38005
+Hippocrates
+
+@38006
+Hippopotamus
+
+@38007
+Socrates
+
+@38008
+What disease was the "Black Death" that spread through medieval Europe?
+
+@38010
+Cholera
+
+@38011
+Tuberculosis
+
+@38012
+In the Arthurian legends, what is the name of King Arthur's sword?
+
+@38013
+Excalibur
+
+@38014
+Seven-Star Sword
+
+@38015
+Durandal
+
+@38016
+The three great Hindu gods are Brahma, Vishnu and...?
+
+@38017
+Shiva
+
+@38018
+Indra
+
+@38019
+Zeus
+
+@38020
+Who wrote the Han-dynasty Chinese history, the Records of the Grand Historian?
+
+@38021
+Sima Qian
+
+@38022
+Sima Yan
+
+@38023
+Wang Anshi
+
+@38024
+Which of these is the holy book of Islam?
+
+@38025
+The Quran
+
+@38026
+The Vedas
+
+@38027
+The New Testament
+
+@38028
+In The Tale of Genji, whom did Hikaru Genji marry first?
+
+@38029
+Lady Aoi
+
+@38030
+Lady Murasaki
+
+@38031
+Lady Fujitsubo
+
+@38032
+Which building in Constantinople is regarded as the finest example of Byzantine style?
+
+@38033
+Hagia Sophia
+
+@38034
+Notre-Dame Cathedral
+
+@38035
+St. Peter's Basilica
+
+@38036
+What office did the Kamakura Shogunate set up in Kyoto to keep watch on the imperial court?
+
+@38037
+Rokuhara Tandai
+
+@38038
+Dazaifu
+
+@38039
+Monchujo
+
+@38040
+Of the three great pyramids of Giza in Egypt, which king's is the largest?
+
+@38041
+King Khufu
+
+@38042
+King Menkaure
+
+@38043
+King Khafre
+
+@38044
+Which of these is the Buddhist monument in central Java said to date from the 8th-9th century?
+
+@38045
+Borobudur
+
+@38046
+Angkor Wat
+
+@38047
+Cappadocia
+
+@38048
+Which monkey-shaped hero of Hindu myth is said to be the model for Sun Wukong?
+
+@38049
+Hanuman
+
+@38050
+Garuda
+
+@38051
+Ganesha
+
+@38052
+Who was the only empress in all of Chinese history?
+
+@38053
+Wu Zetian
+
+@38054
+Lady Zhurong
+
+@38055
+Empress Dowager Cixi
+
+@38056
+Which Tang monk traveled to India seeking scriptures and was the model for Tripitaka?
+
+@38057
+Xuanzang
+
+@38058
+Bodhidharma
+
+@38059
+Yijing
+
+@38060
+Which Japanese who went to Tang China, served the emperor with honor and befriended the poet Li Bai?
+
+@38061
+Abe no Nakamaro
+
+@38062
+Ganjin
+
+@38063
+Ono no Imoko
+
+@38064
+Which Japanese emperor reigned when the missions to Sui China began?
+
+@38065
+Empress Suiko
+
+@38066
+Emperor Tenji
+
+@38067
+Emperor Shomu
+
+@38068
+Which battle between Tang China and the Abbasids carried the secret of papermaking westward?
+
+@38069
+Battle of Talas
+
+@38070
+Battle of Nahavand
+
+@38071
+Battle of Marathon
+
+@38072
+What water plant was used as paper in ancient Egypt and elsewhere?
+
+@38073
+Papyrus
+
+@38074
+Popyrus
+
+@38075
+Pickles
+
+@38076
+What is the Chinese name for Tibet?
+
+@38077
+Xizang
+
+@38078
+Dazang
+
+@38079
+Tuzang
+
+@38080
+Which sea turtle's shell is the source of tortoiseshell?
+
+@38081
+Hawksbill
+
+@38082
+Taipei
+
+@38083
+Snail
+
+@38084
+What is the bull-headed monster said to live in the labyrinth of the Palace of Knossos?
+
+@38085
+Minotaur
+
+@38086
+Centaur
+
+@38087
+Griffin
+
+@38088
+What is the skirt worn by men in Scottish national dress called?
+
+@38089
+Kilt
+
+@38090
+Pareo
+
+@38091
+Tunic
+
+@38092
+What is the name of the one God in Judaism?
+
+@38093
+Yahweh
+
+@38094
+Jupiter
+
+@38095
+Allah
+
+@38096
+Who founded the Way of Great Peace and led the Yellow Turban Rebellion in the late Han?
+
+@38097
+Zhang Jue
+
+@38098
+Wang Mang
+
+@38099
+Zhang Ling
+
+@38100
+Which character in the Arabian Nights made a fortune through his voyages?
+
+@38101
+Sinbad
+
+@38102
+Ali Baba
+
+@38103
+Aladdin
+
+@38104
+Which ancient Roman city was buried in the 1st century by the eruption of Mount Vesuvius?
+
+@38105
+Pompeii
+
+@38106
+Bombay
+
+@38107
+Tompei
+
+@38108
+In the Trojan War, what did the Greeks use to trick the Trojans?
+
+@38109
+A wooden horse
+
+@38110
+A wooden ox
+
+@38111
+A wooden man
+
+@38112
+Which ancient Greek scientist said, "Give me a place to stand and I will move the Earth"?
+
+@38113
+Archimedes
+
+@38114
+Pythagoras
+
+@38115
+Aristotle
+
+@38116
+In Norse myth, what bird sits on the shoulder of Odin, the chief god?
+
+@38117
+The raven
+
+@38118
+The parrot
+
+@38119
+The parakeet
+
+@38120
+Who was the woman the 6th Tang emperor, Xuanzong, loved in his later years?
+
+@38122
+Wang Zhaojun
+
+@38123
+Princess Wencheng
+
+@38124
+What did the ancient Greeks call their "city-states"?
+
+@38125
+Polis
+
+@38126
+Nomos
+
+@38127
+Ulus
+
+@38128
+Which Roman general is famed for saying, "The die is cast"?
+
+@38129
+Caesar
+
+@38130
+Antony
+
+@38131
+Octavian
+
+@38132
+Which of the four great civilizations arose along the Tigris and Euphrates?
+
+@38133
+Mesopotamian
+
+@38134
+Indus
+
+@38135
+Yellow River
+
+@38136
+How was Genghis Khan's birth name, Temujin, written in Chinese?
+
+@38137
+Tiemuzhen ("iron-wood-true")
+
+@38138
+Shouwuren ("handless man")
+
+@38139
+Tiemengshen ("iron dream god")
+
+@38140
+Harappa is a famous Indus site. What is the other one?
+
+@38141
+Mohenjo-daro
+
+@38142
+Sumer
+
+@38143
+Purushapura
+
+@38144
+Mencius taught that human nature is good. Who taught that it is evil?
+
+@38145
+Xunzi
+
+@38146
+Confucius
+
+@38147
+Sun Tzu
+
+@38148
+Which ancient Greek philosopher tutored Alexander the Great?
+
+@38149
+Aristotle
+
+@38150
+Plato
+
+@38151
+Euclid
+
+@38152
+Which kingdom drove back the Muslims at the Battle of Tours and Poitiers?
+
+@38153
+The Frankish Kingdom
+
+@38154
+The Visigothic Kingdom
+
+@38155
+The Byzantine Empire
+
+@38156
+What was the incident in which Henry IV of Germany begged the Pope in Rome to lift his excommunication?
+
+@38157
+Humiliation at Canossa
+
+@38158
+Humiliation at Camossa
+
+@38159
+Humiliation at Canotta
+
+@38160
+What was the first coin cast in Japan called?
+
+@38161
+Wado Kaichin
+
+@38162
+Kan'ei Tsuho
+
+@38163
+Tensho Oban
+
+@38164
+Merino, Mutton and Rambouillet are breeds of which animal?
+
+@38165
+Sheep
+
+@38166
+Cattle
+
+@38167
+Horses
+
+@38168
+What is the world's oldest university, founded in Cairo in the 10th century?
+
+@38169
+Al-Azhar University
+
+@38170
+University of Bologna
+
+@38171
+Cambridge University
+
+@38172
+What does the word "Viking" originally mean?
+
+@38173
+People of the inlets
+
+@38174
+People of the glaciers
+
+@38175
+People of the mountains
+
+@38176
+Which Jewish leader parted the Red Sea when fleeing Egypt?
+
+@38177
+Moses
+
+@38178
+David
+
+@38179
+Solomon
+
+@38180
+Where was the concept of zero invented?
+
+@38181
+India
+
+@38182
+China
+
+@38183
+Persia
+
+@38184
+Who founded the Rinzai sect and is said to have first brought tea to Japan?
+
+@38185
+Eisai
+
+@38186
+Kukai
+
+@38187
+Nichiren
+
+@38188
+Which city-state fought Rome in the Punic Wars?
+
+@38189
+Carthage
+
+@38190
+Thebes
+
+@38191
+Tyre
+
+@38192
+Which 1st-century Roman emperor is infamous as a tyrant who persecuted the Christians?
+
+@38193
+Nero
+
+@38194
+Neo
+
+@38195
+Nemo
+
+@38196
+Who is the hero of the medieval German epic, the Nibelungenlied?
+
+@38197
+Siegfried
+
+@38198
+Don Quixote
+
+@38200
+Who was the first emperor of the Roman Empire?
+
+@38201
+Augustus
+
+@38202
+Trajan
+
+@38203
+Hadrian
+
+@38204
+What instrument does the Hindu goddess Saraswati hold?
+
+@38206
+A harp
+
+@38207
+A horse-head fiddle
+
+@38208
+In which battle did the Yamato navy, sent to aid Baekje, lose to the Tang and Silla allies?
+
+@38209
+Battle of Baekgang
+
+@38210
+Battle of Yiling
+
+@38211
+Battle of Fujigawa
+
+@38212
+Which city became the new capital of the Roman Empire in 330?
+
+@38214
+Persepolis
+
+@38215
+Adrianople
+
+@38216
+What words did the newborn Buddha speak?
+
+@38217
+"Above heaven and below heaven, I alone am the honored one"
+
+@38218
+"I think, therefore I am"
+
+@38219
+"Man is a thinking reed"
+
+@38220
+Which of the four archangels is considered the only feminine one?
+
+@38221
+Gabriel
+
+@38222
+Michael
+
+@38223
+Raphael
+
+@38224
+Which Anatolian people are said to be the first to use iron weapons?
+
+@38225
+The Hittites
+
+@38226
+The Assyrians
+
+@38227
+The Hyksos
+
+@38228
+Which fruit native to southern China was a favorite of Yang Guifei?
+
+@38229
+Lychee
+
+@38230
+Lime
+
+@38231
+Kiwi
+
+@38232
+What animal of Sumatra and elsewhere has a Malay name meaning "man of the forest"?
+
+@38233
+Orangutan
+
+@38234
+Mandrill
+
+@38235
+Chimpanzee
+
+@38236
+Which ancient Indian language has a name meaning "perfected"?
+
+@38237
+Sanskrit
+
+@38238
+Koine
+
+@38239
+Hangul
+
+@38240
+Which Buddhist art of the Kushan dynasty was strongly influenced by Greek culture?
+
+@38241
+Gandhara art
+
+@38242
+Hellenistic art
+
+@38243
+Mycenaean art
+
+@38244
+What disease caused the death of Alexander the Great?
+
+@38245
+Malaria
+
+@38246
+Cholera
+
+@38247
+Stroke
+
+@38248
+Which of the Olympian gods is the goddess of the moon and the hunt?
+
+@38249
+Artemis
+
+@38250
+Athena
+
+@38252
+Which early Heian general, made Seii Taishogun by Emperor Kanmu, excelled against the Emishi?
+
+@38253
+Sakanoue no Tamuramaro
+
+@38254
+Sugawara no Michizane
+
+@38255
+Abe no Seimei
+
+@38256
+Which pope is famed for saying, "The pope is the sun, the emperor is the moon"?
+
+@38257
+Innocent III
+
+@38258
+Gregory VII
+
+@38259
+Urban II
+
+@38260
+What is the general name for the hero tales of medieval Scandinavia and Iceland?
+
+@38261
+Saga
+
+@38262
+Saba
+
+@38263
+Sada
+
+@38264
+Which river flows through the German city of Cologne?
+
+@38265
+The Rhine
+
+@38266
+The Seine
+
+@38267
+The Danube
+
+@38268
+Which animal did Hannibal of Carthage use to cross the Alps and attack Rome?
+
+@38269
+Elephants
+
+@38270
+Donkeys
+
+@38271
+Ponies
+
+@38272
+In the Nara period, what were the soldiers drafted to defend the Kyushu coast called?
+
+@38273
+Sakimori
+
+@38274
+Toneri
+
+@38275
+Eji
+
+@38276
+Which people, thought to be kin of China's Xiongnu, set off the migration of the Germanic peoples?
+
+@38277
+The Huns
+
+@38278
+The Bulgars
+
+@38279
+The Vandals
+
+@38280
+Which black fruit, harvested around the Mediterranean since antiquity, is part of its cooking and life?
+
+@38281
+Olive
+
+@38282
+Popeye
+
+@38283
+Bluto
+
+@38284
+In European folklore, what monster has the head of a rooster and the body of a serpent?
+
+@38285
+Cockatrice
+
+@38286
+Gargoyle
+
+@38288
+Which legendary island, said to hold the elixir of immortality, did the First Emperor of Qin search for?
+
+@38289
+Mount Penglai
+
+@38290
+Mount Sumeru
+
+@38291
+Mount Nanhai
+
+@38292
+Emerald, loved by Cleopatra and Nero, is the birthstone of which month?
+
+@38293
+May
+
+@38294
+April
+
+@38295
+June
+
+@38296
+What is the famous palace in Lhasa, Tibet?
+
+@38297
+Potala Palace
+
+@38298
+Palace of Versailles
+
+@38299
+Epang Palace
+
+@38300
+Which city was China's greatest porcelain center, flourishing in the Song era?
+
+@38301
+Jingdezhen
+
+@38302
+Dunhuang
+
+@38303
+Yangzhou
+
+@38304
+In the Trojan War, who died from an arrow in the heel?
+
+@38305
+Achilles
+
+@38306
+Pericles
+
+@38307
+Agamemnon
+
+@38308
+Who helped Prince Naka no Oe carry out the coup of the Taika Reform?
+
+@38309
+Nakatomi no Kamatari
+
+@38310
+Mononobe no Moriya
+
+@38311
+Soga no Umako
+
+@38312
+Which ancient Greek mathematician discovered the Pythagorean theorem?
+
+@38313
+Pythagoras
+
+@38314
+Protagoras
+
+@38315
+Euclid
+
+@38316
+Which Tang capital served as the model for Heian-kyo?
+
+@38317
+Chang'an
+
+@38318
+Luoyang
+
+@38319
+Beijing
+
+@38320
+Which of these is the largest island in the Mediterranean?
+
+@38321
+Sicily
+
+@38322
+Corsica
+
+@38323
+Rhodes
+
+@38324
+Which European country's name derives from "Gaul of the Huns"?
+
+@38325
+Hungary
+
+@38326
+France
+
+@38327
+Poland
+
+@38328
+Cashmere, prized for fine cloth and native to Tibet, comes from which animal?
+
+@38329
+Goat
+
+@38330
+Sheep
+
+@38331
+Cat
+
+@38332
+Which flower is also called the Yu Meiren flower, after the grave where Consort Yu died for her lover Xiang Yu?
+
+@38333
+Corn poppy
+
+@38334
+Violet
+
+@38335
+Peony
+
+@38336
+Which emperor has the largest of Japan's ancient burial mounds?
+
+@38337
+Emperor Nintoku
+
+@38338
+Emperor Ojin
+
+@38339
+Emperor Yomei
+
+@38340
+In Prince Shotoku's twelve-rank cap system, which color was the highest rank?
+
+@38341
+Purple
+
+@38342
+Red
+
+@38343
+White
+
+@38344
+Who pierced the crucified Christ with a spear and was later made a saint?
+
+@38345
+Longinus
+
+@38346
+George
+
+@38347
+Paul
+
+@38348
+What Mongolian word means "sworn brother" or "friend"?
+
+@38349
+Anda
+
+@38350
+Anta
+
+@38351
+Manda
+
+@38352
+What is the council of the Mongol tribes called?
+
+@38354
+Kuriltai
+
+@38355
+Kururutai
+
+@38356
+What was the western horse that Emperor Wu of Han waged expeditions to obtain?
+
+@38357
+Blood-sweating horse
+
+@38358
+Anemic horse
+
+@38359
+Hot-blooded horse
+
+@38360
+Which of these shellfish yields pearls?
+
+@38361
+Akoya oyster
+
+@38362
+Mussel
+
+@38363
+Pipe shell
+
+@38364
+Of these three heroes of the Three Kingdoms, who was historically the shortest?
+
+@38365
+Cao Cao
+
+@38366
+Liu Bei
+
+@38367
+Zhuge Liang
+
+@38368
+What black, flat-bottomed boat, rowed with a single oar, is commonly used on the canals of Venice?
+
+@38369
+Gondola
+
+@38370
+Cruiser
+
+@38371
+Caravel
+
+@38372
+In the Three Kingdoms era, which state gave a gold seal to Himiko of Yamatai?
+
+@38373
+Wei
+
+@38374
+Wu
+
+@38375
+Shu
+
+@38376
+Who saw Tang's decline and urged abolishing the missions to Tang China?
+
+@38377
+Sugawara no Michizane
+
+@38378
+Fujiwara no Michinaga
+
+@38379
+Taira no Kiyomori
+
+@38380
+Which Southern Song general urged all-out war against the Jin and was murdered by the peace faction?
+
+@38381
+Yue Fei
+
+@38382
+Zong Ze
+
+@38383
+Zhu Quanzhong
+
+@38384
+Who was the pirate chief who rebelled in the Seto Inland Sea in the mid-Heian period?
+
+@38385
+Fujiwara no Sumitomo
+
+@38386
+Taira no Masakado
+
+@38387
+Minamoto no Tameyoshi
+
+@38388
+Which Norse navigator of the late 10th century reached the east coast of North America?
+
+@38389
+Leif Erikson
+
+@38390
+Columbus
+
+@38391
+Rurik
+
+@38392
+Which law code is famous for "an eye for an eye, a tooth for a tooth"?
+
+@38393
+Code of Hammurabi
+
+@38394
+Code of Justinian
+
+@38395
+Laws of Manu
+
+@38396
+Who said, "Egypt is the gift of the Nile"?
+
+@38397
+Herodotus
+
+@38398
+Hesiod
+
+@38399
+Homer
+
+@38400
+What is Tibetan Buddhism commonly called?
+
+@38401
+Lamaism
+
+@38402
+Lamism
+
+@38403
+Lamiism
+
+@38404
+What words did Caesar use in his report to Rome after conquering Asia Minor?
+
+@38405
+"I came, I saw, I conquered"
+
+@38406
+"I dug, I robbed, I fled"
+
+@38407
+"I threw, I struck, I ran"
+
+@38408
+In which North Indian town did the Buddha enter nirvana?
+
+@38409
+Kushinagar
+
+@38410
+Benares
+
+@38411
+Bodh Gaya
+
+@38412
+What is the art, born in China, of reading the heavens to foretell the fortunes of nations and persons?
+
+@38413
+Onmyodo
+
+@38414
+Shugendo
+
+@38415
+Taipingdao
+
+@38416
+Which goddess, worshiped as the earth mother, was chief deity of ancient Mesopotamia?
+
+@38417
+Ishtar
+
+@38418
+Hera
+
+@38419
+Lakshmi
+
+@38420
+Which ancient Iranian nomad-rooted state did the Chinese call "Anxi"?
+
+@38421
+Parthia
+
+@38422
+Bactria
+
+@38423
+The Hephthalites
+
+@38424
+What phrase praised the good rule of Li Shimin, the 2nd Tang emperor?
+
+@38425
+The Zhenguan Era of Good Rule
+
+@38426
+The Kaiyuan Era of Good Rule
+
+@38427
+The Wanli Era of Good Rule
+
+@38428
+Which Persian religion, based on a dualism of good and evil gods, is also called fire worship?
+
+@38429
+Zoroastrianism
+
+@38430
+Mithraism
+
+@38431
+Brahmanism
+
+@38432
+Who was the 5th Abbasid caliph, who brought the dynasty to its height?
+
+@38433
+Harun al-Rashid
+
+@38434
+Abd al-Rahman
+
+@38435
+Al-Mansur
+
+@38436
+Which woman poet of the Asuka period, favored by Emperor Tenji, left works in the Manyoshu?
+
+@38437
+Princess Nukata
+
+@38438
+Sei Shonagon
+
+@38440
+What system of selecting officials began under Emperor Wen of Wei (Cao Pi)?
+
+@38441
+Nine-rank system
+
+@38442
+Local recommendation
+
+@38443
+Imperial examinations
+
+@38444
+Which 9th-century Muslim mathematician is called the father of algebra?
+
+@38445
+Al-Khwarizmi
+
+@38446
+Ibn Rushd
+
+@38447
+Omar Khayyam
+
+@38448
+Which scholar urged Emperor Wu of Han to make Confucianism the state religion?
+
+@38449
+Dong Zhongshu
+
+@38450
+Zhu Xi
+
+@38452
+Which of these was not one of Rome's "Five Good Emperors"?
+
+@38453
+Caracalla
+
+@38454
+Nerva
+
+@38456
+Who was the leading physician of 2nd-century ancient Rome?
+
+@38457
+Galen
+
+@38458
+Cicero
+
+@38459
+Strabo
+
+@38460
+What is the pattern of intertwined vines seen in Islamic art called?
+
+@38462
+A la carte
+
+@38463
+A la mode
+
+@38464
+In art, what is an "icon"?
+
+@38465
+A Christian sacred image
+
+@38466
+A Renaissance still life
+
+@38467
+A camera maker
+
+@38468
+Which of these is the traditional dress of Indian women?
+
+@38469
+Sari
+
+@38470
+Muumuu
+
+@38471
+Poncho
+
+@38472
+Which of these ancient Chinese thinkers was not a Confucian?
+
+@38473
+Laozi
+
+@38475
+Mencius
+
+@38476
+What is the Muslim month of fasting called?
+
+@38477
+Ramadan
+
+@38478
+Tamaran
+
+@38479
+Madaran
+
+@38480
+What is the Christian festival of resurrection called?
+
+@38481
+Easter
+
+@38482
+Halloween
+
+@38483
+Christmas
+
+@38484
+Which animal is held sacred in Hinduism?
+
+@38488
+What was the name of Socrates' wife, famed as a shrew?
+
+@38489
+Xanthippe
+
+@38490
+Constanze
+
+@38491
+Sophia
+
+@38492
+In which country was paper money first issued?
+
+@38495
+Greece
+
+@38496
+Genghis Khan hot pot is a dish made from which meat?
+
+@38500
+In The Pillow Book, "In winter, early in the morning (tsutomete)". What is "tsutomete"?
+
+@38501
+Early morning
+
+@38502
+Dusk
+
+@38503
+Midnight
+
+@38504
+Where was the Jetavana monastery (Gion Shoja) from the opening of The Tale of the Heike?
+
+@38508
+Who wrote "Spring View", which begins "The nation is shattered, mountains and rivers remain"?
+
+@38509
+Du Fu
+
+@38510
+Li Bai
+
+@38511
+Bai Juyi
+
+@38512
+Which mountain range has a Sanskrit name meaning "abode of snow"?
+
+@38513
+The Himalayas
+
+@38514
+The Alps
+
+@38515
+The Andes
+
+@38516
+Which shrine, said to be founded by Amaterasu and known for matchmaking, is it?
+
+@38517
+Izumo Taisha
+
+@38518
+Ise Shrine
+
+@38519
+Kasuga Taisha
+
+@38520
+What was Japan's first constitution, issued by Prince Shotoku in 604?
+
+@38521
+Seventeen-Article Constitution
+
+@38522
+Eighteen-Article Constitution
+
+@38523
+Nineteen-Article Constitution
+
+@38524
+How many swordsmen had Benkei taken swords from?
+
+@38525
+999
+
+@38526
+99
+
+@38527
+9
+
+@38528
+Which of these is not one of the Three Sacred Treasures, the regalia of imperial succession?
+
+@38529
+The crown
+
+@38530
+The mirror
+
+@38531
+The jewel
+
+@38532
+Which temple stands in Hiraizumi, base of the Oshu Fujiwara?
+
+@38533
+Chuson-ji
+
+@38534
+Zenko-ji
+
+@38535
+Kencho-ji
+
+@38536
+Which Kyoto temple is said to be where Minamoto no Yoshitsune trained as a child?
+
+@38537
+Kurama-dera
+
+@38538
+Kiyomizu-dera
+
+@38539
+Nanzen-ji
+
+@38540
+Which animal was held sacred and worshiped in ancient Egypt?
+
+@38543
+Crocodile
+
+@38544
+What plant do silkworms eat?
+
+@38545
+Mulberry
+
+@38546
+Paulownia
+
+@38547
+Bamboo grass
+
+@38548
+What is inside a camel's hump?
+
+@38549
+Fat
+
+@38550
+Water
+
+@38551
+Air
+
+@38552
+Who of these proposed the geocentric theory?
+
+@38553
+Ptolemy
+
+@38554
+Galileo
+
+@38555
+Copernicus
+
+@38556
+What did the ancient Romans call China?
+
+@38557
+Serica
+
+@38558
+Daqin
+
+@38559
+Saracen
+
+@38560
+Which Ethiopian kingdom, founded in the 2nd century BC, made Christianity its state religion in the 4th century?
+
+@38561
+Kingdom of Aksum
+
+@38562
+Kingdom of Ghana
+
+@38563
+Kingdom of Mali
+
+@38564
+In Buddhist teaching, how many years after the Buddha's nirvana will Maitreya appear in the human world?
+
+@38565
+5.67 billion years
+
+@38566
+224 million years
+
+@38567
+68 million years
+
+@38568
+What shape did Islamic alchemists use as the symbol for salt?
+
+@38569
+A key
+
+@38571
+A moon
+
+@38572
+The "Three Brushes" of the Heian period were Emperor Saga, Tachibana no Hayanari and which other?
+
+@38574
+Ono no Michikaze
+
+@38575
+Ki no Tsurayuki
+
+@38576
+Which state flourished in Manchuria from the 8th to 10th century and traded with Japan?
+
+@38577
+Balhae
+
+@38578
+Goguryeo
+
+@38579
+Tuyuhun
+
+@38580
+Which of these was not one of the "Seven Sages of the Bamboo Grove"?
+
+@38581
+Tao Qian
+
+@38582
+Ruan Ji
+
+@38583
+Xiang Xiu
+
+@38584
+Which English king built the Tower of London, famous as a prison?
+
+@38585
+William I
+
+@38586
+John
+
+@38587
+Henry II
+
+@38588
+England's Angevin dynasty took another name from the sprig of broom (planta genista) on its badge. What?
+
+@38589
+Plantagenet
+
+@38590
+Valois
+
+@38591
+Lancaster
+
+@38592
+Which battle did Otto I of Germany win against the Magyars?
+
+@38593
+Battle of Lechfeld
+
+@38594
+Battle of the Catalaunian Plains
+
+@38595
+Battle of Nicopolis
+
+@38596
+Which European city was once called "Lutetia"?
+

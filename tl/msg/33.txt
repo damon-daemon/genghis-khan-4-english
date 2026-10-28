@@ -1,0 +1,36 @@
+@33001
+{C33000}, would you answer a question for me?
+
+@33002
+Just this once, I shall remove one of the choices for you.
+
+@33003
+Just this once, I shall double your time limit. Do think it over carefully.
+
+@33004
+Correct! I do so adore a man of intellect.
+
+@33004.1
+Correct! Well done, {C33000}.
+
+@33005
+Why, to answer such a question... {C33000}, you are a genius!
+
+@33006
+Wrong! I cannot abide a man without intellect...
+
+@33006.1
+What a pity, wrong! {C33000}, you must study harder.
+
+@33007
+The answer is "{0210}."
+
+@33008
+Quite right! Well done, {021e0201}.
+
+@33009
+Oh, this is nothing at all. Hahaha...
+
+@33010
+(Curse that {021e0201}! Meddling in my affairs...)
+

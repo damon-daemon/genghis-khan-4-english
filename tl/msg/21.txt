@@ -1,0 +1,141 @@
+@21000
+This will end the current game and return you to the start of selection. Are you sure?
+
+@21001
+The player in charge of {021e0201} will leave the game and let the computer take over. Are you sure?
+
+@21002
+{02860201}'s troop strength is already at the maximum{C16}. No more conscription is possible...
+
+@21002.1
+{021e0202}, the troop strength of {02860201} is already at the maximum. We cannot conscript any more.
+
+@21003
+Hmm... The conscription failed.
+
+@21003.1
+{021e0202}, I beg your pardon. The conscription has failed.
+
+@21004
+Conscripted {0215} soldiers.{C164} {02860201} is now at maximum troop strength.
+
+@21004.1
+{021e0202}, we conscripted {0215} soldiers.\p{02860201} is now at maximum troop strength.
+
+@21005
+{0215} soldiers have joined {C3} army.{C164}
+
+@21005.1
+{021e0202}, as you commanded, I have raised {0215} soldiers.
+
+@21005.2
+{021e0202}, {0215} soldiers have safely gathered.
+
+@21005.3
+{021e0202}, we conscripted {0215} soldiers.
+
+@21006
+Let us raise troops to strengthen the military of {02860201}.
+
+@21006.1
+Leave it to me.{C152} I will gather hardy soldiers for you.
+
+@21006.2
+Then I shall hire fresh troops to strengthen the military of {02860201}.
+
+@21006.3
+I shall go and gather soldiers worthy of supporting our army.
+
+@21007
+Sold {0215} food and obtained {0216} gold.{C164}
+
+@21007.1
+Sold {0215} food and obtained {0216} gold.
+
+@21008
+Bought {0216} food for {0215} gold.{C164}
+
+@21008.1
+Bought {0216} food for {0215} gold.
+
+@21009
+We cannot afford to invite any generals to a banquet.
+
+@21010
+We cannot afford to invite more than {0215} generals to a banquet.
+
+@21011
+There are no generals to invite to the banquet.
+
+@21012
+We cannot afford to invite any consorts to a banquet.
+
+@21013
+We cannot afford to invite more than {0215} consorts to a banquet.
+
+@21014
+There are no consorts to invite.
+
+@21015
+Banish this person?
+
+@21016
+Turn {026b0206} into ruins?
+
+@21017
+The generals of {026b0206} will be moved to another city. Select the city to move them to.
+
+@21018
+{021e0201}, I wonder how this child will grow up?
+
+@21019
+Return to name entry. Are you sure?
+
+@21020
+Agriculture culture level 20 or higher
+
+@21021
+Herding culture level 20 or higher
+
+@21022
+Weapons culture level 20 or higher
+
+@21023
+Tactics culture level 20 or higher
+
+@21024
+Architecture culture level 20 or higher
+
+@21025
+Scholarship culture level 20 or higher
+
+@21026
+Arts culture level 20 or higher
+
+@21027
+Medicine culture level 20 or higher
+
+@21028
+Crafts culture level 20 or higher
+
+@21029
+None
+
+@21030
+None
+
+@21031
+Navigation culture level 20 or higher
+
+@21032
+Plains / Wetlands / Forest
+
+@21044
+The number of consorts in the world has reached 90, so no alliance by marriage is possible.
+
+@21045
+The number of consorts in the world has reached 90, so no marriage is possible.
+
+@21046
+The total of migrant units and cities in the world has reached 60, so no migrant unit can be created.
+

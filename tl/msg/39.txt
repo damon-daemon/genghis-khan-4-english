@@ -1,0 +1,348 @@
+@39000
+Minamoto no Yoritomo (1147-1199)
+
+@39001
+22
+
+@39003
+Minamoto no Yoshitsune (1159-1189)
+
+@39004
+54
+
+@39006
+Musashibo Benkei (????-1189)
+
+@39007
+55
+
+@39009
+Minamoto no Noriyori (????-1193)
+
+@39010
+100
+
+@39012
+Hojo Tokimasa (1138-1215)
+
+@39013
+56
+
+@39015
+Hojo Yoshitoki (1163-1224)
+
+@39016
+101
+
+@39018
+Hojo Yasutoki (1183-1242)
+
+@39019
+102
+
+@39021
+Oe Hiromoto (1148-1225)
+
+@39022
+103
+
+@39024
+Hatakeyama Shigetada (1164-1205)
+
+@39025
+104
+
+@39027
+Zhangzong (1168-1208)
+
+@39028
+19
+
+@39030
+Wei Shaowang (????-1213)
+
+@39031
+144
+
+@39032
+Seventh emperor of Jin. He took the throne after Zhangzong's death. His reign was unstable, with Mongol armies invading, and after only five years he was betrayed and murdered by his vassal Hushahu.
+
+@39033
+Yelu Ahai (????-????)
+
+@39034
+145
+
+@39035
+A former Jin official. He met Genghis Khan while serving as an envoy to the Mongols and became his vassal. Fluent in many languages, he worked mainly in diplomacy.
+
+@39036
+Yelu Chucai (1190-1244)
+
+@39037
+57
+
+@39039
+Wanyan Fuxing (????-????)
+
+@39040
+146
+
+@39042
+Qiu Chuji (1148-1227)
+
+@39043
+60
+
+@39045
+Yelu Liuge (????-1210)
+
+@39046
+148
+
+@39047
+A Jin general at the end of the dynasty. He rebelled in Liaodong and, with Mongol help, beat back the Jin army sent to crush him. Genghis Khan granted him the title King of Liao.
+
+@39048
+Myeongjong (????-????)
+
+@39049
+21
+
+@39050
+Nineteenth king of Goryeo. He united the military cliques and seized the throne in a coup, but was later deposed by Choe Chung-heon, one of those cliques' leaders.
+
+@39051
+Yi Gyu-bo (1177-1240)
+
+@39052
+575
+
+@39053
+A Goryeo official, gifted in diplomacy. When the Mongols invaded Goryeo, he sent a petition to Ogedei Khan and succeeded in having the army withdrawn.
+
+@39054
+Choe Chung-heon (1149-1219)
+
+@39055
+576
+
+@39056
+A general of mid-Goryeo. He won the power struggle among the military cliques and rose to prominence. He then deposed King Myeongjong and, setting up puppet kings, held power as he pleased.
+
+@39057
+Xiaozong (1127-1194)
+
+@39060
+Shi Miyuan (????-1233)
+
+@39061
+170
+
+@39063
+Zhen Dexiu (1178-1235)
+
+@39064
+171
+
+@39065
+A Neo-Confucian scholar of Southern Song. Recommended for office by Emperor Lizong, he worked tirelessly in government and left many writings. He was respected and called the Lesser Zhu Xi.
+
+@39066
+Zhu Xi (1130-1200)
+
+@39067
+58
+
+@39069
+Jia Sidao (1213-1275)
+
+@39070
+181
+
+@39072
+Cheng Dachang (1123-1195)
+
+@39073
+173
+
+@39074
+A statesman and scholar of Southern Song. He served the second emperor, Xiaozong, and was especially skilled in geography. His works include the Yiyuan and the Beibian.
+
+@39075
+Lu Xiangshan (1139-1192)
+
+@39076
+59
+
+@39077
+A Confucian scholar of Southern Song. He clashed with Zhu Xi over the interpretation of Confucianism. His teaching that the mind is principle influenced the rise of Wang Yangming's school in the Ming.
+
+@39078
+Sakya Pandita (1181-1251)
+
+@39079
+16
+
+@39081
+Drakpa Gyaltsen (????-????)
+
+@39082
+195
+
+@39084
+Genghis Khan (1162-1227)
+
+@39085
+17
+
+@39087
+Jochi (????-1224)
+
+@39088
+61
+
+@39090
+Chagatai (????-1242)
+
+@39091
+62
+
+@39092
+Second son of Genghis Khan. Hot-tempered, he often clashed with his elder brother Jochi. He joined his father's western campaign and was granted lands in Central Asia.
+
+@39093
+Ogedei (1186-1241)
+
+@39094
+63
+
+@39095
+Second Khan of the Mongol Empire and third son of Genghis Khan. He relied on Yelu Chucai to build up the government, and sent armies against Jin and Europe to expand the realm.
+
+@39096
+Batu (1207-1255)
+
+@39097
+64
+
+@39099
+Boorchu (????-1226)
+
+@39100
+65
+
+@39102
+Khasar (????-????)
+
+@39103
+204
+
+@39105
+Temuge (????-1246)
+
+@39106
+205
+
+@39107
+Younger brother of Genghis Khan. He distinguished himself in the war with the Naiman and the Jin campaign, and grew very powerful. After Ogedei's death he sought the khanship but failed.
+
+@39108
+Jelme (????-????)
+
+@39109
+66
+
+@39111
+Subutai (????-????)
+
+@39112
+67
+
+@39114
+Chilaun (????-????)
+
+@39115
+68
+
+@39116
+One of the Four Steeds. When the boy Genghis Khan was hunted by the Tayichiud, he sheltered him and won his trust. His descendants held power as one of the four great noble houses of the Yuan.
+
+@39117
+Kublai (????-????)
+
+@39118
+69
+
+@39119
+One of the Four Hounds. When Genghis Khan broke with Jamukha, he submitted to Genghis Khan. After the unification of Mongolia he was rewarded for his deeds with command of military affairs.
+
+@39120
+Boroqul (????-????)
+
+@39123
+Jamukha (????-1205)
+
+@39124
+23
+
+@39125
+Once Genghis Khan's sworn friend and his greatest rival. A fine commander of wisdom and valor, he often troubled Genghis Khan. Even as a prisoner he refused to submit, and was finally executed.
+
+@39126
+Taichar (????-????)
+
+@39127
+206
+
+@39129
+Jebe (????-????)
+
+@39130
+71
+
+@39131
+One of the Four Hounds. A master archer. Even as a captive he kept his dignity, which won him a place as Genghis Khan's vassal. He then served as one of the Mongol army's fiercest generals.
+
+@39132
+Tayang Khan (????-1204)
+
+@39133
+81
+
+@39135
+Kuchlug (????-1218)
+
+@39136
+207
+
+@39137
+A Naiman general, son of their chief Tayang Khan. When his father fell to Genghis Khan, he fled to Western Liao and seized its throne. He was defeated by the Mongol army under Jebe and executed.
+
+@39138
+Jurchedei (????-????)
+
+@39139
+208
+
+@39141
+Quildar (????-1203)
+
+@39142
+209
+
+@39144
+Tata-tonga (????-????)
+
+@39145
+210
+
+@39147
+Muqali (1170-1223)
+
+@39148
+72
+
+@39149
+One of the Four Steeds. A fine commander of wisdom and valor, he enjoyed Genghis Khan's deep trust. He distinguished himself as commander of the conquest of Jin, and Genghis Khan granted him the title of king.
+

@@ -1,0 +1,372 @@
+@4000
+{026b0206} now has the finest {0210} culture in the world.
+
+@4001
+{026b0206} is now called the "City of Granaries," where people live without fear of food shortages.
+
+@4002
+{026b0206} is now called the "City of Herdsmen," where people live without fear of food shortages.
+
+@4003
+{026b0206} is now called the "City of Arms," able to raise the mightiest army in the world.
+
+@4004
+{026b0206} is now called the "City of Soldiers," gathering generals renowned for their valor.
+
+@4005
+{026b0206} is now called the "City of Water," where ships can be sent out with confidence.
+
+@4006
+{026b0206} is now called the "City of Builders," where people live without fear of disaster.
+
+@4007
+{026b0206} is now called the "City of Learning," drawing talented people from far and wide.
+
+@4008
+{026b0206} is now called the "City of Art," where people live free from money worries.
+
+@4009
+{026b0206} is now called the "City of Medicine," where people live without fear of illness.
+
+@4010
+{026b0206} is now called the "City of Crafts," winning great wealth through trade.
+
+@4011
+{021e0202}, {021e0201} has come of age.
+
+@4012
+I will work hard to live up to your expectations, Father.
+
+@4012.1
+I will train hard to become a fine general soon.
+
+@4012.2
+I want to join a battle soon!
+
+@4012.3
+At last, the time has come when I can be of use to you, Father.
+
+@4012.4
+I will work hard so as not to fall behind you, Father.
+
+@4012.5
+I have long awaited this day.
+
+@4013
+{021e0201}, {0210} has come of age.
+
+@4014
+I am ready to marry whenever the time comes.
+
+@4014.1
+I long to be married soon.
+
+@4014.2
+I would like to stay by your side forever, Father.
+
+@4014.3
+Father, look! See how much I have grown!
+
+@4015
+{021e0203}, {021e0201}, child of {021e0202}, has come of age and joined your vassals.
+
+@4016
+{021e0202}, {021e0201} has newly joined your service in {026b0206}.
+
+@4017
+{C4}, I am ready to give my life as a member of the clan.
+
+@4017.1
+I am {021e0201}. I intend to serve you until my life ends.
+
+@4017.2
+My name is {021e0201}. I wish to serve {021e0202}, the Blue Wolf.
+
+@4017.3
+I am {021e0201} of {02860201}. I will surely be of use to you.
+
+@4017.4
+My name is {021e0201}. I have come because I wish to serve {02850202}.
+
+@4017.5
+My name is {021e0201}. I pledge {021e0202} my loyalty for life.
+
+@4017.6
+I am {021e0201}, from {028c0201}. I will surely prove useful to you.
+
+@4018
+{021e0202}, a son has been born to your retainer {021e0201}.
+
+@4019
+{C6}, a son has been born to this {021e0201}. His name is {021e0203}. When he comes of age, please let him join your retainers, even at the lowest rank.
+
+@4020
+A sandstorm has struck {0210}. Great damage is expected in the regions along its path.
+
+@4021
+A typhoon has struck {0210}. Great damage is expected in the regions along its path.
+
+@4022
+A drought has struck {0210}.
+
+@4023
+In {0210}, the fields have dried up and many are dying of hunger.
+
+@4024
+The drought in {0210} has damaged our own territory as well.
+
+@4025
+What?! A drought in our territory?! Report the damage at once!
+
+@4026
+{026b0206} suffered no damage from the drought.
+
+@4027
+Truly the City of Farmers, {026b0206}! Hunger is unknown there.
+
+@4028
+Truly the City of Herdsmen, {026b0206}! Hunger is unknown there.
+
+@4029
+A swarm of rats has appeared in {0210}. Great damage is expected in the regions along its path.
+
+@4030
+A swarm of locusts has appeared in {0210}. Great damage is expected in the regions along its path.
+
+@4031
+A cold wave has arrived in {0210}.
+
+@4032
+In {0210}, the fields are frozen and many are freezing to death.
+
+@4033
+The cold wave in {0210} has damaged our own territory as well.
+
+@4034
+What?! A cold wave in our territory?! Report the damage at once!
+
+@4035
+{026b0206} suffered no damage from the cold wave.
+
+@4036
+Truly the City of Builders, {026b0206}! No one freezes to death there.
+
+@4037
+Truly the City of Farmers, {026b0206}! The harvest is untouched by the cold.
+
+@4038
+Truly the City of Herdsmen, {026b0206}! The harvest is untouched by the cold.
+
+@4039
+Harvests are good across the world this year.
+
+@4040
+Harvests are poor across the world this year.
+
+@4041
+The cities of {021e0201} are bustling with a good harvest.
+
+@4042
+In the cities of {021e0201}, the poor harvest has the people in uproar.
+
+@4043
+It seems {021e0201} of {02860201} is teaching his son {021e0202} about government.
+
+@4044
+{021e0202}, never forget that our nation is held up by its many people and retainers.
+
+@4044.1
+The arrogant do not prosper long. Remember that pride is the root of all evil.
+
+@4044.2
+Rome was not built in a day, as the saying goes. There is no royal road to conquest.
+
+@4044.3
+A ruler must be a good friend to his people.
+
+@4044.4
+War is the last resort. Before it, one must use diplomacy and strategy to the full.
+
+@4044.5
+A nation stands only on the support of its people and retainers.
+
+@4044.6
+{021e0202}, keep in mind that you are of royal blood, and apply yourself to your studies.
+
+@4044.7
+Force cannot truly make men obey. Virtue is what is needed.
+
+@4045
+Government is dull. A man is happiest raging on the battlefield.
+
+@4045.1
+Er... They say governing is like a festival, and a festival means singing merrily and...
+
+@4045.2
+Government is tedious. Let us cut it short.
+
+@4046
+A ruler leaves trifles like government to his retainers and simply sits firm. That is enough.
+
+@4046.1
+Do not spoil the people. They only get cocky, and nothing is gained.
+
+@4046.2
+A ruler should leave trifles like government to his retainers and simply sit firm.
+
+@4046.3
+Government is scheming. There is no clean or dirty in it.
+
+@4046.4
+Winning supremacy through virtue is a mere fantasy. What you need is power.
+
+@4047
+I thought so! In fact, I thought the same.
+
+@4047.1
+I thought so! I thought the same, too.
+
+@4047.2
+What {C4} says is truly instructive.
+
+@4047.3
+Hmm, I see.
+
+@4047.4
+That is so true. What {021e0202} says is very instructive.
+
+@4047.5
+It is hard now, but I am sure I will understand when I grow up.
+
+@4047.6
+{021e0202} is right. I will remember those words.
+
+@4048
+Take this {C1} as your example and study harder still.
+
+@4048.1
+Study harder, much harder.
+
+@4048.2
+If you do not study harder, you will not become a fine general.
+
+@4048.3
+I hope I was of at least some use.
+
+@4049
+Does he really understand...?
+
+@4049.1
+Oh dear, you have believed everything I said...
+
+@4049.2
+If you do not forget this {C1}'s words, you will become a fine general.
+
+@4049.3
+With such quick learning, {021e0202} will make a fine ruler.
+
+@4049.4
+If you do not forget my words, you will become a fine general.
+
+@4049.5
+Government is difficult, but {021e0202} will surely understand.
+
+@4049.6
+Such understanding at so young an age... Remarkable. I am deeply impressed.
+
+@4050
+Taught by {021e0201}, {021e0202} has honed political ability.
+
+@4050.1
+{021e0201}'s teaching was of no use to {021e0202}.
+
+@4051
+It seems {021e0201} of {02860201} is giving his son {021e0202} martial training.
+
+@4052
+Come now, do not hold back. Come at your brother!
+
+@4052.1
+Come now, do not hold back.
+
+@4052.2
+Train every day. As the child of a warrior, you must not be weak!
+
+@4052.3
+A knight fights fair and square. Come now, attack me.
+
+@4052.4
+Come now, do not hold back.
+
+@4052.5
+Yes, hold the sword like that. Good, now thrust just so.
+
+@4052.6
+You must protect yourself. {021e0202}, come at me!
+
+@4052.7
+Good stance. Now, find your courage and come at me.
+
+@4053
+Then here I come, {C4}! Hyaah!!
+
+@4053.1
+Then I come, {021e0202}! Hyaah!
+
+@4053.2
+{021e0202}, is this the right stance? I see. Then here I go!
+
+@4053.3
+H-here I come, {021e0202}! Do not dodge! Yaaah!
+
+@4054
+No, no! Your hips are not in it. You cannot defeat an enemy like that.
+
+@4054.1
+Your hips are not in it! You cannot defeat an enemy like that.
+
+@4054.2
+Ha ha ha, spirit alone will not beat an enemy! Watch the enemy's movements more.
+
+@4054.3
+You still lack training. Next I will not hold back. Yaaah!
+
+@4055
+Ow, ow, ow... I yield! To be beaten by my little brother... how pitiful.
+
+@4055.1
+Ow, ow, ow... I yield! One cannot beat age after all.
+
+@4055.2
+Ow, ow, ow... I yield! A sword one is unused to is best left alone.
+
+@4055.3
+I am beaten! {021e0202}, keep up this training.
+
+@4055.4
+I am beaten! {021e0202} will surely make a fine general.
+
+@4055.5
+With such a timid stance... Hmm, does {021e0202} lack talent?
+
+@4055.6
+With such a timid stance... Ah, you fell. Does the young lord lack talent?
+
+@4055.7
+Ah, good form. With this, no enemy will frighten you.
+
+@4055.8
+Ah, good form. With this, no enemy will frighten you.
+
+@4055.9
+Splendid! Worthy of the young lord. Your swordsmanship is first-rate.
+
+@4055.10
+Yes, that spirit matters! Scatter your enemies with sheer will.
+
+@4056
+Taught by {021e0201}, {021e0202} has honed combat ability.
+
+@4056.1
+{021e0201}'s teaching was of no use to {021e0202}.
+

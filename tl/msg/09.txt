@@ -1,0 +1,438 @@
+@9000
+Two-Field System
+
+@9001
+A farming method practiced mainly in medieval Western Europe. Arable land is split in two: one half lies fallow while the other grows beans and wheat. It developed into the three-field system.
+
+@9002
+Raises agricultural culture by {0210}. Harvests from the fields become 1.2 times larger.
+
+@9003
+Three-Field System
+
+@9004
+A farming method that replaced the two-field system in medieval Western Europe. Land is divided in three: a winter field, a spring field and a fallow field, rotated over a three-year cycle.
+
+@9005
+Raises agricultural culture by {0210}. Harvests from the fields become 1.5 times larger.
+
+@9006
+Champa Rice
+
+@9007
+Rice native to Champa (southern Vietnam). It resists drought and ripens early. Also grown in Jiangnan, China, where combined with late-ripening rice it allowed two crops a year.
+
+@9008
+Raises agricultural culture by {0210}. In Japan, China and India, fields yield two harvests a year (midsummer and autumn).
+
+@9009
+Qimin Yaoshu
+
+@9010
+The oldest surviving Chinese book on farming. It describes how to grow various crops and process foods, at a standard so high that it differs little from present-day techniques.
+
+@9011
+Raises agricultural culture by {0210}.
+
+@9012
+Wheeled Plow
+
+@9013
+A plow fitted with wheels, developed for heavy alluvial soil. It already existed in Roman times, but even in the Middle Ages only wealthy farmers owned one.
+
+@9014
+Raises agricultural culture by {0210}.
+
+@9015
+Seed Drill
+
+@9016
+A tool for sowing grain seed. Types differ by method: broadcast, row or hill sowing. In India's dry-land farming, row seeders were used.
+
+@9017
+Raises agricultural culture by {0210}.
+
+@9018
+Sheepdogs
+
+@9019
+Guard dogs of the pasture. They watched the sheep and protected the ranch's property.
+
+@9020
+Raises livestock culture by {0210}.
+
+@9021
+Mongolian Cattle
+
+@9022
+Cattle native to Mongolia, used for dairy, meat and farm work, and widespread as far as northeast China. Their reddish-brown or yellowish-brown bodies are very resistant to harsh environments.
+
+@9023
+Raises livestock culture by {0210}.
+
+@9024
+Merino Sheep
+
+@9025
+Sheep native to Spain: a large, fine-wooled breed that is also eaten. Rams have horns, ewes do not. With them Spain built a monopoly on wool production.
+
+@9026
+Raises livestock culture by {0210}.
+
+@9027
+Alfalfa
+
+@9028
+A fodder plant native to Persia and Central Asia, rich in protein, minerals and vitamins. The best of all forage grasses, it is called the "queen of forage."
+
+@9029
+Raises livestock culture by {0210}.
+
+@9030
+Horsemanship Manual
+
+@9031
+A work by Xenophon, who served Philip II of Macedon. It is the oldest text on riding and keeping horses.
+
+@9032
+Raises livestock culture by {0210}.
+
+@9033
+Gunpowder
+
+@9034
+A mixture of saltpeter, sulfur and charcoal. A by-product of Tang alchemy, its recipe is recorded in the Northern Song Wujing Zongyao. It was put to use as a weapon under the Jin.
+
+@9035
+Raises weapons culture by {0210}.
+
+@9036
+Siege Tower
+
+@9037
+A tall tower for assaulting castles. Moved up beside the walls, it lets troops shoot and throw stones into the castle from its top platform. Some had a log tipped with heavy iron to batter the walls down.
+
+@9038
+Raises weapons culture by {0210}. Siege towers can now be recruited.
+
+@9039
+Greek Fire
+
+@9040
+The Byzantine Empire's flamethrower, used to burn the enemy. Being naphtha-based, it was hard to put out. It proved powerful in many wars and terrified foes.
+
+@9041
+Raises weapons culture by {0210}. Flamethrowers can now be recruited.
+
+@9042
+Crossbow
+
+@9043
+A kind of bow popular mainly in medieval Europe. Fired with a trigger, it has superb power and range and is easy to use. Its drawback is the time needed to set the bolt on the trigger.
+
+@9044
+Raises weapons culture by {0210}. Crossbowmen can now be recruited.
+
+@9045
+Catapult
+
+@9046
+A weapon that hurls stones or arrows by the restoring force of twisted rope bundles or hair. Used in ancient Rome and China, it served long as a siege weapon until cannons appeared.
+
+@9047
+Raises weapons culture by {0210}. Catapults can now be recruited.
+
+@9048
+Thunder Crash Bomb
+
+@9049
+A cannon-like weapon. An iron tube is packed with powder and shot, lit, and fired into enemy lines. Invented by the Jin, it was adopted by the Mongols who fought them, and used in the Mongol invasions of Japan.
+
+@9050
+Raises weapons culture by {0210}. Gunners can now be recruited.
+
+@9051
+Plate Armor
+
+@9052
+Armor of metal plates covering the whole body, developed in response to advances in weapons such as arrows. Excellent protection, but its weight limits mobility.
+
+@9053
+Raises weapons culture by {0210}. Heavy infantry can now be recruited.
+
+@9054
+The Art of War
+
+@9055
+The book of Sun Tzu, a military thinker of ancient China, in 13 chapters. Covering everything from local tactics to the management of whole states, its extraordinary insight made it a favorite of many generals for ages.
+
+@9056
+Raises tactics culture by {0210}.
+
+@9057
+De Re Militari
+
+@9058
+By the Roman military writer Vegetius, written in the late 4th century. It covers army organization and troop training, and even catapults and signaling.
+
+@9059
+Raises tactics culture by {0210}.
+
+@9060
+Commentaries on the Gallic War
+
+@9061
+Caesar's account of his campaigns in Gaul. Valued as a key source on the ancient Germans, and also acclaimed as a masterpiece of Latin literature.
+
+@9062
+Raises tactics culture by {0210}.
+
+@9063
+Parallel Lives
+
+@9064
+By Plutarch of ancient Rome. Also called the "Parallel Lives," it gives the biographies of 23 pairs of Greek and Roman heroes who led similar lives.
+
+@9065
+Raises tactics culture by {0210}.
+
+@9066
+Hannibal's War
+
+@9067
+The war record of Hannibal, general of Carthage. It describes how, in the Punic Wars against Rome, he led cavalry and elephants over the Alps to invade Italy.
+
+@9068
+Raises tactics culture by {0210}.
+
+@9069
+Epaminondas' Tactics
+
+@9070
+The battle formations of Epaminondas, general of ancient Greece, called the "oblique order." A deep, dense formation is placed on the left wing, while the center and right are staggered back step by step.
+
+@9071
+Raises tactics culture by {0210}.
+
+@9072
+Jihad
+
+@9073
+War waged by Muslims to convert unbelievers, translated as "holy war." Warriors who died in it were believed to go straight to paradise.
+
+@9074
+Raises tactics culture by {0210}.
+
+@9075
+Compass
+
+@9076
+A device that shows direction. One of China's three great inventions, it came into use in the Song era. It greatly improved the safety of voyages and ushered in Europe's Age of Discovery.
+
+@9077
+Raises navigation culture by {0210}.
+
+@9078
+Lighthouse
+
+@9079
+A structure that shows sea routes with its light. Already built in Hellenistic times; the light of the Lighthouse of Alexandria is said to have been seen from about 56 km away.
+
+@9080
+Raises navigation culture by {0210}.
+
+@9081
+Astrolabe
+
+@9082
+A multi-purpose astronomical instrument, widely used in the medieval Islamic world and Europe. Besides observing the stars, it served for calendars, astrology and measuring the size of buildings.
+
+@9083
+Raises navigation culture by {0210}.
+
+@9084
+Astronomy
+
+@9085
+Originally a religious pursuit of reading the will of the gods from the heavens. In the Middle Ages it was studied chiefly in the Islamic world, and used to learn direction and weather for safe sailing.
+
+@9086
+Raises navigation culture by {0210}.
+
+@9087
+Astrology
+
+@9088
+The study of predicting events from the motion of the heavenly bodies. It influenced medicine and pharmacy and spurred the development of astronomical instruments. Its validity went unquestioned until Galileo's time.
+
+@9089
+Raises navigation culture by {0210}.
+
+@9090
+Stern Rudder
+
+@9091
+A device that steers a ship, introduced to European sailing ships around the 12th century. Handling improved greatly over the old method of turning with oars.
+
+@9092
+Raises navigation culture by {0210}.
+
+@9093
+Lateen Sail
+
+@9094
+A triangular sail used mostly on Arab ships (dhows), suited to sailing with the wind from the side. It reached Europe through Muslims.
+
+@9095
+Raises navigation culture by {0210}.
+
+@9096
+Byzantine Architecture
+
+@9097
+The style of Byzantine church buildings, marked by domed roofs and mosaic murals inside. The Hagia Sophia is its best-known example.
+
+@9098
+Raises architecture culture by {0210}.
+
+@9099
+Romanesque Architecture
+
+@9100
+A style popular in Western Europe in the 11th-12th centuries, best represented by the cathedrals of Pisa and Worms. Marked by heavy stone walls, dark interiors and round arches.
+
+@9102
+Castle Architecture
+
+@9103
+Based on the fortification methods of ancient Rome. Until cannons appeared it kept enemy attacks at bay, and the great walls of Constantinople in particular boasted of being impregnable.
+
+@9104
+Raises architecture culture by {0210}. Enemy troops are more likely to fail at scaling the walls. The defense of palaces and castle gates rises.
+
+@9105
+Cave Temples
+
+@9106
+Temples cut into sheer rock cliffs. Originating in India, with temples built at Ajanta, Ellora and elsewhere, the style later spread to China and beyond.
+
+@9108
+Shinden-zukuri
+
+@9109
+A building style used by the Japanese nobility of the Heian era, with many halls joined by corridors. Outside lay a broad garden with a pond, where ceremonies such as dances were held.
+
+@9111
+Minarets
+
+@9112
+Towers attached to a mosque, the Islamic house of worship. Built in great numbers in the Ottoman Turkish age.
+
+@9114
+Woodblock Printing
+
+@9115
+A printing method using wooden blocks. Invented in China around the 6th-7th centuries and widespread in the Song era, it also greatly influenced the invention of movable type in Europe.
+
+@9116
+Raises scholarship culture by {0210}.
+
+@9117
+Movable Type Printing
+
+@9118
+A printing method using metal-alloy type. Invented by Gutenberg of Germany in the 15th century, it made books common in Europe.
+
+@9119
+Raises scholarship culture by {0210}.
+
+@9120
+Neo-Confucianism
+
+@9121
+A school of Confucianism systematized by Zhu Xi, a Confucian scholar of the Southern Song. It later influenced Japanese thought as well.
+
+@9122
+Raises scholarship culture by {0210}.
+
+@9123
+Papermaking
+
+@9124
+Invented by Cai Lun of China in the early 2nd century. After the Battle of Talas, Chinese papermakers captured by the Muslims carried it to the West.
+
+@9125
+Raises scholarship culture by {0210}.
+
+@9126
+Arabic Numerals
+
+@9127
+Today's numerals. Originating in India, they became an excellent system for calculation once the concept of zero was discovered. They spread to Islam around the 7th-8th centuries, then across Europe.
+
+@9128
+Raises scholarship culture by {0210}.
+
+@9129
+Algebra
+
+@9130
+Developed in the medieval Islamic world. The achievements of the Persian mathematician al-Khwarizmi were especially great, and the title of his work gave algebra its name.
+
+@9131
+Raises scholarship culture by {0210}.
+
+@9132
+Liber Abaci
+
+@9133
+A treatise on arithmetic and elementary algebra by the Italian mathematician Leonardo. Known as the first book to introduce the Arabic numeral system to the Western world in an organized way.
+
+@9134
+Raises scholarship culture by {0210}.
+
+@9135
+Corpus Juris Civilis
+
+@9136
+The great compilation of ancient Roman law, ordered by the Byzantine emperor Justinian. Made up of the Code, the Digest and the Institutes, it became the foundation of modern law in Europe.
+
+@9137
+Raises scholarship culture by {0210}.
+
+@9138
+Observatory
+
+@9139
+Facilities for observing the heavens, built mainly in the Islamic world and China. The state observatory at Dadu, the Yuan capital, held instruments like the armillary sphere.
+
+@9140
+Raises scholarship culture by {0210}.
+
+@9141
+Natural History
+
+@9142
+A science encyclopedia by the ancient Roman writer Pliny, covering every field: astronomy, geography, botany, medicine and pharmacy. It consists of 37 volumes and 20,000 entries.
+
+@9143
+Raises scholarship culture by {0210}.
+
+@9144
+Arabesque
+
+@9145
+Geometric patterns based on plant stems and leaves. A distinctive abstract art that grew up in the Islamic world, which forbids idol worship, it was used for wall decoration and book bindings.
+
+@9146
+Raises arts culture by {0210}.
+
+@9147
+Fresco Painting
+
+@9148
+A kind of mural painted in watercolor on damp plaster. Known since ancient Near Eastern times, it flourished in the Byzantine Empire and elsewhere.
+
+@9149
+Raises arts culture by {0210}.
+

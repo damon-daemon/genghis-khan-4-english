@@ -1,0 +1,150 @@
+@18000
+4th sultan of the Ottoman Turks. Swift beyond measure in his campaigns, he was nicknamed "the Thunderbolt." He beat Europe's allied armies but lost to Timur.
+
+@18001
+Founder of the Timurid Empire. Claiming descent from Genghis Khan, he aimed to restore the Mongol Empire. After sweeping West Asia he died on the way to China.
+
+@18002
+An English thinker. He organized the peasant army in Wat Tyler's Rebellion and won support by preaching social equality. The rebellion was crushed and he was executed.
+
+@18003
+An English revolutionary. He led the peasant revolt and demanded of King Richard II the abolition of serfdom and more. He was treacherously murdered by the king's side.
+
+@18004
+King of Hungary. He later also held the title of Holy Roman Emperor. He fought the Ottoman Turkish army at Nicopolis and was badly beaten.
+
+@18005
+King of Serbia. He fought Bulgaria and Hungary and expanded his territory. He planned to attack Constantinople but died suddenly on the way.
+
+@18006
+A general of Goryeo and founder of Korea's Yi dynasty. After driving back the Japanese pirates, he destroyed Goryeo and became king. He made Confucianism the state creed.
+
+@18007
+A French revolutionary. During the Hundred Years' War he started a peasant revolt, the Jacquerie.
+
+@18008
+A historian from Tunis in North Africa. He held important posts under various Islamic dynasties. His works include the "Kitab al-Ibar" and the "Muqaddimah."
+
+@18009
+8th sultan of the Mamluks. He deposed Salamish, son of the 5th sultan Baybars, and took the throne. With skillful diplomacy he held back the advance of the Ilkhanate.
+
+@18010
+King of Norway. To weaken the assembly he revised the laws again and again, and earned the ill repute of "the Lawmender."
+
+@18011
+Son of Magnus VI, King of Norway. He succeeded his father after his death.
+
+@18012
+Son of Magnus VI, King of Norway. Under pressure from the growing Hanseatic League, his country's strength declined. He moved the capital from Bergen to Oslo.
+
+@18013
+A retainer of Targutai, chief of the Tayichiud. After Genghis Khan beat him he submitted to the Mongols. He protected Kulan, later Genghis Khan's consort, from brutish soldiers.
+
+@18014
+A Swiss master archer. He shot an apple off his beloved son's head with a single arrow. Heartened by this, the peasants are said to have risen against Austrian rule.
+
+@18015
+4th head of the Oshu Fujiwara. Bowing to Yoritomo's threats, he killed Yoshitsune and sent his head to Kamakura. Driven from Hiraizumi, he was killed by his retainer.
+
+@18016
+Elder brother of Fujiwara no Yasuhira. He ignored his father's dying wish to serve Yoshitsune and let Yasuhira kill him. He fought Yoritomo's expedition and died in defeat.
+
+@18017
+King of Jerusalem. He joined the Third Crusade and fought bravely against the Muslim army from the city of Tyre. He was assassinated by the order of Assassins.
+
+@18018
+A warrior of the early Kamakura period. A follower of Yoshitsune, he excelled against the Taira, leading every charge, and was called the fiercest warrior in the Kanto.
+
+@18019
+A general of the last years of Western Xia. He refused Genghis Khan's request for reinforcements, and when the Mongols invaded he was captured and killed.
+
+@18020
+An official of Western Liao. When power was seized by Kuchlug, prince of the Naiman, he fled to Genghis Khan and begged for his help.
+
+@18021
+A monk of Western Liao. He served as governor of the Uyghurs, a vassal of Western Liao.
+
+@18022
+Younger brother of Sultan Shah, 5th shah of Khwarezm. He took the throne after his brother's death. He defeated the Seljuk Turks and established his supremacy in West Asia.
+
+@18024
+A Russian noble. He ruled the area around Halych, a city in southwestern Russia.
+
+@18025
+A noble of Halych, a city in southwestern Russia. He ousted Daniel, son of the late Roman, and took the title of Prince of Halych.
+
+@18026
+A Jin general. He killed Wei Shaowang, the 7th emperor, and took power, but was killed soon after by his opponents.
+
+@18027
+A general of the last years of the Jin. With only 400 horsemen he drove off 8,000 Mongols and even beat the fierce Subutai. In the end he was defeated and executed.
+
+@18028
+A man of letters from Iceland. Nephew of Snorri Sturluson, who compiled the Edda. After his uncle's death he carried on the compilation.
+
+@18029
+A warrior of the late Kamakura period. He destroyed his rival Adachi Yasumori and seized power, but failed to make his second son shogun. Hojo Sadatoki destroyed him.
+
+@18030
+A warrior of the late Kamakura period. Third son of Shoni Sukeyoshi. He won many honors against the Mongols, but fought his own clan over the headship, lost, and took his own life.
+
+@18031
+A general of the last years of the Southern Song. He fought the Mongols and held Xiangyang for five years. Cut off from rear support, he surrendered.
+
+@18032
+A general of the Yuan era. Though Han Chinese, he served the Mongols as his father, Zhang Rou, had. At Yamen he commanded the Yuan army and destroyed the Southern Song.
+
+@18033
+8th ruler of the Golden Horde. He killed the 7th ruler, Tula Buqa, and took the throne.
+
+@18034
+A general of the Golden Horde. He ruled the steppe between the Don and the Danube and set himself against the ruler, Tuda Mongke.
+
+@18035
+A warrior of the early Kamakura period. He followed Yoshitsune's army against the Taira. A master archer, at Yashima he shot down a fan raised on an enemy ship with one arrow.
+
+@18036
+A leader of a peasant revolt in Goryeo. He fought the king's army near Gyeongju in southern Goryeo.
+
+@18037
+4th son of Genghis Khan. He showed his father's gift for tactics in the Jin and western campaigns. Seen as a strong successor, he yielded to his elder brother Ogedei.
+
+@18038
+{021e0201} {02550201}
+
+@18040
+Child of {028b0201}.
+
+@18041
+A statesman and soldier such as comes along once in an age, with wits far above the rest.
+
+@18041.1
+Gifted in both statecraft and war.
+
+@18041.2
+A fine general, equal in wisdom and courage.
+
+@18041.3
+An excellent soldier. Skilled at stratagems as well.
+
+@18041.4
+Excels at statecraft.
+
+@18041.5
+A fierce warrior who shows his strength on the battlefield.
+
+@18041.6
+A brilliant strategist.
+
+@18042
+Excels at leading infantry.
+
+@18042.1
+Boasts a bowman's skill that never misses.
+
+@18042.2
+Leading cavalry, he fights with demonic strength.
+
+@18042.3
+At sea, he is unmatched in battle.
+

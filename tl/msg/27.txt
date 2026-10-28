@@ -1,0 +1,696 @@
+@27000
+In 1185, the Taira clan was destroyed at the Battle of Dan-no-ura. The only enemy left to Minamoto no Yoritomo was the Fujiwara of Oshu.
+
+@27001
+The Fujiwara of Oshu, based at Hiraizumi, built a temple culture of their own, including the Golden Hall of Chuson-ji, and reached the height of splendor.
+
+@27002
+But Yasuhira, fourth of the line and heir to the great Hidehira, lacked his father's ability, and the unity of the clan had begun to crumble.
+
+@27003
+Tokimasa, I think now is the time to strike Hiraizumi. Tell me what you think.
+
+@27004
+Yasuhira is no match for us. It would be best to destroy him quickly.
+
+@27005
+But moving an army without leave of the Imperial Court would be unwise.
+
+@27006
+No. Crush the Fujiwara utterly, and make the Court see that Lord Yoritomo is the true ruler.
+
+@27007
+Hm, you are right, Tokimasa. Once Hiraizumi is taken, even the Court will have to accept my authority. The title of Seii Taishogun may not be a dream after all.
+
+@27008
+Minamoto no Yoritomo began preparing to attack the Fujiwara of Oshu.
+
+@27009
+The final battle in the long-dreamed founding of a warrior government drew nearer with every moment.
+
+@27010
+Minamoto no Yoritomo destroyed the Fujiwara of Oshu and made his rule over the land secure. The Court recognized his authority and at last named him Seii Taishogun.
+
+@27011
+{C6}, our heartfelt congratulations.
+
+@27012
+Hm. This is thanks to your loyal service.
+
+@27013
+You honor us, {C6}. Your joy is the joy of all your retainers.
+
+@27014
+Since my father was killed by the Taira and I was exiled to Izu, the road has been full of hardship...
+
+@27015
+That I have come this far is a wonder.
+
+@27016
+Masako, I have put you through a great deal as well.
+
+@27017
+Looking back, so much has happened.
+
+@27018
+Do you remember coming to find me in the middle of a storm?
+
+@27019
+Masako's father, Hojo Tokimasa, learned his daughter loved the masterless Minamoto no Yoritomo,
+
+@27020
+and confined her to keep them apart. He feared the eyes of the Taira.
+
+@27021
+But one stormy night Masako escaped her father and ran through the pouring rain to Yoritomo.
+
+@27022
+After that, Tokimasa had no choice but to accept their love. Masako had won Yoritomo with her own passion.
+
+@27023
+I shall never forget you as you were that night.
+
+@27024
+Then... surely you will never cast your eyes on another woman.
+
+@27025
+Er, yes.
+
+@27026
+Come now, {C6}, tonight you have become master of the realm. Let us celebrate to our heart's content and enjoy ourselves!
+
+@27027
+Thus Minamoto no Yoritomo opened his shogunate at Kamakura, and the first warrior government in Japan was born.
+
+@27028
+Yoritomo's politics, combat and strategy have increased.
+
+@27029
+In the late 12th century, the tribes of the Mongolian plateau were locked in endless strife, and Temujin's tribe was caught in the middle of it.
+
+@27030
+Temujin allied himself with Toghril Khan, chief of the Kerait, and with Jamukha of the Jadaran, and steadily rose to prominence.
+
+@27031
+In 1189, Temujin was at last raised to the rank of Khan by his followers and took the name Genghis Khan.
+
+@27032
+Temujin... no, Lord Genghis Khan. Congratulations on your enthronement.
+
+@27033
+Congratulations.
+
+@27034
+Yes. At long last I may call myself Khan.\pBut this enthronement is sure to anger Jamukha and Toghril Khan.
+
+@27035
+......
+
+@27036
+When the Merkit carried you off, Borte, they helped me win you back.
+
+@27037
+But since then Jamukha has turned against me.\pI am still on good terms with Toghril Khan,\pbut his son Ilqa Senggum seems to think ill of me.
+
+@27038
+A day may come when we must settle matters with them.
+
+@27039
+Indeed. Whatever happens, to become a true Khan I must unite the Mongols.
+
+@27040
+You will surely achieve it, Lord Genghis Khan. We all believe so.
+
+@27041
+Genghis Khan's power over Mongolia was still weak.
+
+@27042
+His struggle to become the true master of the Mongols had only just begun.
+
+@27043
+Genghis Khan had at last united Mongolia.
+
+@27044
+A grand banquet in celebration was held in the great pavilion.
+
+@27045
+It was thanks to my generals that I could unite this turbulent Mongolian plateau. I thank you all once more.
+
+@27046
+With that, Genghis Khan began to address his generals one by one.
+
+@27047
+Boorchu, when I was young and thieves took my horses, you helped me get them back.
+
+@27048
+You have served me well ever since. I shall never forget what I owe you.
+
+@27049
+Those words are the greatest reward I could ask for.
+
+@27050
+Muqali, you are not only brave, you have a fine mind for strategy. When we march on foreign lands, I want you to be the core of my army and show your talent.
+
+@27051
+...As you command.
+
+@27052
+Jelme, my oldest friend. I do not know how I can repay all I owe you.
+
+@27053
+Lord Genghis Khan, merely sitting at this table is enough for me.
+
+@27054
+Your loyalty pleases me more than anything. Even if you commit a crime, Jelme, I will not punish you until you have done so nine times.
+
+@27055
+Jebe, I am truly glad that I never had to make you my enemy. Go on using your gift for war to the fullest.
+
+@27056
+With my bow, I shall serve the Great Khan.
+
+@27057
+Subutai, no one in my army surpasses you in courage. I expect great deeds from you in the future.
+
+@27058
+For the glory of the Great Khan, I will crush any foe, however strong.
+
+@27059
+Boroqul, you have a strange gift for persuading men without angering them. We will send many envoys to the great powers hereafter, and I want you to shine then.
+
+@27060
+I will do my best to meet your expectations.
+
+@27061
+Kublai, I want you to keep serving in the army and help me.
+
+@27062
+So long as I can keep going to war, I ask for nothing more.
+
+@27063
+Chilaun, you saved my life. Go on using your talents for Mongolia.
+
+@27064
+I, Chilaun, swear unchanging loyalty to the Great Khan.
+
+@27065
+I am happy to have such loyal and able generals under me.
+
+@27066
+I will lead my army beyond this Mongolian plateau and advance still further. But for now, celebrate this joyous day to the full with fine food and drink.
+
+@27067
+The generals Genghis Khan thanked were the "Four Hounds and Four Steeds," wise and valiant commanders known as the faithful four dogs and four horses of Genghis Khan.
+
+@27068
+Genghis Khan had united Mongolia and now commanded such fine generals.
+
+@27069
+His ambition to become master of the world grew stronger still.
+
+@27070
+The loyalty of the Mongol generals has increased.
+
+@27071
+Since the 11th century, England had held Normandy and other lands in northern France.
+
+@27072
+France tried to win them back, and the two kingdoms had fought for many years.
+
+@27073
+Philip II, seventh king of the Capetian dynasty, was so fine a ruler he was called "the Majestic," and ambitious.
+
+@27074
+Philip II was planning an expedition to settle the war with England once and for all.
+
+@27075
+Your Majesty, what are our chances in an expedition against England?
+
+@27076
+Hm. Fighting them head-on would be hard, I suppose.
+
+@27077
+After all, our enemy is the Lionheart himself.
+
+@27078
+Richard I, then King of England, was a warrior of a kind rarely seen in history, nicknamed "the Lionheart."
+
+@27079
+True, Richard is a military genius, but he has no talent for politics. We have the greater national strength. If we come at him with overwhelming force, we can win.
+
+@27080
+I see.
+
+@27081
+There is also a rumor that Richard's brother John is secretly plotting a rebellion.
+
+@27082
+So there is a weakness we can exploit.
+
+@27083
+Yes. One way or another, I will settle things with England.
+
+@27084
+Philip II took London, the seat of his old enemy England. He had effectively ended the strife between the two kingdoms that had lasted since the 11th century.
+
+@27085
+{C6}, congratulations on taking London. Your handling of England, a great European power, was masterful.
+
+@27086
+Yes. Now with no enemy at our back, we can advance onto the continent.
+
+@27087
+What! You are already thinking of the next campaign?
+
+@27088
+Of course. I have no intention of being satisfied with ruling England.
+
+@27089
+Then what is your next goal, {C6}?
+
+@27090
+The unification of Europe. The people of Europe will be happy only when governed by a capable king.
+
+@27091
+Barely had London fallen when Philip II began to harbor his next ambition.
+
+@27092
+Philip II's combat has increased.
+
+@27093
+At the end of the 4th century, the Roman Empire split into east and west. The Byzantine Empire grew from its eastern half and is another name for the Eastern Roman Empire.
+
+@27094
+In the 6th century, when Justinian conquered nearly the whole Mediterranean, the Byzantine Empire reached its golden age.
+
+@27095
+Afterward, its capital Constantinople remained a great center of Europe throughout the Middle Ages, and its prosperity seemed destined to last forever.
+
+@27096
+But in the 11th century, the advance of Western Europe and Islam gained strength, and disputes over the succession to the throne broke out again and again at home.
+
+@27097
+In particular, when the Republic of Venice rapidly gained power and entered the eastern trade, one of the empire's sources of revenue, it became a great threat to the empire.
+
+@27098
+Ah, you have both come. Good.
+
+@27099
+What is it, Father?
+
+@27100
+Has something urgent happened?
+
+@27101
+No, it is not that... But lately there has been much unrest, both at home and abroad.
+
+@27102
+What do you mean?
+
+@27103
+My brother is trying to take the throne from me, and the generals are waiting for a chance to rebel.
+
+@27104
+You two are the only ones I can trust. Do you have any good ideas?
+
+@27105
+We should simply execute all the troublemakers.
+
+@27106
+How brutal! They are valuable men.
+
+@27107
+But there are rumors that Venice means to attack us. If a rebellion broke out now...
+
+@27108
+Then the urgent task is to raise the loyalty of the discontented generals.
+
+@27109
+You are right. First we unite the generals, then we fight the decisive battle with Venice.
+
+@27110
+Our empire is the only rightful heir of the Roman Empire. We cannot let Rome's history end here.
+
+@27111
+You are both still young, but the fate of the empire rests on your shoulders. I am counting on you.
+
+@27113
+The Byzantine Empire set about bringing its generals back under control and, under the slogan of defeating Venice, tried to rebuild its national strength.
+
+@27114
+In {027c}, the Byzantine Empire took Venice. The neighboring states were greatly astonished at the news.
+
+@27115
+The Byzantine Empire, thought to be in endless decline, had regained its strength.
+
+@27116
+In the Byzantine Empire, a banquet was held to celebrate the capture of Venice.
+
+@27117
+Father, we have taken Venice at last.
+
+@27118
+Yes. Now our country has a foothold for advancing into the world.
+
+@27119
+Amid trouble at home and abroad, all the effort I made together with Theodorus was worth it.
+
+@27120
+You two have truly borne great hardships for me. I have no words to thank you.
+
+@27121
+You honor us too much.
+
+@27122
+If it restores the glory of the Empire, we will serve you loyally from this day on as well.
+
+@27123
+As the splendid banquet ended and the generals departed, Emperor Isaac II and General Theodorus remained behind.
+
+@27124
+To achieve the great enterprise of expanding into the world, my son Alexios may not be strong enough.
+
+@27125
+But you, Theodorus, can bear the Empire's growth. Do not abandon my son, and go on lending him your aid.
+
+@27126
+Your Majesty, that you would say such words to me... I, Theodorus, will do all I can for the Empire.
+
+@27127
+The Byzantine Empire regained its glory and, under the renowned Theodorus, took its first step to greatness.
+
+@27128
+Theodorus's loyalty has increased.
+
+@27129
+Theodorus's politics, combat and strategy have increased.
+
+@27130
+In the late 13th century, Hojo Tokimune had become the eighth regent of the Kamakura Shogunate and ruled Japan.
+
+@27131
+But disasters struck Japan one after another, and bandits and plague spread, threatening the shogunate's rule.
+
+@27132
+Yasumori, judging by the times, the shogunate's strength seems to be fading. We must devise some plan.
+
+@27133
+So it seems... In the provinces many rebel against the shogunate, and the people seek salvation in Zen and the nenbutsu. The hearts of men are surely turning away from the shogunate.
+
+@27134
+Hmm... How are we to restore the shogunate's rule?
+
+@27135
+First we must win back the trust of the housemen.
+
+@27136
+The housemen's trust... But how?
+
+@27137
+Rewarding them would be best.
+
+@27138
+But we have no more land left to give the housemen as rewards.
+
+@27139
+There is more than enough land on the continent.
+
+@27140
+What! On the continent?
+
+@27141
+To restore the shogunate, I believe we should advance onto the continent and win new land.
+
+@27142
+But will it go so well?
+
+@27143
+Several powers are at odds with one another and the continent is in turmoil. There is an opening for us.
+
+@27144
+Hmm.
+
+@27145
+Hojo Tokimune began to plan an advance onto the continent to rebuild the Kamakura Shogunate.
+
+@27146
+Under the regent Hojo Tokimune, the shogunate army that advanced onto the continent finally captured {026b0206}.
+
+@27147
+{C6}, congratulations on this victory.
+
+@27148
+Yes. I never thought the day we could advance onto the continent would come so soon.
+
+@27149
+The housemen are delighted at this great achievement.
+
+@27150
+It is thanks to the housemen's efforts alone. I am grateful to them.
+
+@27151
+The housemen seek new fields of glory and seem to be waiting eagerly for the next battle.
+
+@27152
+This continent is vast and boundless. I do not know how far we can go, but let us push on with our present momentum.
+
+@27153
+Starting with {0210}, the Kamakura Shogunate took its first step toward advancing onto the continent.
+
+@27154
+With the housemen's trust restored, it began to prepare for the next advance.
+
+@27155
+The loyalty of the Kamakura Shogunate's shogun has increased.
+
+@27156
+In the late 13th century, Southern Song, suffering repeated Yuan invasions, fell into a crisis of national survival.
+
+@27157
+But Emperor Duzong was told nothing of the nation's state and held banquets almost daily, lost in revelry.
+
+@27158
+Oh, the wine has run out! Wine! Bring more wine!
+
+@27159
+Your Majesty, drinking so much wine is poison to your body.
+
+@27160
+Nonsense, I am not drunk yet. By the way, is the Chancellor here?
+
+@27161
+Yes, I am here.
+
+@27162
+I heard a rumor that the Mongols are eyeing our country. Is it true?
+
+@27163
+What? Nothing of the sort! Our defenses are perfect.
+
+@27165
+Of course. The great Song Empire could never be threatened by the likes of the Mongols. You there, fortune-teller, tell me what the future holds for my empire.
+
+@27166
+Yes, at once.
+
+@27168
+Well?
+
+@27169
+Rest assured. Unless a monster with a hundred eyes appears, this country is safe.
+
+@27170
+Oh, is that so? Then the world is at peace and there is nothing to worry about. Hahaha... Ah, the wine has come.
+
+@27171
+The Chancellor, Jia Sidao, is hiding the Yuan army's invasion from His Majesty.
+
+@27172
+Even if he does, it is bound to come out sooner or later.
+
+@27173
+Officials think only of saving their own skins.
+
+@27174
+If Xiangyang falls, our country will be laid bare. We must do something before then.
+
+@27175
+Merely defending will get us nowhere. Can we not turn to the attack?
+
+@27176
+The enemy commander is Bayan... a famous general not to be taken lightly.
+
+@27177
+Bayan?
+
+@27178
+Yes, General Bayan. In the Mongol tongue, it seems, the name means "a hundred eyes." He is a fierce general, Kublai Khan's trump card.
+
+@27179
+A h-hundred eyes!?
+
+@27180
+What is wrong? You have gone pale.
+
+@27181
+We must face this with resolve to die, or Song may truly be destroyed.
+
+@27182
+Some sacrifice cannot be helped. To beat Bayan we need that kind of resolve.
+
+@27183
+We must strike with enough momentum to take the enemy's stronghold, Dadu, in one stroke.
+
+@27184
+Southern Song turned to the attack, driving back the Yuan invasion, and finally captured the Yuan capital, Dadu.
+
+@27185
+Ah, Wen Tianxiang, thanks to you and the others we have defeated the Yuan army. I thank you.
+
+@27186
+Thank you, Your Majesty. Please go on caring for the people of Song.
+
+@27187
+Yes, my eyes are opened. Banquets alone cannot defend a nation. From now on I shall devote myself to government.
+
+@27188
+Wen Tianxiang, I appoint you the new Chancellor of Southern Song. Go on lending me your strength.
+
+@27189
+Your words are a blessing. I, Wen Tianxiang, will gladly give my life for Song.
+
+@27190
+Lu Xiufu, in matters of government, you shall assist Wen Tianxiang.
+
+@27192
+Zhang Shijie, in matters of the army, you shall take charge of the work.
+
+@27193
+I will defend Song against any enemy, you shall see.
+
+@27194
+About 150 years earlier, Song had lost northern China to the Jin invasion, but at last it had recovered the lost land.
+
+@27195
+With a new order centered on Wen Tianxiang in place, it was growing into a strong state.
+
+@27196
+Duzong's politics has increased. Wen Tianxiang's politics, combat and strategy have increased.
+
+@27197
+Lu Xiufu's politics has increased.
+
+@27198
+Zhang Shijie's combat has increased.
+
+@27199
+Kublai became the fifth Khan of the Mongol Empire and renamed the state "Yuan" in the Chinese style.
+
+@27200
+Kublai Khan pursued expansion abroad with vigor, his chief goal being to destroy Southern Song and unite China.
+
+@27201
+One day Kublai Khan summoned Bayan, a general of both wisdom and valor.
+
+@27202
+Bayan, how do you judge the strength of Southern Song? To my eyes it is no longer to be feared.
+
+@27203
+With respect, I think Southern Song's strength is not to be taken lightly.
+
+@27204
+I hear the Song emperor only feasts, and Chancellor Jia Sidao fills his own pockets. Why fear such a country?
+
+@27205
+The emperor and the Chancellor are indeed a sorry sight. But the others, Wen Tianxiang, Zhang Shijie and the rest, I saw as splendid loyal retainers, though they are our enemies. While they live, we cannot rashly make a move.
+
+@27206
+I see. Then we must not let down our guard...
+
+@27207
+Uniting China is the cherished wish of my brother Mongke Khan, and of our ancestor Genghis Khan before him. However difficult, it is a goal that must be achieved.
+
+@27208
+Pray give me that task. I will surely meet your expectations.
+
+@27209
+Good, Bayan. I am counting on you.
+
+@27210
+Two great powers, Yuan and Southern Song, were about to clash on the vast stage of China.
+
+@27211
+Kublai Khan, who kept campaigning for his long-held wish of uniting China, finally achieved it in {027c}.
+
+@27212
+Great Khan, congratulations on uniting China.
+
+@27213
+Yes, our long-cherished wish has at last been fulfilled. I am deeply grateful to you all.
+
+@27214
+Great Khan, your achievement is no less than that of your ancestor Genghis Khan.
+
+@27215
+No, no. Compared with my grandfather, my deeds are small, very small.
+
+@27216
+In any case, winning the rich lands of southern China is a great blessing for our nation.
+
+@27217
+Yes. With this national strength, ruling all of Eurasia is no mere dream. Then I might stand shoulder to shoulder with my mighty grandfather.
+
+@27218
+With Kublai Khan's unification of China, Yuan became a state joining Mongol military might and China's rich lands.
+
+@27219
+Its power knew no bounds and was about to spread across all of Eurasia.
+
+@27220
+Kublai Khan's politics, combat and strategy have increased.
+
+@27221
+Bayan's combat has increased.
+
+@27224
+King John of England lost to King Philip II of France and lost much of his territory on the European mainland.
+
+@27225
+Henry III succeeded John as King of England and awaited a chance to strike back at France.
+
+@27226
+I wish to win a victory over France while I am still alive...
+
+@27227
+Father, King Philip III of France is no foe to fear. If you lend me an army, I will even capture Paris.
+
+@27228
+Henry III's eldest son Edward had put down the rebellion of domestic lords such as Simon de Montfort and joined the Crusade, making his martial fame ring while still young.
+
+@27229
+Yes, you seem to have a gift from heaven. I entrust the whole army to you. Beat down hateful France!
+
+@27230
+Yes, thank you. I will surely restore glory to the English royal house.
+
+@27231
+King Henry III of England marched on France with the help of his eldest son Edward.
+
+@27232
+They succeeded in capturing Paris and recovered the lands lost in King John's time.
+
+@27233
+Oh, our English army is sweeping Paris... The late King John must surely be pleased.
+
+@27234
+Paris is one of the richest cities in Europe. Our nation's strength will grow even greater.
+
+@27235
+Yes. Now England is the strongest nation in Europe.
+
+@27236
+England grew from a small island nation into a strong power with vast territory. A further advance centered on Prince Edward was about to begin.
+
+@27237
+Edward I's combat has increased.
+

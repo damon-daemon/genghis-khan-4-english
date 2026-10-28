@@ -1,0 +1,333 @@
+USER:801d9b34	Target %s
+USER:801d9b40	 Place %s
+USER:801d9b4c	 Goal %s
+USER:801d9b58	Target ----
+USER:801d9df8	Farm
+USER:801d9e00	Herd
+USER:801d9e08	Arms
+USER:801d9e10	Tactic
+USER:801d9e18	Sail
+USER:801d9e20	Build
+USER:801d9e28	Study
+USER:801d9e30	Art
+USER:801d9e38	Med
+USER:801d9e40	Craft
+USER:801d9e54	Rank City
+USER:801d9e60	Rank Nation
+USER:801d9e6c	Rank Ruler
+USER:801d9e88	-%s-
+USER:801d9e90	Culture BEST 5
+USER:801d9ea4	Item
+USER:801d9eac	Switch
+USER:801da0a0	Bio
+USER:801da0a8	Kids
+USER:801da0b0	Kin
+USER:801da0c4	Farm
+USER:801da0cc	Trade
+USER:801da0d4	Build
+USER:801da0dc	Cult
+USER:801da0e4	Diplo
+USER:801da0ec	Hire
+USER:801da0f4	Move
+USER:801da0fc	Rush
+USER:801da104	Volley
+USER:801da10c	Fire
+USER:801da114	Siege
+USER:801da11c	Ambsh
+USER:801da124	Nation\t
+USER:801da12c	City\t
+USER:801da134	Loyal\t
+USER:801da13c	Merit\t
+USER:801da144	Post\t
+USER:801da14c	Pol\t
+USER:801da154	Cmb\t
+USER:801da15c	Int\t
+USER:801da164	Inf\t
+USER:801da16c	Arch\t
+USER:801da174	Cav\t
+USER:801da17c	Navy\t
+USER:801da184	%d yr
+USER:801da18c	%dy
+USER:801da194	Origin\t\t%s
+USER:801da1a0	 Culture\t%s
+USER:801da200	Show Kids
+USER:801da20c	Consorts
+USER:801da214	Show Kin
+USER:801da3a8	Nations
+USER:801da3b0	Cities
+USER:801da3bc	Generals
+USER:801da3c8	Consorts
+USER:801da3d0	No units are visible.
+USER:801da3f4	Units
+USER:801da400	Items
+USER:801da40c	Goods
+USER:801da418	Branch
+USER:801da478	Facility details
+USER:801da488	Change build style
+USER:801da498	-%s-\n%s
+USER:801da4a4	Select a facility to build.
+USER:801da4c4	The general's origin and his city\nhave the same build style.
+USER:801da530	<Culture level needed>
+USER:801da548	<Buildable terrain>
+USER:801da570	Set the shape of the road.
+USER:801da85c	Effect
+USER:801da900	Generals
+USER:801da90c	No generals left to act.
+USER:801da928	Units
+USER:801da934	No units left to act.
+USER:801da950	No units on auto.
+USER:801da96c	You have no generals.
+USER:801da980	You have no units.
+USER:801da994	Generals left to act
+USER:801da9a8	Units left to act
+USER:801da9bc	Units on auto
+USER:801da9d0	All generals
+USER:801da9dc	All units
+USER:801daa24	Nations
+USER:801daa2c	Cities
+USER:801daa38	Generals
+USER:801daa44	Consorts
+USER:801daa4c	Units
+USER:801daa58	Culture items
+USER:801daa68	Goods
+USER:801daa74	Culture BEST5
+USER:801daacc	Overview
+USER:801daad8	Options
+USER:801daae4	Save
+USER:801daaec	Load
+USER:801daaf4	End
+USER:801daafc	Unassign
+USER:801dab30	General
+USER:801dab38	Dest
+USER:801dab40	Rank
+USER:801dab48	Origin
+USER:801dab54	Unit
+USER:801dab5c	Pol
+USER:801dab64	Cmb
+USER:801dab6c	Int
+USER:801dab74	Age
+USER:801dab7c	Merit
+USER:801dab84	Loyal
+USER:801dab8c	Form move unit
+USER:801daba0	All gens
+USER:801dabac	Stop
+USER:801dac44	Generals
+USER:801dad20	Ties
+USER:801dad28	Items
+USER:801dad40	Realm\t
+USER:801dad48	King\t
+USER:801dad50	Cap\t
+USER:801dad58	City\t
+USER:801dad60	Gen\t
+USER:801dad68	Men\t
+USER:801dad70	Amity\t
+USER:801dad78	Marry\t
+USER:801dad80	Ally\t
+USER:801dad88	%d turns left
+USER:801dae0c	%s's culture items
+USER:801dae24	Item name
+USER:801db008	 Value  %d
+USER:801db014	Affects %s
+USER:801db0bc	Goods
+USER:801db0c8	Affects
+USER:801db0d4	Value
+USER:801db0dc	Held
+USER:801db0e4	Need
+USER:801db21c	New road
+USER:801db228	Join
+USER:801db230	Back
+USER:801db238	Halt
+USER:801db244	Start
+USER:801db24c	End
+USER:801db254	Dist
+USER:801db25c	Gen
+USER:801db264	All
+USER:801db26c	Finished
+USER:801db278	Roads being built: %s
+USER:801db290	Stop building the selected road and\ncancel the orders of %d generals?\nIs that OK?
+USER:801db380	Pick road
+USER:801db394	----------
+USER:801db3b4	None
+USER:801db3c0	%d sites
+USER:801db47c	Cancel
+USER:801db4c4	OK
+USER:801db4cc	Reset
+USER:801db4e4	Set the start of the road.
+USER:801db500	How far should the road go?
+USER:801db520	End
+USER:801db730	Select the country to bind\nas a sworn ally.
+USER:801db75c	Select the country to\nmarry into.
+USER:801db780	Select the country to\nbreak ties with.
+USER:801db79c	Select the country to\nthreaten.
+USER:801db7b8	Select the country to\nask for joint war.
+USER:801db7d8	Select the country to\nsend tribute to.
+USER:801db7fc	Ally
+USER:801db804	Marry
+USER:801db80c	Break
+USER:801db814	Bully
+USER:801db81c	Joint
+USER:801db824	Gift
+USER:801db82c	Diplo
+USER:801db85c	Move
+USER:801db864	Clear
+USER:801db86c	Auto
+USER:801db974	Spirit
+USER:801db97c	Food
+USER:801db984	Select a city to %s.
+USER:801db9a0	Gen
+USER:801db9bc	Nat
+USER:801db9c4	Army unit
+USER:801db9d0	No.%d %-10s %4d
+USER:801db9e0	Move
+USER:801db9e8	Attack
+USER:801db9f0	Raid
+USER:801db9f8	Clear
+USER:801dba00	Auto
+USER:801dbc38	Select a city to %s.
+USER:801dbc54	Move
+USER:801dbc5c	Trade
+USER:801dbc64	Clear
+USER:801dbc6c	Auto
+USER:801dbdb8	OK
+USER:801dbdc0	Cancel
+USER:801dbdc8	Age
+USER:801dbdd0	Pol
+USER:801dbdd8	Cmb
+USER:801dbde0	Int
+USER:801dbdf0	Banish this person?
+USER:801dbe08	Buy
+USER:801dbe10	Sell
+USER:801dbe38	Food
+USER:801dbe50	Gold
+USER:801dbe58	Rate
+USER:801dbebc	Name
+USER:801dbec4	Cost
+USER:801dbed4	Pick consort
+USER:801dbee0	Choose general
+USER:801dbf48	Policy
+USER:801dbf50	Auto
+USER:801dbf58	Goal
+USER:801dbf60	----
+USER:801dbf6c	Slow
+USER:801dbf74	Mid
+USER:801dbf7c	Fast
+USER:801dc01c	Supp
+USER:801dc024	Supply unit
+USER:801dc030	Army unit
+USER:801dc03c	City
+USER:801dc090	Match
+USER:801dc098	That general and princess\nare kin and cannot marry.
+USER:801dc0c0	No princess can be\nmatched with that general.
+USER:801dc708	Move
+USER:801dc710	Settle
+USER:801dc718	Clear
+USER:801dc720	Auto
+USER:801dc820	Move
+USER:801dc828	Clear
+USER:801dc830	Auto
+USER:801dc930	Select the country to\nstart a dispute with.
+USER:801dc954	Turn
+USER:801dc95c	Revolt
+USER:801dc964	Rumor
+USER:801dc96c	Feud
+USER:801dc974	Kill
+USER:801dc97c	Disrpt
+USER:801dc984	Wreck
+USER:801dc98c	Plot
+USER:801dc9bc	Select a city to %s.
+USER:801dc9d8	Move
+USER:801dc9e0	Clear
+USER:801dc9e8	Auto
+USER:801dcafc	Select a city to %s.
+USER:801dcb18	No army units can\nbe supplied.
+USER:801dcb3c	Move
+USER:801dcb44	Supp
+USER:801dcb4c	Clear
+USER:801dcb54	Auto
+USER:801dcc48	Select the\ndestination.
+USER:801dcc60	Select the unit\nto pursue.
+USER:801dcc84	Select the unit\nto attack.
+USER:801dcca8	Select the facility\nto raid.
+USER:801dccc8	Select the unit\nto supply.
+USER:801dccec	Select a spot for\nthe fields.
+USER:801dcd0c	Select a spot for\nthe ranch.
+USER:801dcd2c	Select a spot for\nthe armory.
+USER:801dcd50	Select a spot for\nthe drill ground.
+USER:801dcd74	Select a spot for\nthe sawmill.
+USER:801dcd98	Select a spot for\nthe university.
+USER:801dcdb8	Select a spot for\nthe art studio.
+USER:801dcddc	Select a spot for\nthe hospital.
+USER:801dcdfc	Select a spot for\nthe crafts shop.
+USER:801dce20	Select a spot for\nthe town.
+USER:801dce40	Select a spot for\nthe village.
+USER:801dce60	Select a spot for\nthe port.
+USER:801dce80	Select who to\nturn traitor.
+USER:801dcea0	Select who to\nincite to revolt.
+USER:801dcec8	Select who to\nspread rumors about.
+USER:801dceec	Select who to\nassassinate.
+USER:801dcf0c	Select a facility\nto sabotage.
+USER:801dcf2c	Select who to\ndisrupt.
+USER:801dcf4c	Select a place\nto settle.
+USER:801dcf6c	Fort
+USER:801dcf74	Raze
+USER:801dcf7c	Auto
+USER:801dcf84	Gen
+USER:801dcf8c	End
+USER:801dcf94	Meet
+USER:801dcf9c	Attack
+USER:801dcfa4	Raid
+USER:801dcfac	Align
+USER:801dcfb4	Detail
+USER:801dcfbc	Trade
+USER:801dcfc4	Settle
+USER:801dcfcc	Plot
+USER:801dcfd4	Supp
+USER:801dcfdc	Build
+USER:801dcfe4	Add
+USER:801dcfec	Road
+USER:801dcffc	Gold %d
+USER:801dd004	Gold %d Food %d
+USER:801dd014	Gen\t%s
+USER:801dd01c	Nat\t%s
+USER:801dd024	%s unit
+USER:801dd02c	Goods\t%s
+USER:801dd034	Act\t--
+USER:801dd040	Act\t%s
+USER:801dd048	Goal\t----
+USER:801dd060	--
+USER:801dd090	%s goal
+USER:801dd0c0	Coord
+USER:801dd0c8	Unit
+USER:801dd0e8	Pick goal
+USER:801dd0f4	Cancel
+USER:801dd3d8	Act %s
+USER:801dd3e0	Route %s area(%d/%d)
+USER:801dd3f4	Place ----
+USER:801dd404	After this road is finished,\nbuild another road\nnext?
+USER:801dd448	After this facility is finished,\nbuild another facility\nelsewhere?
+USER:801dd48c	After this city is expanded,\nexpand another city\nnext?
+USER:801dd4d0	Select a city to %s.
+USER:801dd4ec	No city can be expanded.
+USER:801dd508	Join a road already being built,\nor open a new road.
+USER:801dd548	There are already 50 planned roads,\nso no new road can\nbe built.
+USER:801dd590	Gen
+USER:801dd598	Nation
+USER:801dd5a0	Act
+USER:801dd5a8	Place
+USER:801dd5b0	Goal
+USER:801dd5b8	Route
+USER:801dd5c0	Move
+USER:801dd5c8	Build
+USER:801dd5d0	Add
+USER:801dd5d8	Road
+USER:801dd5e0	Clear
+USER:801dd5e8	Auto
+USER:801dd7e4	Nation
+USER:801dd7ec	Dad
+USER:801dd7f4	Mate
+USER:801dd7fc	Wed
+USER:801dd804	Heir
+USER:801dd80c	%d yr
+USER:801dd814	Origin %s
+USER:801dd820	 Culture %s
+USER:801dd82c	Trend %s

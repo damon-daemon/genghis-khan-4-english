@@ -1,0 +1,168 @@
+@26001
+{021e0201}, a Muslim merchant has come to see you.
+
+@26002
+Lord {021e0201}, I am glad to see you in such good health.
+
+@26003
+{021e0201}, a bard has come to see you.
+
+@26004
+I am a bard who wanders from land to land. It is an honor to meet you, Lord {021e0201}.
+
+@26004.1
+I am a traveling bard. May good fortune be with you, Lord {021e0201}.
+
+@26005
+Hmm. And what brings you here today?
+
+@26006
+The bell of Gion Shoja tolls... the sound of all things passing...
+
+@26006.1
+The proud do not endure... they are but a dream on a spring night...
+
+@26007
+Wh-what?! Who are you?
+
+@26008
+Oh, just a biwa priest passing by.
+
+@26008.1
+I am a biwa priest who wanders from land to land. I earn my bread chanting the Tale of the Heike.
+
+@26009
+Hmm, a suspicious fellow. What do you want?
+
+@26010
+I see you are short of men. I have come to recommend a general to you.
+
+@26011
+You seem to be short of men. Allow me to introduce you to a general.
+
+@26012
+But it cannot be done for nothing. I would be grateful for a gift of {0215} gold.
+
+@26013
+{026b0206} holds {02720206} gold. Pay {0215} gold to be introduced to a general?
+
+@26014
+Oh, gladly. I would like that.
+
+@26015
+Then let me introduce a general from {028c0201}, called {021e0201}.
+
+@26016
+Good. You have my thanks.
+
+@26017
+I hope I was of service.
+
+@26018
+{021e0201} has joined your ranks.
+
+@26019
+Kind of you, but no thank you.
+
+@26020
+I see...
+
+@26021
+The Muslim merchant went away.
+
+@26022
+The bard went away.
+
+@26023
+The biwa priest went away.
+
+@26024
+I have brought a lady with me today.
+
+@26025
+Ho ho ho. Today I have brought a lady with a certain story.
+
+@26026
+What? Tell me more.
+
+@26027
+This lady was the daughter of a noble house, but her family fell into ruin and she was left in want... I thought to ask that she be kept at your side, Lord {021e0201}, and so I brought her.
+
+@26027.1
+This lady is the daughter of a noble house, and her birth and talent are beyond reproach. What do you say? Take her as your consort.
+
+@26028
+Many ladies beyond these walls are moved by tales of your deeds, Lord {021e0201}. She is one of them. What do you say? Take her as your consort.
+
+@26028.1
+This lady is the daughter of a certain nobleman. In birth and in rank, I believe she is fit to be your consort, Lord {021e0201}.
+
+@26029
+This lady was the daughter of a noble house, but she lost her parents... I thought that if she were kept at your side, Lord {021e0201}, her future would be secure.
+
+@26029.1
+In truth, this girl served a person of very high rank... but she says she fled that place because she wished to serve you, Lord {021e0201}.
+
+@26030
+Take her as your consort?
+
+@26031
+Oh, that is good to hear. Then let her greet you, Lord {021e0201}.
+
+@26032
+I am {0288021a}. I am unworthy, but I beg your kindness.
+
+@26032.1
+I am {0288021a}. To become your consort, Lord {021e0201}, is my fate and duty. I will fulfill it well.
+
+@26032.2
+This too must be the will of Allah. I beg your kindness.
+
+@26032.3
+I am {0288021a}.\p To become consort of {021e0201}, famed as a wise ruler... what happiness I never hoped for.
+
+@26032.4
+I am {0288021a}.\p To become the consort of one as wise as you, Lord {021e0201}... I am so happy.
+
+@26032.5
+Oh, to become the consort of such a strong man... {0288021a} is happy.
+
+@26032.6
+I am {0288021a}. To become your consort, Lord {021e0201}, is like a dream.
+
+@26032.7
+I am {0288021a}. I beg your kindness.
+
+@26033
+{0288021a} has become your consort.
+
+@26034
+{026b0206} seems to have a surplus of {0210}. If you are willing, I would like to buy some.
+
+@26035
+{026b0206} seems to have a surplus of {0210}. Shall I buy some?
+
+@26036
+Sell {0215} of {0210}?
+
+@26037
+Sold {0210} from {026b0206} for {0215} in gold.
+
+@26038
+Hmm. It was surplus, but we were rather shortchanged.
+
+@26039
+Oh, it was only surplus, yet he paid a very good price for it.
+
+@26040
+I have heard rumors of an undiscovered specialty in the cities you rule, Lord {021e0201}. Shall I go search?
+
+@26041
+I sense that a local specialty still lies buried in this land. Shall this priest find it?
+
+@26042
+Have them search for a specialty?
+
+@26043
+{0210}, a local specialty, was discovered in {026b0206}.
+

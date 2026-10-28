@@ -1,0 +1,1164 @@
+@6000
+I
+
+@6000.1
+I
+
+@6000.2
+I
+
+@6000.3
+I
+
+@6000.4
+I
+
+@6001
+~
+
+@6001.1
+~
+
+@6001.2
+~
+
+@6001.3
+~
+
+@6002
+we
+
+@6002.1
+we
+
+@6003
+you
+
+@6003.1
+you
+
+@6003.2
+you
+
+@6004
+Men
+
+@6004.1
+Men
+
+@6004.2
+Everyone
+
+@6005
+Unfilial wretch
+
+@6005.1
+Traitor
+
+@6006
+Oh
+
+@6006.1
+Ah
+
+@6007
+~
+
+@6007.1
+~
+
+@6007.2
+~
+
+@6008
+~
+
+@6008.2
+~
+
+@6009.1
+~
+
+@6011
+~
+
+@6011.1
+~
+
+@6012
+~
+
+@6012.1
+~
+
+@6013
+~
+
+@6013.1
+~
+
+@6014
+~
+
+@6014.1
+~
+
+@6015.1
+~
+
+@6015.2
+~
+
+@6017
+{02850201} {0210} led by {021e0201} attacked {026b0206} of {02920206}.
+
+@6018
+{026b0206} was attacked by {02850201} {0210} led by {021e0201}.
+
+@6019
+You must join the war too, {C7}. Lead your troops into battle.
+
+@6020
+{021e0201} of {02850201} has requested support. Choose the army to send into the war.
+
+@6021
+If the offer comes from {02850202}, I have no reason to refuse.
+
+@6022
+Even from {02850202}, I must decline. We have our own troubles this time. Forgive us.
+
+@6023
+We are allied with {02850203}, so we cannot accept your offer.
+
+@6024
+{021e0202} of {02850202} will support {021e0201}.
+
+@6025
+{026b0206} was an empty city.
+
+@6026
+{026b0206} had no provisions in store.
+
+@6027
+{026b0206} had no soldiers.
+
+@6028
+{026b0206} had no money to raise an army.
+
+@6029
+{02850201}'s total strength is {0215}. Will you hold out in {02860202}?
+
+@6030
+Watch the battle?
+
+@6031
+Here I come, {021e0202}!
+
+@6031.1
+{C6004}, charge!
+
+@6031.2
+{C6004}, attack!
+
+@6032
+So you came, {021e0202}!
+
+@6032.1
+A worthy opponent!
+
+@6033
+I am Richard the Lionheart! Curse your ill fortune!
+
+@6033.1
+I am {021e0201} of {02850201}! Face me in fair combat!
+
+@6033.2
+None who defy the Great Khan shall live! Die!
+
+@6033.3
+The Franks are nothing to fear. We will crush them easily!
+
+@6033.4
+This is truly a holy war! Do not fear the army of {02850202}!
+
+@6033.5
+{C6004}, believe in me. Believe, and God will protect you.
+
+@6033.6
+You must be Lord {021e0202}. I beg a duel with you!
+
+@6033.7
+{C6004}! Cut down as many foes as you can and win your rewards!
+
+@6033.8
+{C6004}! Win glory and your reward is yours to name!
+
+@6033.9
+{021e0202}! I, {021e0201}, will crush you like an insect!
+
+@6033.10
+{C6004}! Smash the army of {021e0202} utterly!
+
+@6034
+You dare challenge Philip Augustus? Regret your folly in the next world!
+
+@6034.1
+I am Robin, the outlaw hero of Sherwood! Come at me, any of you!
+
+@6034.2
+I am {021e0201} of {02850201}! Let any who dare step forward!
+
+@6034.3
+Just what I wished for! I, {021e0201}, will face you.
+
+@6034.4
+Just what I wished for! I, {021e0201}, will face you.
+
+@6034.5
+Ah, that is the famed general {021e0202}! {C6004}, take his head and win glory!
+
+@6034.6
+What are you saying, {021e0202}? I will cut you down!
+
+@6034.7
+Boasting! You will howl for mercy later, {021e0202}!
+
+@6034.8
+{C173} You make me laugh. I will hear no whining. {C6004}, attack!
+
+@6034.9
+{021e0202} does not know our strength. Let us teach it to him.
+
+@6035
+Is there no one to face me?
+
+@6035.1
+Is there not one brave man in this city? How dull!
+
+@6035.2
+What? They opened the gates without a fight? How dull...
+
+@6036
+The enemy seems to have lost the will to fight for lack of food.
+
+@6036.1
+The enemy has no food and has lost heart. How dull...
+
+@6036.2
+The city is a wretched sight, starving. There will be no one left who can fight.
+
+@6037
+At {0211}, the army of {021e0201} attacked {02850202} {0210}.
+
+@6038
+At {0211}, the army of {021e0202} was attacked by {02850201} {0210}.
+
+@6039
+At {0212}, {02850201} {0210} and {02850202} {0211} seem to be fighting.
+
+@6040
+Out of provisions... I cannot move any more.
+
+@6040.1
+Our food is gone... The men are fleeing... The war is over.
+
+@6040.2
+We cannot fight with starving men. It is bitter, but we retreat.
+
+@6041
+{021e0201} of {02850201} shook off the pursuit of {02850202}.
+
+@6042
+{021e0201} of {02850201} was captured by {02850202}.
+
+@6043
+{021e0201} of {02850201} withdrew from {026b0206}.
+
+@6044
+{021e0201} of {02850201} failed to retreat and was captured by {02850202}.
+
+@6045
+With the surrender of {026b0206}, {021e0201} of {02850201} was let go.
+
+@6046
+{021e0201} of {02850201} escaped from {026b0206}.
+
+@6047
+{021e0201} of {02850201} failed to escape and was captured by {02850202}.
+
+@6048
+{021e0201}'s {0210} aptitude rose to {0211}.
+
+@6049
+{021e0201} learned "{0210}".
+
+@6050
+The army led by {021e0201} of {02850201} was wiped out.
+
+@6051
+The {02850201} army led by {021e0201} was wiped out.
+
+@6052
+The army led by {021e0201} was wiped out.
+
+@6053
+{021e0201} of {02850201} retreated from the battlefield.
+
+@6054
+The battle ended in a draw.
+
+@6055
+The 1st unit of the {02850201} army led by {021e0201} was wiped out.
+
+@6056
+The 1st unit led by {021e0201} was wiped out.
+
+@6057
+The mansion in {026b0206} was destroyed.
+
+@6057.1
+The palace in {026b0206} was destroyed.
+
+@6058
+{021e0201} of {02850201} was assassinated.
+
+@6059
+{021e0201} was assassinated.
+
+@6060
+{021e0201} of {02850201} was assassinated.
+
+@6061
+Our food will not last long. We must settle this quickly...
+
+@6062
+The men's morale is falling. We must rally them...
+
+@6063
+Our victory is all but certain. Finish it in one blow!
+
+@6063.1
+The enemy is at his last gasp. Press the attack!
+
+@6063.2
+Victory is near, but do not let your guard down!
+
+@6064
+The city is about to fall. Attack all at once!
+
+@6064.1
+The enemy inside is nothing to fear. Attack without hesitation!
+
+@6064.2
+One more push and it falls. Stay alert to the end!
+
+@6065
+The enemy is out of breath. Cut through the swarm!
+
+@6065.1
+Taking our castle is a hundred years too early for them. Counterattack with everything!
+
+@6065.2
+Make them regret attacking us. Begin the counterattack!
+
+@6066
+The enemy is shrinking back. Decide the battle now!
+
+@6066.1
+The advantage is ours. Men, follow me!
+
+@6066.2
+We have the upper hand. Push, push!
+
+@6067
+The battle has only begun. Fight as if you were already dead!
+
+@6067.1
+We are not beaten yet. This is the decisive moment. Hold firm!
+
+@6067.2
+I forbid retreat. Do not give up to the end!
+
+@6068
+Keep attacking until it falls!
+
+@6068.1
+No castle cannot be taken. Attack with the whole army!
+
+@6068.2
+No defense is so strong that we cannot break it. Show them our strength!
+
+@6069
+This castle is impregnable. Fight the enemy without worry!
+
+@6069.1
+The castle is our life. Strengthen the defenses and weather their attack!
+
+@6069.2
+This castle will not fall so easily. Draw the enemy in and strike!
+
+@6070
+Never give up, whatever happens. Find a way out of certain death!
+
+@6070.1
+It is too early to give up. Our chance will surely come!
+
+@6070.2
+A small force against a great army is where strategy shines. {C6004}, fight like the dead!
+
+@6071
+In this confusion, orders do not get through... We must rally them and regain composure.
+
+@6072
+The {0210} troops are mad with rage.
+
+@6073
+A-an ambush!!
+
+@6073.1
+An ambush?! Well done, {021e0202}!
+
+@6073.2
+Whoa! An ambush in a place like this?
+
+@6073.3
+Damn, an enemy ambush! {C6004}, calm down! Calm down!
+
+@6074
+Now, attack!
+
+@6074.1
+It is too late for you. Crush them all at once!
+
+@6074.2
+The enemy is in disarray. Attack while you can!
+
+@6074.3
+Surprised, {C8}? I am right here.
+
+@6075
+{0210} failed to scale the wall.
+
+@6076
+Hail Hachiman, god of war... Grant me strength!
+
+@6076.1
+Feel the might of the Damascus blade!
+
+@6076.2
+This is the edge of the Damascus blade! Take that!
+
+@6076.3
+The Damascus blade cuts even iron! Raaaah!
+
+@6076.4
+Take that! Die!
+
+@6077
+The enemy is in disarray! Push, push!
+
+@6077.1
+Not yet! One more!
+
+@6077.2
+{021e0202}! You are slow! Take this!
+
+@6077.3
+Do not let up the attack! Again!
+
+@6078
+Prepare yourself, {C7}!
+
+@6078.1
+{C7}! Fight your {C1}!
+
+@6078.2
+{C7}! Taste your {C1}'s sword!
+
+@6079
+I'll take this!
+
+@6079.1
+Mine now!
+
+@6079.2
+I'll take it!
+
+@6079.3
+I accept, thank you.
+
+@6080
+I am Kuro Hangan Yoshitsune, here! Foreign general, I will face you.
+
+@6080.1
+I do not care for war... but it cannot be helped.
+
+@6080.2
+Show no mercy to those who resist. Let not one soldier return alive!
+
+@6080.3
+I will show you the artistry of my command!
+
+@6080.4
+War is my reason for living. Ooh, my blood boils!
+
+@6080.5
+Attack!
+
+@6080.6
+Let us go!
+
+@6080.7
+{C173} Resent your weakness in the next world.
+
+@6080.8
+{C6004}, attack! Show them the strength of our army!
+
+@6080.9
+Now, charge! Let not one of {021e0202}'s soldiers return alive!
+
+@6080.10
+{C173} Regret that you lived in the same age as me!
+
+@6081
+Attack!
+
+@6081.1
+{C173} It will fall in no time. {C6004}, attack!
+
+@6081.2
+{C6004}, attack! Smash the enemy {0210}!
+
+@6082
+Surround them!
+
+@6082.1
+{C7}, you have no escape now. Prepare yourself.
+
+@6082.2
+{021e0202}, there is no escape! Attack!
+
+@6082.3
+We will trample them to the last man. Advance!
+
+@6082.4
+Heh, {021e0202} is panicking. Crush them all at once!
+
+@6083
+A clumsy charge will not work!
+
+@6083.1
+Heh, fool... Charging blindly is not all there is to war.
+
+@6083.2
+{C7}, how naive! Do you think such a charge can break us?
+
+@6083.3
+Naive, {C8}. Do you think our formation will break? Hone your skills and return!
+
+@6083.4
+{C8}! A timid charge like that will not work on us.
+
+@6083.5
+Your charges are as clear as day. Use your head a little.
+
+@6084
+Charge!
+
+@6084.1
+{C7}! Stop our charge if you can!
+
+@6084.2
+Mars, god of war, protect us... Now, charge!
+
+@6084.3
+{C6004}, charge! Show the fruit of your daily training now!
+
+@6084.4
+{021e0202}, I will smash you with this one blow! Charge!
+
+@6084.5
+{C173} The enemy is in disarray. {C6004}, follow me!
+
+@6085
+Set them ablaze!
+
+@6085.1
+{C7}! Let hellfire burn your flesh!
+
+@6085.2
+Light the fires! Burn everything to ash!
+
+@6085.3
+I will wrap you in crimson flames. Burn, burn!
+
+@6085.4
+{021e0202}, I will turn your troops to charcoal!
+
+@6085.5
+Shall we make flowers of fire bloom on the battlefield? Prepare yourself!
+
+@6086
+Hot...
+
+@6086.1
+{C6006}! Fires are breaking out everywhere... What are we to do?
+
+@6086.2
+Aaah, hot! Curse you, {021e0202}! Fire attacks are a cheap trick!
+
+@6086.3
+Waaah, the flames have us! {C6004}, put out this fire at once!
+
+@6087
+Fire will never catch here.
+
+@6087.1
+Useless. Our fire precautions are perfect. My troops will not burn!
+
+@6087.2
+{C173} Were you planning a bonfire? Your fire has gone out.
+
+@6088
+Set it ablaze!
+
+@6088.1
+{C173} The fall of the castle is near! Set {0210} on fire!
+
+@6088.2
+{C6004}, set it ablaze! Burn {0210} to the ground!
+
+@6089
+Fire... in {0210}...
+
+@6089.1
+{C6006}! Fire is spreading from {0210}... This is a disaster!
+
+@6089.2
+Damn! {0210} is on fire! Do something quickly!
+
+@6089.3
+Waaah! {0210} is burning! Put out the fire at once!
+
+@6090
+Fire will never catch here.
+
+@6090.1
+Still you do not understand? Burning {0210} is pointless!
+
+@6090.2
+Hey now, {021e0202}. Take your bonfire somewhere else. {C173}
+
+@6091
+Taste the arrow of Jebe, whom they call "Arrowhead"!
+
+@6091.1
+My aim never misses. Prepare yourself!
+
+@6091.2
+{C7}! Take this as my greeting!
+
+@6091.3
+Hachiman, great bodhisattva... Guide the arrows I loose to strike the great enemy!
+
+@6091.4
+Loose your arrows!
+
+@6091.5
+Archers, ready! Aim at the troops of {021e0202}. Good, fire!
+
+@6091.6
+{C6004}, fire! Rain arrows down on the soldiers of {021e0202}!
+
+@6091.7
+{021e0202}, I will pierce every one of your soldiers!
+
+@6092
+Loose the fire arrows!
+
+@6092.1
+{C7}! Taste the power of my fire arrows!
+
+@6092.2
+Archers, light and ready! Aim at the troops of {021e0202}. Good, fire!
+
+@6092.3
+{C6004}, fire! Rain flames down on the soldiers of {021e0202}!
+
+@6092.4
+{021e0202}, take these fire arrows and scatter in panic!
+
+@6093
+Loose the fire arrows!
+
+@6093.1
+Archers, light and ready! Aim at {0210} ahead. Fire!
+
+@6093.2
+{C173} The fall of the castle is near! Loose fire arrows at {0210}!
+
+@6093.3
+{C6004}, loose fire arrows! Burn {0210} to the ground!
+
+@6094
+Hurl the rocks!
+
+@6094.1
+{C7}, taste the full power of my catapults!
+
+@6094.2
+Catapults, forward! Aim at the troops of {021e0202}. Fire!
+
+@6094.3
+Catapults, fire! Crush the soldiers of {021e0202}!
+
+@6094.4
+{021e0202}, I will bury every one of your soldiers under rocks!
+
+@6095
+Hurl the rocks!
+
+@6095.1
+Catapults, forward! Aim at {0210} ahead. Fire!
+
+@6095.2
+{C173} The castle will fall soon! Fire at {0210}!
+
+@6095.3
+{C6004}, hurl the rocks! Smash {0210} to pieces!
+
+@6096
+Cannons, fire!
+
+@6096.1
+{C7}! Learn the power of my cannons!
+
+@6096.2
+Cannons, ready! Aim at the troops of {021e0202}. Fire!
+
+@6096.3
+Cannons, fire! Blow the soldiers of {021e0202} away!
+
+@6096.4
+{021e0202}, however strong your soldiers are, they are no match for these cannons.
+
+@6097
+Cannons, fire!
+
+@6097.1
+Open fire with the cannons! Aim at {0210} ahead. Fire!
+
+@6097.2
+{C173} The fall of the castle is near! Fire the cannons at {0210}!
+
+@6097.3
+{C6004}, fire the cannons! Blow {0210} to bits!
+
+@6098
+Flamethrowers, begin!
+
+@6098.1
+{C7}, prepare yourself! I will reduce everything to ashes!
+
+@6098.2
+Flamethrowers, ready! Aim at the troops of {021e0202}. Fire!
+
+@6098.3
+Flamethrowers, fire! Roast the soldiers of {021e0202} alive!
+
+@6098.4
+{021e0202}, I will burn your soldiers in crimson flames.
+
+@6099
+Flamethrowers, begin!
+
+@6099.1
+Flamethrowers, ready! Aim at {0210} ahead. Fire!
+
+@6099.2
+{C173} The castle will fall any moment! Flame {0210}!
+
+@6099.3
+{C6004}, use the flamethrowers! Burn {0210} to the ground!
+
+@6100.1
+{C7}, die for my sake!
+
+@6100.2
+Attack! Your only target is the life of {021e0202}!
+
+@6100.3
+{021e0202}, I will take your life.
+
+@6100.4
+However tight your guard, it is powerless against us. Prepare yourself!
+
+@6101
+Ugh...
+
+@6101.1
+Hmm, who are you! Sent by {C7}? Damn you, cowards... aaargh!
+
+@6101.2
+Y-you, what are you doing! Gwaaah! Are you assassins from {021e0202}?
+
+@6101.3
+Ugh... stabbed from behind. Assassins, then! Curse you, {021e0202}... a foul trick!
+
+@6101.4
+Ugh, what is this pain? A poisoned arrow! Damn you, {021e0202}...
+
+@6101.5
+Hm! Strange ones... Are these the rumored Assassins? S-so strong... waaah!
+
+@6102
+I will not be assassinated.
+
+@6102.1
+Assassins, how cowardly... Go back and tell {C7} to fight fairly!
+
+@6102.2
+I am not fool enough to be killed by assassins from {021e0202}.
+
+@6102.3
+I will show you, {C8}, that dirty assassination tricks do not work on me.
+
+@6102.4
+Intruders! {C6004}, kill every last one of them!
+
+@6103
+Launch a {0210}? Are you sure?
+
+@6104
+There is no target for a {0210}.
+
+@6105.1
+~
+
+@6106
+Whoever wants to die, step forward.
+
+@6106.1
+I should not say it as kin, but serving {C7} will do you no good.
+
+@6106.2
+Your commander means to abandon you. Do you intend to die like dogs?
+
+@6106.3
+When the soldiers of my army are angry, even I cannot hold them back. Who knows what they will do?
+
+@6106.4
+If you defy us, your whole clan will be slaughtered. Think of your families.
+
+@6106.5
+Heaven's punishment will fall on those who raise blades against us.
+
+@6107
+What! Confusion?
+
+@6107.1
+Wh-what is this, {C6004}? Confused at a time like this? What are you doing!
+
+@6107.2
+C-calm down, {C6004}! Do not panic!
+
+@6107.3
+Do not lose your heads! Why are you so rattled? Settle down!
+
+@6107.4
+Damn! The troops are in confusion and cannot move!
+
+@6107.5
+Confusion at a time like this... If we do not calm them quickly, we are in trouble!
+
+@6107.6
+Confusion, what a blunder! Somebody do something quickly!
+
+@6108
+{0210} led by {021e0201} is in confusion.
+
+@6109
+The confusion of {0210} led by {021e0201} is spreading to other units.
+
+@6110
+Did somebody say something?
+
+@6110.1
+What a petty trick... Using stratagems is ten years too early for you!
+
+@6110.2
+I see through all of {C4}'s methods. I will not fall for them!
+
+@6110.3
+Not one soldier in my army is fool enough to be deceived by the babble of that {C8}.
+
+@6110.4
+Trying to trick my soldiers with mere words, you coward! I will pull out your tongue!
+
+@6110.5
+You talk well, it seems. I will see that you never speak again.
+
+@6110.6
+They say weak dogs bark the loudest, and it seems true. {C173}
+
+@6110.7
+{C173} Pointless... That is all you can do, it seems.
+
+@6111
+We ambush here.
+
+@6111.1
+Good, we ambush here. {C6004}, hold your breath.
+
+@6111.2
+{C6004}, hide here. Do not let the enemy notice you.
+
+@6112
+Anyway... come to my country.
+
+@6112.1
+{02850201} is the place that suits you, {C7}.
+
+@6112.2
+Nothing good comes of serving {02850202}. Why not make your name in my country?
+
+@6112.3
+Come to my country and you and your family will live in comfort.
+
+@6112.4
+Come to my country! Refuse and you die. This is no idle threat.
+
+@6113
+Understood. I will side with you.
+
+@6113.1
+So be it. I will side with {02850202}.
+
+@6113.2
+It cannot be helped, to survive... I will side with you.
+
+@6113.3
+Understood! {C6004}, from now on we stand with {02850202}.
+
+@6113.4
+Even if they call me a traitor, it is to survive...
+
+@6114
+{021e0201} betrayed and joined the side of {021e0202}.
+
+@6115
+I cannot.
+
+@6115.1
+A kind offer, but I owe a debt to {02850201}.
+
+@6115.2
+{C173} I am not a man to be taken in by the honeyed words of some {C8}.
+
+@6115.3
+Rather than bear the shame of a traitor, I will choose an honorable death.
+
+@6115.4
+Did you think I would betray? You underestimate me.
+
+@6115.5
+No one will follow you with such a clumsy recruitment. {C173}
+
+@6116
+Haaaaaaah!!!
+
+@6116.1
+Raaaaaaah!!!
+
+@6116.2
+Yaaaaaaah!!!
+
+@6116.3
+Oraaaaaah!!!
+
+@6117
+~
+
+@6117.1
+~
+
+@6118
+Hachiman, great bodhisattva... Grant us your strength! {C6116}
+
+@6118.1
+God is watching over you. Let us pray together!
+
+@6118.2
+Thor, god of thunder, is on our side too! Press on!
+
+@6118.3
+{C6004}! Lend your strength once more to {021e0201}!
+
+@6118.4
+{C6004}, put your spirit into it! {C6116}
+
+@6118.5
+Everyone's life is in the hands of {021e0201}! {C6116}
+
+@6119
+All officers and soldiers cheer in answer to the rallying of {021e0201}.
+
+@6120
+{0210} has returned to normal.
+
+@6121
+Hm, no effect.
+
+@6122
+Look, an enemy ambush at the castle gate!
+
+@6123
+Stand by? Are you sure?
+
+@6124
+Really retreat?
+
+@6125
+Retreat!
+
+@6125.1
+{C7}! I will repay this humiliation someday...
+
+@6125.2
+We retreat for now, but do not think this is the end!
+
+@6125.3
+{C6004}, we retreat for now to regroup!
+
+@6125.4
+Damn, how regrettable, but we withdraw. {C6004}, fall back!
+
+@6125.5
+So that the deaths of so many were not in vain, I will defeat you next time... Fall back!
+
+@6125.6
+Hmm, the tide is against us. We stop here for today. Withdraw!
+
+@6125.7
+I will let you off for today. Remember this next time!
+
+@6126
+Delegate all units? Are you sure?
+
+@6127
+Cancel delegation of all units? Are you sure?
+
+@6128
+What! Running wild?
+
+@6128.1
+Wh-what is this! {C6004}, calm down, calm down!
+
+@6128.2
+Hey! Do not panic! Settle down!
+
+@6128.3
+What is happening? We have lost control...
+
+@6128.4
+Damn, the troops are running wild... Hey! Do not leave me behind!
+
+@6128.5
+They have begun to run wild... Now even I cannot handle them.
+
+@6129
+Guh!
+
+@6129.1
+Gub!
+
+@6129.2
+Gwah!
+
+@6129.3
+Agh!
+
+@6129.4
+Ugh!
+
+@6129.5
+Gya!
+
+@6129.6
+Uuh!
+
+@6129.7
+Aah!
+
+@6129.8
+Guh!
+
+@6129.9
+Agah!
+
+@6130
+How regrettable... {C6129}
+
+@6130.1
+{C7}! Watch well how I die!
+
+@6130.2
+My beloved wife and children, forgive me... {C6129}
+
+@6130.3
+To rot away in a place like this... {C6129}
+
+@6130.4
+I lacked strength after all... {C6129}
+
+@6131
+Aah
+
+@6131.1
+Hmm
+
+@6132
+I am defeated...
+
+@6132.1
+Defeated by {C7}... I will surely avenge this humiliation.
+
+@6132.2
+I-I am beaten! Retreat for now to regroup!
+
+@6132.3
+{C6131}... a total rout. {C6004}, retreat!
+
+@6132.4
+I cannot die yet. Retreat!
+
+@6133
+Damn, the soldiers have lost their will to fight...
+
+@6133.1
+The main force has lost its will to fight... I will avenge this humiliation someday!
+
+@6133.2
+Hey, do not run! What good is a main force that has lost its will to fight!
+
+@6133.3
+What is this! The soldiers are starting to run away!
+
+@6133.4
+{C6004}, do not retreat on your own! I will not permit desertion before the enemy!
+
+@6134
+{0210} of {021e0201} has lost its will to fight.
+
+@6135
+Lord {021e0201}, give orders to {0210}.
+
+@6136
+Which unit will you attack?
+
+@6137
+Which unit will you confuse?
+
+@6138
+Where will you deploy the formed units?
+

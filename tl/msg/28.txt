@@ -1,0 +1,327 @@
+@28000
+Icon
+
+@28001
+A sacred image of Christ, saints or religious scenes, painted or carved on wood, ivory or metal panels. It developed in the Eastern Orthodox Church, centered on the Byzantine Empire.
+
+@28003
+Picture scroll
+
+@28004
+A scroll in which pictures and text are enjoyed in turn. It reached Japan from China around the 8th century. The Tale of Genji scroll, painted in the 12th century, is highly valued worldwide.
+
+@28006
+Mosaic
+
+@28007
+Patterns and pictures made by setting small pieces into a plaster wall. The pieces are stone, shell, glass or pottery. It developed in Byzantine church architecture.
+
+@28009
+Cloisonne
+
+@28010
+The art of decorating a metal or ceramic base by firing molten glass onto it. Many masterpieces are found among traditional Russian and Hungarian jewelry.
+
+@28012
+Landscape painting
+
+@28013
+Painting of natural scenery such as mountains and rivers. It developed in China. It is no mere copy of a view but expresses the artist's vision of nature. The works of Gu Kaizhi of the Six Dynasties are famous.
+
+@28015
+Khmer art
+
+@28016
+Art based on Hinduism, Buddhism and other faiths. It flourished in Angkor-period Cambodia, as seen in the grand stone temple Angkor Wat and the sacred city Angkor Thom.
+
+@28018
+Biwa
+
+@28019
+An East Asian stringed instrument derived from the lute. It reached Japan around the 8th century. Blind monks famously used it to chant the Tale of the Heike.
+
+@28021
+Erhu
+
+@28022
+A bowed stringed instrument of the huqin family. A traditional instrument of the Jiangnan region, it is called the Chinese violin. Its skin of animal or plant material gives it a unique tone.
+
+@28024
+Sitar
+
+@28025
+A representative folk instrument of northern India, of the lute family of strings. Its arched metal frets give it a distinctive, wavering tone.
+
+@28027
+Morin khuur
+
+@28028
+A Mongol lute-type stringed instrument, influenced by the Arab bowed fiddle. It gets its name from the horse's head carved at the tip of its neck.
+
+@28030
+Lute
+
+@28031
+A stringed instrument of Persian origin that gave rise to many kinds of instruments, including the Islamic oud.
+
+@28033
+Balalaika
+
+@28034
+A lute-shaped stringed instrument from Ukraine. It has a triangular body, a flat back and three strings, and is often played to accompany folk dances.
+
+@28036
+Bagpipes
+
+@28037
+A wind instrument used mainly by shepherds in Europe and West Asia. It was already known in ancient Rome. The Highland pipes of Scotland are especially famous.
+
+@28039
+Canon of Medicine
+
+@28040
+A work of the Islamic physician Ibn Sina of the 10th-11th centuries. A summation of Greek and Arabic medicine, it became the basic text of Western medicine and is still used in Islamic lands.
+
+@28042
+Pharmacology
+
+@28043
+The study of how medicines are made and act. It developed for medicine, poisons, alchemy and industry.
+
+@28045
+Surgery
+
+@28046
+It developed around the 13th century, mainly in southern Europe, along with human dissection. In those days operations were done not by university doctors but by barbers who also served as town physicians.
+
+@28048
+Treatise on Cold Damage
+
+@28049
+An ancient Chinese medical text by Zhang Zhongjing of the Later Han, arranged and classified by Wang Shuhe of the Western Jin. It sorts all illness into six yin-yang types and describes symptoms and cures.
+
+@28051
+Galen's medical books
+
+@28052
+Medical books by Galen of ancient Rome, who studied the body's structure and function by dissecting animals. They became the model for later medicine and were translated into Arabic and other languages.
+
+@28054
+Anatomy
+
+@28055
+Serious study began at the University of Salerno, Italy. In the Renaissance, da Vinci and Michelangelo studied it.
+
+@28057
+Ayurveda
+
+@28058
+Traditional Indian medicine. It has its roots in Hindu doctrine and consists of internal treatment with herbs and spiritual healing such as meditation.
+
+@28060
+Ishinpo
+
+@28061
+Japan's oldest surviving medical book. Tamba no Yasuyori compiled it in the Heian period for Emperor Enyu.
+
+@28063
+Ginseng
+
+@28064
+Native to the Korean peninsula, China and the Ussuri. The root is used as medicine. It is good for calming nerves, loss of appetite, indigestion and diarrhea, and is steeped in liquor as a tonic wine.
+
+@28065
+Raises medicine culture by {0210}. Wives are more likely to conceive.
+
+@28066
+Miniature
+
+@28067
+Fine paintings used to illustrate books. Later they were also painted on jewelry and crafts. They developed in the Islamic world, and Persian works include many masterpieces.
+
+@28069
+Spinning machine
+
+@28070
+A machine for spinning thread. It was first used in India in the early 11th century. In China, the silk reeling frame was improved into something close to the modern spinning machine.
+
+@28072
+Alchemy
+
+@28073
+The art of making precious metals from common ones. It had a magical side, using spells, but also contributed to the growth of chemistry.
+
+@28075
+Elixir alchemy
+
+@28076
+A craft derived from alchemy, aimed at an elixir of immortality. Its use of mercury caused many poisonings.
+
+@28078
+Water-powered ore crusher
+
+@28079
+A machine that uses a water wheel to break ore into small pieces with stamping hammers before it goes into the furnace. It was used in Europe around the 12th century.
+
+@28081
+Dream Pool Essays
+
+@28082
+A collection of essays by Shen Kuo, a statesman of the Song. It is rich in writing on natural science and craft techniques, and was advanced for its day on subjects like the magnet and the motion of the planets.
+
+@28084
+Persian carpet
+
+@28085
+A luxury carpet native to Persia, made of the finest wool and silk. Decorated with geometric plant patterns, it has many masterpieces from the 15th-17th centuries.
+
+@28087
+Indigo dyeing
+
+@28088
+A way of dyeing thread and cloth with the leaves and stems of the indigo plant. It began in China and, after the Crusades, spread across Europe by way of Italy.
+
+@28090
+Four-field system
+
+@28091
+A farming method that plants turnips and fodder in the fallow field of the three-field system, so no land lies idle. Also called Norfolk farming. It began in 18th-century England and caused an agricultural revolution.
+
+@28092
+Raises agricultural culture by {0210}. Harvests from the fields double.
+
+@28093
+Dragon-spine pump
+
+@28094
+A device for lifting water for irrigation, powered by animals or people. It was designed to turn slow-walking work animals into usable rotary power.
+
+@28096
+Agricultural treatise
+
+@28097
+A Song Chinese farming book in three volumes: general farming, herding, and silk-raising.
+
+@28099
+Cheese
+
+@28100
+Skim milk curdled and fermented. It keeps well and is nourishing, so herding cultures around the world, starting with France, have made it.
+
+@28102
+Cashmere
+
+@28103
+A goat native to Kashmir in Tibet. Its hair is the raw material of the luxury fabric called cashmere. The hair also comes in brown and black, but is mostly white.
+
+@28105
+Silkie fowl
+
+@28106
+A fowl raised as livestock. It yields little meat or eggs, but the meat is said to help women's ailments and the eggs to cure lung disease and calm the nerves, so it was prized.
+
+@28108
+Fire-Oil Sprayer
+
+@28109
+A flamethrower developed in the Song era. Like Greek fire, it used naphtha as its fuel. Exploiting naphtha's power to spread flames, it was used to drive back the enemy in sieges and naval battles.
+
+@28110
+Raises weapons culture by {0210}. Flamethrowers can be recruited. Flamethrower attack rises.
+
+@28111
+Huihui Cannon
+
+@28112
+A secret weapon that Kublai Khan had developed for the conquest of the Southern Song. A siege catapult that uses the gravity of stones and the like as its power source, giving it greater force and range.
+
+@28113
+Raises weapons culture by {0210}. Catapults can be recruited. Catapult attack rises.
+
+@28114
+Urban's Cannon
+
+@28115
+A cast cannon that Mehmed II of the Ottoman Turks used in the assault on Constantinople. It could hurl a huge shot of over 600 kg more than 1,600 m.
+
+@28116
+Raises weapons culture by {0210}. Gunners can be recruited. Gunner attack rises.
+
+@28117
+Longbow
+
+@28118
+A bow as long as a soldier is tall. In the hands of skilled troops, it promised fighting power combining rapid fire and force. The English army used it to great effect in the Hundred Years' War against France.
+
+@28119
+Raises weapons culture by {0210}. Longbowmen can be recruited.
+
+@28120
+Damascus Steel
+
+@28121
+A sword forged from Indian steel known as wootz. Its surface bears a wavelike pattern like ripples on water. It boasts a toughness that never chips and a superb cutting edge.
+
+@28122
+Raises weapons culture by {0210}. Light Infantry, Heavy Infantry and Crusaders can land critical hits in war.
+
+@28123
+Fire Dragon Rocket
+
+@28124
+A fire arrow developed in Ming China, the first multi-stage rocket in human history. After flying, it launched fire arrows with propellant from inside and burned the enemy away.
+
+@28125
+Raises weapons culture by {0210}. The attack of fire arrows for bows doubles.
+
+@28126
+Song of Roland
+
+@28127
+A chivalric tale that took shape in France in the 12th century. Set in Emperor Charlemagne's war against the Muslim army, it portrays the exploits of the knight Roland and his tragic death.
+
+@28129
+Tournaments
+
+@28130
+Translated as "mounted jousting," a kind of military training developed in medieval Europe. Knights practiced handling horses and weapons and tactics of attack and defense.
+
+@28132
+Shahnameh
+
+@28133
+A work by the Iranian poet Ferdowsi. A great national epic based on myths and legends, it takes as its theme the tales of the kings from the founding of Iran to the fall of the Sassanid dynasty.
+
+@28135
+Wujing Zongyao
+
+@28136
+A military technology treatise of the Song era. Besides strategy on military organization and border defense, it describes the mixing of gunpowder and flamethrower techniques.
+
+@28138
+Armillary Sphere
+
+@28139
+A Chinese instrument used to observe the heavens and measure the seasons. The one made by Guo Shoujing of the Yuan era is famous. As its observations grew more precise, calendar science advanced.
+
+@28141
+World Map
+
+@28142
+Made in great numbers in Islamic lands, where geography was advanced. Maps of the day carried notes giving practical knowledge for trade and describing how people lived in each region.
+
+@28144
+Galley
+
+@28145
+A galley of Roman origin, improved by the Venetians. Long and slender, with low sides, it has both sails and oars. The enlarged war versions were feared by every nation.
+
+@28146
+Raises navigation culture by {0210}. Navy attack rises.
+
+@28147
+Yingzao Fashi
+
+@28148
+An architecture book by the Song engineer Li Jie. Its 36 volumes set design standards for state construction.
+

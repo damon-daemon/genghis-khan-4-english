@@ -1,0 +1,765 @@
+@8000
+Kulan, a maiden of the Merkit tribe, was to be wed to Genghis Khan, who had united the Mongols.
+
+@8001
+But on the appointed day, Kulan did not appear. Several days passed, and then one day...
+
+@8002
+{C6}, the soldiers have found that girl. Will you see her?
+
+@8003
+Good. I will see her at once.
+
+@8004
+And so Kulan and a man named Naya'a were brought before Genghis Khan.
+
+@8005
+Woman, you broke your promise and fled from me... I trust you are prepared.
+
+@8006
+I was not fleeing. The road was so dangerous that I hid.
+
+@8007
+Hmph, I do not believe it. You there, Naya'a, was it? Why were you with this woman?
+
+@8008
+Sire! I was protecting Lady Kulan so that no harm would befall her.
+
+@8009
+A transparent excuse. You meant to seize her for yourself and make her your wife, no doubt.
+
+@8010
+I had heard of the Mongol chieftain, but he does not seem much of a man.
+
+@8011
+What did you say?!
+
+@8012
+I heard Genghis Khan treats loyal men generously. Yet Naya'a risked his life to protect me, and this is how you answer him? How discourteous...
+
+@8013
+Woman, how will you prove that your claim is true?
+
+@8014
+Heaven will believe that my words are true. Whether you believe them or not is no concern of mine.
+
+@8015
+Will you believe Kulan's words?
+
+@8016
+Heh, what a spirited woman. She may well be fit to be my consort.
+
+@8017
+So Kulan was welcomed as Genghis Khan's consort. She won his favor and is said to have followed him on every campaign.
+
+@8018
+Kulan has become your consort.
+
+@8019
+Naya'a has joined your service.
+
+@8020
+Hmph, nonsense. I will spare your life. Be gone at once.
+
+@8021
+So Kulan and Naya'a returned to their home village, and were never seen again.
+
+@8022
+{C6}, in her place... The Tatar tribe has two sisters famed for their beauty. Would you take them as consorts?
+
+@8023
+Sisters?
+
+@8024
+Yes. I hear they are not only beautiful but also very wise. I think you should meet them.
+
+@8025
+Oh? Then I shall meet them.
+
+@8026
+So the Tatar sisters came to Genghis Khan.
+
+@8027
+It is an honor to meet you. I am the elder sister, Yesui.
+
+@8028
+I am glad to meet you. I am the younger sister, Yesugen.
+
+@8029
+Mm, I like you both. From today you are my consorts.
+
+@8030
+The sisters Yesui and Yesugen have become your consorts.
+
+@8031
+To decide his successor, Genghis Khan gathered his sons and chief retainers and held an assembly (a kurultai).
+
+@8032
+Thank you all for coming. Today I wish to decide who will inherit my title of Khan.
+
+@8033
+I would like to hear your opinions.
+
+@8034
+Jochi, what do you think?
+
+@8035
+Before Jochi could answer, his younger brother Chagatai spoke up.
+
+@8036
+You say Jochi should speak first... Do you mean to let a man of Merkit blood succeed you?
+
+@8037
+Jochi was born after Genghis Khan's wife Borte was carried off by the Merkits.
+
+@8038
+For that reason, many, like Chagatai, doubted that Jochi was Genghis Khan's true son.
+
+@8039
+Still you say such things?! Your words wound even our mother Borte!
+
+@8040
+This was Jochi's old wound. Furious, he was about to strike Chagatai.
+
+@8041
+Stop, both of you!
+
+@8043
+Chagatai, never speak of that again.
+
+@8045
+Yes, Father. From now on I swear to join forces with Jochi.
+
+@8046
+Let us return to the matter at hand.
+
+@8047
+Sire, Ogedei is gentle and well respected. Why not let him inherit?
+
+@8048
+Jochi, what do you think?
+
+@8049
+I have no objection. I will help Ogedei as much as I can.
+
+@8050
+Ogedei, are you content with this?
+
+@8051
+If it is my father's command, I have nothing to say. I will strive not to betray your expectations.
+
+@8052
+Thus Ogedei was named successor, and the kurultai came to an end.
+
+@8053
+Ogedei's loyalty has risen.
+
+@8054
+Father chose me as his successor, so what is the meaning of this?!
+
+@8055
+I cannot bear such treatment. I will not stay in a country like this!
+
+@8056
+Ogedei has run away.
+
+@8057
+Genghis Khan ordered his generals in every land to return for a time.
+
+@8058
+Only Jochi did not return despite repeated summons. He sent word just once that illness kept him from coming.
+
+@8059
+That Jochi, ignoring my orders... Illness, he says? Something does not add up.
+
+@8060
+{C6}, a merchant who has met {C13} has come.
+
+@8061
+What?! Show him in at once.
+
+@8062
+Genghis Khan decided to question the merchant. Then...
+
+@8063
+You travel through many lands, so you must know how Jochi fares.
+
+@8064
+Sire! Lord Jochi was out hunting, and appeared quite healthy. He was also training soldiers.
+
+@8065
+What?!
+
+@8066
+If this is true, Jochi's defiance of the Khan's orders cannot be forgiven.
+
+@8067
+Father, Jochi must be plotting rebellion. If you permit it, I will go and crush him myself.
+
+@8068
+Will you believe the merchant's story?
+
+@8069
+Very well. Chagatai, I command you! Subdue the rebel Jochi, and root out his family to the last.
+
+@8070
+So the expedition led by Chagatai set out. Before long, news arrived.
+
+@8071
+Lord Jochi lay ill for some time, but his condition suddenly turned the other day, and at last he has passed.
+
+@8072
+...!
+
+@8073
+Genghis Khan was stunned by the grim news. Jochi's illness had been real, and he regretted his own folly in believing the merchant's false report.
+
+@8074
+Tears welled from Genghis Khan's eyes. In Jochi, tormented by doubts about his birth, he had seen himself.
+
+@8075
+For Genghis Khan himself was born of a mother who had been carried off, and he had sought to prove through conquest that he was a true descendant of the Mongols.
+
+@8076
+The next day, Jochi's death was announced. Genghis Khan's grief was so great that it is even said to have shortened his life.
+
+@8077
+Jochi of the Mongols has died.
+
+@8078
+No, not Jochi. It cannot be so. If he is ill, I will send him a medicine that works well against sickness.
+
+@8079
+Some time later, Jochi came to Genghis Khan.
+
+@8080
+Thanks to your medicine, Father, my illness has improved. I am sorry I defied your repeated orders to return.
+
+@8081
+Enough. But you still look pale. Do not push yourself, and take care of your health.
+
+@8082
+Father... Thank you for your concern.
+
+@8083
+Jochi's loyalty has risen. Jochi's lifespan has increased.
+
+@8084
+No, not Jochi. It cannot be so...
+
+@8085
+But contrary to Genghis Khan's hopes, Jochi's heart was filled with dark ambition.
+
+@8086
+No one loves me anyway, not even my father and brothers... There is no point in staying in this country any longer.
+
+@8087
+Jochi of {026b0206} has rebelled.
+
+@8088
+{C6}, please look at this wine vat. Even iron rots when soaked in wine.
+
+@8089
+Needless to say, the same is true of a man's organs. Please, refrain from drinking.
+
+@8090
+Will you heed Yelu Chucai's admonition?
+
+@8091
+Mm, you are right. A ruler who cannot govern his own body cannot govern a country. I will cut back on wine.
+
+@8092
+{021e0201}'s lifespan has increased.
+
+@8093
+They say wine is the best of all medicines. Do not be so strict with me.
+
+@8094
+{C6}...
+
+@8095
+Oh? Someone is sleeping over there.
+
+@8096
+Hm? Is that not Chucai?
+
+@8097
+Hey, Chucai, wake up! You will catch a cold sleeping in a place like this.
+
+@8098
+Mumble... Do not disturb a man sleeping so comfortably.
+
+@8099
+Chucai, wake up! It is me!
+
+@8100
+Hm? Th-this is... {C6}!
+
+@8101
+Really, you tell others to avoid drink, and here you are, dead drunk...
+
+@8102
+Forgive me... You would not heed my words, {C6}, so I took to drowning my sorrows.
+
+@8103
+...Hmm. Drinking too much is indeed bad. As you say, I will cut back on wine.
+
+@8104
+Thank you for heeding my admonition.
+
+@8105
+{021e0201}'s lifespan has increased. Yelu Chucai's loyalty has risen.
+
+@8106
+In {027c}, Minamoto no Yoritomo was appointed Seii Taishogun by the imperial court.
+
+@8107
+The Kamakura shogunate has been established.
+
+@8108
+At the English court, King Richard I had been absent for some time on campaign.
+
+@8109
+One day, King Philip II of France secretly visited John, Richard I's younger brother.
+
+@8110
+Well, well. Your Majesty Philip, welcome.
+
+@8111
+Prince John, it seems your brother, His Majesty Richard, has set out on his campaign as planned.
+
+@8112
+Yes...
+
+@8113
+So... have you made up your mind?
+
+@8114
+No, but for me to take the throne from my brother...
+
+@8115
+What are you saying now?! His Majesty Richard is far too fond of war. By comparison, Prince John has truly great talents fit for a king.
+
+@8116
+Make your decision, for the sake of the people!
+
+@8117
+Mm. For the people's sake, I must resolve myself.
+
+@8118
+But what of my brother...?
+
+@8119
+Leave it to me. I know a certain gentleman who holds Richard in favor. Under his protection, Richard can live out his days in peace.
+
+@8120
+The hand of intrigue was reaching for Richard I. What will become of him?
+
+@8121
+Philip II of France, who plotted to ensnare King Richard I of England, had in their last secret meeting incited Richard I's brother John to seize the English throne.
+
+@8122
+Next, Philip II had Duke Leopold of Austria capture Richard I, trapping him so he could never return home.
+
+@8123
+Leopold had once suffered the humiliation of having his banner trampled by Richard I.
+
+@8124
+He hated Richard bitterly, and Philip II made use of this, but...
+
+@8125
+What do you intend to do with me?
+
+@8126
+I bear you a grudge, you see. I am still deciding whether to boil you or roast you. Heh heh heh...
+
+@8127
+You would fight me? Unwise. Come, I will pay you. A hundred thousand, even a hundred and fifty thousand!
+
+@8128
+R-really?
+
+@8129
+I promise it on my honor.
+
+@8130
+Some time later, the English court was holding a feast to celebrate John's coronation.
+
+@8131
+All the food I can eat, anything I want within reach. Ah, I could never give up being king.
+
+@8132
+(At this rate, I fear for where this country is headed...)
+
+@8133
+But whatever has become of Lord Richard?
+
+@8134
+Who knows. Vanishing during a campaign... He will probably never return here.
+
+@8135
+Lady Berengaria, widowed at so young an age, poor woman. How about it? I will take you as my concubine.
+
+@8136
+Lord John! Even a jest has its limits.
+
+@8137
+Wahaha! Oh, never mind.
+
+@8138
+From now on, I shall steer this country. All of you, rest easy, as if aboard a great ship.
+
+@8139
+Hold on there!
+
+@8140
+Lord Richard!
+
+@8141
+Your Majesty Richard!
+
+@8142
+B-brother! Why are you here?
+
+@8143
+John, I have heard everything. So this was your scheme, was it?
+
+@8144
+I-I was only put up to it by Philip...
+
+@8145
+John... I will forgive you this once. If you behave yourself.
+
+@8146
+But Philip... Him I will never forgive. I will repay this grudge a hundredfold!
+
+@8147
+Richard I was driven from the throne for a time by the schemes of Philip II, but he paid a ransom of a quarter of the national revenue and regained it.
+
+@8148
+From then on, Richard I and Philip II regarded each other as mortal enemies and fought bitterly.
+
+@8149
+Hmm. Is the damage from rats really so bad lately?
+
+@8150
+{C6}, we are suffering considerable damage within our own borders as well.
+
+@8151
+I see... Is there no way to drive the rats out of our land?
+
+@8152
+{C6}, I have heard of a man in a town called Hamelin who rid it of rats.
+
+@8153
+What! Good, let that man deal with our rats. Summon him at once.
+
+@8154
+And so a traveling man came to deal with the rats.
+
+@8155
+Ah, so you are the one who will rid us of the rats?
+
+@8156
+Yes. I am a piper from Hamelin.
+
+@8157
+But how do you intend to get rid of them?
+
+@8158
+Leave it to me. But do not forget the fee: 10000 gold.
+
+@8159
+So saying, the man took out a pipe and began to play.
+
+@8160
+Pee-ro-ro-ro...
+
+@8161
+Oh, what is this! The rats are being drawn by the sound of the pipe and gathering in droves!
+
+@8162
+The man led all the rats of the town to the river outside the city. When he crossed the bridge, the rats leaped into the river one after another.
+
+@8163
+There, every last rat is gone. The gold coins you promised, if you please.
+
+@8164
+Pay 10000 gold?
+
+@8165
+Thank you. As thanks, I shall stay here a while. As long as I am here, you will suffer no damage even if rats come.
+
+@8166
+Hmm... But all he did was play a little on a pipe.
+
+@8167
+Surely you do not mean to refuse payment now?
+
+@8168
+Who would pay 10000 gold for that?
+
+@8170
+The man seemed displeased, but silently left the town.
+
+@8171
+After a while, the man appeared again. And he began to play his pipe as he had when dealing with the rats.
+
+@8172
+Pee-ro-ri-ro...
+
+@8173
+Oh! This time the children are following the piper!
+
+@8174
+All the town's children who followed the man vanished on a hill outside the town. They never came back.
+
+@8175
+Your Majesty! Terrible news! Your son, {0210}, has been taken away by the piper!
+
+@8176
+Your Majesty! Terrible news! Your daughter, {0210}, has been taken away by the piper!
+
+@8177
+My dear {0210} has been carried off?! If this was to happen, I should have paid him as promised.
+
+@8178
+I shall set out on my travels again. Do take care against the rats.
+
+@8179
+The piper has left your territory.
+
+@8180
+The Swiss canton of Uri was a direct possession of the Holy Roman Empire. The bailiff of the land, Gessler, behaved so tyrannically that it was hard to bear witness.
+
+@8181
+One day, Bailiff Gessler hung his hat on a pole and forced the villagers to salute it.
+
+@8182
+Kneel and salute my hat. Those who disobey will forfeit their lives.
+
+@8183
+All the villagers saluted the hat. But one villager, named Tell, ignored it.
+
+@8184
+You there, why do you not salute?
+
+@8185
+I cannot do such a thing.
+
+@8186
+Those who defy the order are to be punished, it is commanded.
+
+@8187
+Gessler stood Tell's son beneath an apple tree and placed an apple on his head.
+
+@8188
+Shoot that apple off with your bow.
+
+@8189
+Tell begged for mercy, but Gessler would not listen.\pAs many villagers gathered around, Tell made up his mind and nocked a single arrow.
+
+@8190
+The arrow struck the apple squarely.
+
+@8191
+Oh, magnificent! The tale of this master archer will be told for generations!
+
+@8192
+Amid the villagers' cheers, Tell and his son tried to leave. But...
+
+@8193
+Wait. You have another arrow. What did you mean to do with it?
+
+@8194
+Had I failed, I meant to shoot you with this arrow.
+
+@8195
+What! Seize this man and throw him in the dungeon!
+
+@8196
+And so Tell was captured. But the bailiff's utter lawlessness made the villagers resolve to rebel.
+
+@8197
+Let us beat the bailiff and rescue Tell!
+
+@8198
+On the way to prison, Tell saw an opening and managed to escape.
+
+@8199
+Tell! You are safe! I brought your bow.
+
+@8200
+Tell took the bow and lay in wait for Bailiff Gessler. Before long, Gessler appeared on the forest road.
+
+@8201
+Receive the reward for your many misdeeds.
+
+@8203
+Thus, through Tell's courageous act, the Swiss region of Uri was freed from the tyranny of the Holy Roman Empire.
+
+@8204
+They say a vast amount of gold lies buried on this island nation. Conquer it in one stroke!
+
+@8205
+The army of {02850201} eagerly tried to land in Japan. But...
+
+@8206
+Oh! Is this a divine wind?
+
+@8207
+This is the price for invading the Divine Land! Take that, army of {02850201}!
+
+@8208
+Having conquered the neighboring countries, the emboldened Mongol army sent an envoy to make Goryeo a vassal.
+
+@8209
+But on the way back from Goryeo, the envoy was murdered by someone after crossing the Yalu River near the border.
+
+@8210
+Cutting down an envoy! How insolent!
+
+@8211
+We did not kill the envoy.
+
+@8212
+The envoy was killed outside our border, in any case. It is no concern of ours.
+
+@8213
+To feign ignorance now... I am all the more unable to forgive!
+
+@8214
+Crush Goryeo!
+
+@8215
+Thus the Mongol army began its invasion of Goryeo, and the two countries plunged into war.
+
+@8216
+Mongols! Get out of our country!
+
+@8216.1
+We will make you feel the valor of the Sambyeolcho army!
+
+@8216.2
+We of the Sambyeolcho will never submit to the Mongols!
+
+@8217
+The Sambyeolcho army, led by Kim Tong-jeong, has risen in revolt.
+
+@8218
+It seems the city of Gaeseong has suffered damage.
+
+@8219
+Genghis Khan, a son has been born to your wife, Borte.
+
+@8220
+Great Khan, rejoice! A healthy baby has been safely born.
+
+@8221
+Oh, Borte, well done! Let me see... Oh! He truly is a healthy boy!
+
+@8222
+Great Khan, I have but one request.
+
+@8223
+What is it?
+
+@8224
+I would like to name this child myself.
+
+@8225
+Hm, very well. Name him whatever you like.
+
+@8226
+Thank you. Then I think I shall name him Tolui.
+
+@8227
+Tolui... Tolui, is it?
+
+@8228
+Good. Your name is Tolui. Inherit the blood of the wolf and grow up strong.
+
+@8229
+In {027c}, Tolui, the fourth son of Genghis Khan, was born.
+
+@8230
+Tolui later grew into a stalwart general and contributed greatly to the growth of Mongolia.
+
+@8231
+I have studied Greek philosophy,
+
+@8232
+and the scholarship of Aristotle is especially fascinating.
+
+@8233
+Thanks to it, the book that crowns my research is nearly complete.
+
+@8234
+Thomas Aquinas has completed the Summa Theologica.
+
+@8235
+I have wandered the East and seen all manner of things...
+
+@8236
+At last I have gathered these records into a single book.
+
+@8237
+To the people of Europe, the East is still a mystery. This book will be prized.
+
+@8238
+Marco Polo has completed The Travels of Marco Polo.
+
+@8239
+One day, an Italian scholar named Dante visited {0258020b} to offer his service.
+
+@8240
+For a long time I have longed for my homeland, Italy, to be unified.
+
+@8241
+And at last, Lord {021e0201} has achieved it.
+
+@8242
+There is no one but you whom I would serve. Please take me into your service.
+
+@8243
+An offer I could hardly hope for. Our country gladly welcomes you.
+
+@8244
+As expected of Lord {021e0201}, you have an eye for people. I shall work for this country.
+
+@8245
+By the way, please look at this. I wish to present you with my work.
+
+@8246
+You obtained the cultural item The Divine Comedy.
+
+@8247
+Thank you, but our country has no shortage of talent. Please withdraw.
+
+@8248
+I see... It seems I misjudged. How regrettable.
+
+@8249
+One day, in {0258020b}, the Lama monk Phagspa asked to see the ruler, {021e0201}.
+
+@8250
+Lord {021e0201}, I am most grateful that you forgive my sudden visit.
+
+@8251
+Not at all. But what business brings you today?
+
+@8252
+Yes, my lord. You once said you wished to create a script that would aid the cultural growth of {0258020b}.
+
+@8253
+Presumptuous as it is, I have devised a script myself.
+
+@8254
+Oh! This is wonderful. Worthy of a sage of the Lama faith.
+
+@8255
+From now on, this script shall be named the Phags-pa Script and officially adopted.
+
+@8256
+You obtained the cultural item Phags-pa Script.
+

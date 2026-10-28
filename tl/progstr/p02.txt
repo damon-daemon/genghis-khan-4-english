@@ -1,0 +1,333 @@
+SETUP:8019e10c	In the latter half of the 12th century, a young man named Temujin was acclaimed Khan (king) on the
+SETUP:8019e170	war-torn Mongolian plateau. After defeating his old enemy Jamukha, Temujin established his hegemony over the
+SETUP:8019e1d4	plateau and took the name Genghis Khan. In the west, meanwhile, the Christian drive to retake the Holy Land was
+SETUP:8019e238	intensifying, and crusaders led by Richard the Lionheart repeatedly clashed with the Islamic hero Saladin over
+SETUP:8019e29c	Jerusalem. All of Eurasia was about to be swallowed by wars of heroes.
+SETUP:8019e2d8	In the 13th century, the Mongol Empire that swept across Eurasia was divided among the heirs of Genghis Khan.
+SETUP:8019e33c	Kublai Khan, who ruled China, renamed his state Yuan in the Chinese style and campaigned as far as Southeast
+SETUP:8019e3a0	Asia, Korea and Japan, aiming to rule all of Asia. In the west, the Mongols, the Islamic states and the Christian
+SETUP:8019e404	states formed a three-way standoff, advancing and retreating by turns. With Genghis Khan gone, Eurasia was
+SETUP:8019e468	about to plunge into chaos again.
+SETUP:8019e69c	High
+SETUP:8019e6a4	Avg
+SETUP:8019e6ac	Low
+SETUP:8019e6b4	OK
+SETUP:8019e6bc	Cancel
+SETUP:8019e6c4	Realm
+SETUP:8019e6cc	King
+SETUP:8019e6d4	Power
+SETUP:8019e6dc	City
+SETUP:8019e6e4	Gen.
+SETUP:8019e6ec	Pol
+SETUP:8019e6f4	Cmb
+SETUP:8019e6fc	Int
+SETUP:8019e704	Select this king?
+SETUP:8019e7cc	Switch
+SETUP:8019e7d4	Bio
+SETUP:8019e7dc	Return to scenario\nselection. Is that OK?
+SETUP:8019e808	No king is selected.\nThis will be a demo.\nIs that OK?
+SETUP:8019e84c	8 kings are already\nselected. No more\ncan be chosen.
+SETUP:8019ec90	Name
+SETUP:8019ec98	Name
+SETUP:8019eca0	Bio
+SETUP:8019eca8	Notes
+SETUP:8019ef0c	Slot
+SETUP:8019f0c4	Slot
+SETUP:8019f1dc	Cannot open the fixed map data file!
+SETUP:8019f204	Cannot read the fixed map data file!
+SETUP:8019f258	Cannot open the variable map data file!
+SETUP:8019f280	Cannot read the variable map data file!
+SETUP:8019f2d4	Unexpected error
+SETUP:8019f2fc	Year %d  %s\nKing: %s\nScenario: %s\nPlayers: %d
+SETUP:8019f370	{fw}Genghis Khan (%s %s #%s)
+SETUP:8019f3fc	Unused file
+SETUP:8019f410	Not enough free blocks
+SETUP:8019f42c	No file
+SETUP:8019f444	
+SETUP:8019f44c	Save
+SETUP:8019f454	Load
+SETUP:8019f45c	Format
+SETUP:8019f46c	Check
+SETUP:8019f478	No memory card in slot %s.\nSlot %s%s: %s unavailable.
+SETUP:8019f4c8	The card in slot %s is not\nformatted.\nSlot %s%s: %s unavailable.
+SETUP:8019f51c	Failed to format the\nmemory card in slot %s.
+SETUP:8019f554	The card in slot %s is not\nformatted.\nFormat it anyway?\nIs that OK?
+SETUP:8019f5b0	The memory card in slot %s\nis damaged.\nPlease insert another card.
+SETUP:8019f604	The card in slot %s has too\nfew free blocks.\nCannot save to slot %s.
+SETUP:8019f65c	Save now?\nIs that OK?
+SETUP:8019f678	Saving will erase the\nprevious data.\nIs it OK to save?
+SETUP:8019f6c0	Failed to write the data.
+SETUP:8019f6e0	The card in slot %s has no\ndata.\nCannot load from slot %s.
+SETUP:8019f734	Failed to read the data.
+SETUP:8019f754	The data is corrupted.
+SETUP:8019f76c	Load this data?\nIs that OK?
+SETUP:8019f794	%s finished
+SETUP:8019f7a8	The card in slot %s was\nremoved.\n%s cancelled.
+SETUP:8019f7e4	A card was inserted in\nslot %s.\n%s cancelled.
+SETUP:8019f824	%s cancelled
+SETUP:8019f834	Checking the memory card\nin slot %s.
+SETUP:8019f860	Slot %s%s: %s in progress.\nDo not remove or insert\ncards or controllers.
+SETUP:8019f8bc	Select the slot for\n%s.
+SETUP:8019f8dc	Memory card contents
+SETUP:801b1ad0	-
+SETUP:801b4c64	-
+SETUP:801c1858	-
+USER:801d6f1c	????(Unknown)
+USER:801d7a08	Taken
+USER:801d7a5c	Liaoyang
+USER:801d7a64	Turfan
+USER:801d7a74	Omsk
+USER:801d7a80	Kyoto
+USER:801d7a88	Mizhou
+USER:801d7a90	Chang'an
+USER:801d7a98	Purushapura
+USER:801d7aa8	La Rochelle
+USER:801d7ab4	Sansho
+USER:801d7ac0	Agartha
+USER:801d7acc	Shiraz
+USER:801d7ad8	Chiang Mai
+USER:801d7ae4	Amri
+USER:801d7aec	Uttar
+USER:801d7af8	Muscat
+USER:801d7b04	Mecca
+USER:801d7b0c	Brunei
+USER:801d7b18	Malacca
+USER:801d7b24	Tripoli
+USER:801d7b7c	Realm
+USER:801d7b84	King
+USER:801d7b8c	Friend
+USER:801d7b94	Wed
+USER:801d7b9c	Ally
+USER:801d7ba4	Joint w/
+USER:801d7bac	Joint by
+USER:801d7bb4	Joint target
+USER:801d7bc0	City
+USER:801d7bc8	Gen.
+USER:801d7bd0	Men
+USER:801d7bd8	Gold
+USER:801d7be0	Food
+USER:801d7be8	%d turns
+USER:801d7c80	Switch
+USER:801d7d18	Culture Item
+USER:801d7d28	Cult.
+USER:801d7d30	Gain
+USER:801d7dc8	Hahaha!
+USER:801d7e14	Gifts
+USER:801d7e1c	OK
+USER:801d7e24	No
+USER:801d7e3c	Gold %d
+USER:801d7e44	None
+USER:801d7e4c	Items
+USER:801d7e58	Gold
+USER:801d7f60	No more %s units can be created.
+USER:801d7fbc	Unit %d
+USER:801d7fc8	Men
+USER:801d7fd0	Food
+USER:801d7fd8	OK
+USER:801d7fe0	Cancel
+USER:801d7ff4	Create Army Unit
+USER:801d8008	Left
+USER:801d8010	Set All
+USER:801d801c	Max
+USER:801d8034	Men Left
+USER:801d8040	Gold Left
+USER:801d807c	Po %d
+USER:801d8084	Cm %d
+USER:801d808c	In %d
+USER:801d8094	Aptitude
+USER:801d80a8	#%d
+USER:801d80b0	Cost
+USER:801d8464	Attack
+USER:801d846c	Defend
+USER:801d8474	Choose the army units to\njoin the battle.
+USER:801d84a4	Select
+USER:801d84ac	End
+USER:801d84b4	-----
+USER:801d84c0	Main Force
+USER:801d84cc	Stay Out
+USER:801d84d8	Join
+USER:801d84e4	Request
+USER:801d84f0	Tr%d
+USER:801d84f8	Is this all right?
+USER:801d85e8	Gold
+USER:801d85f0	Food
+USER:801d85f8	OK
+USER:801d8600	Cancel
+USER:801d861c	Create Transport Unit
+USER:801d8630	Left
+USER:801d8638	It carries no gold or food.\nIs that OK?
+USER:801d8678	Create Envoy Unit
+USER:801d868c	It carries no gold.\nIs that OK?
+USER:801d86bc	Create Spy Unit
+USER:801d86d0	(Costs 200 each)
+USER:801d86e4	Goods
+USER:801d86ec	Qty
+USER:801d8704	Create Caravan Unit
+USER:801d8718	It carries no specialty\ngoods. Is that OK?
+USER:801d8754	Create Settler Unit
+USER:801d8798	will not be carried.\nIs that OK?
+USER:801d8c50	No more mobile units\ncan be created.
+USER:801d8c80	Army
+USER:801d8c88	Supply
+USER:801d8c90	Labor
+USER:801d8c98	Envoy
+USER:801d8ca0	Spy
+USER:801d8ca8	Move
+USER:801d8cb0	Trade
+USER:801d8cb8	Settle
+USER:801d8cc0	Fort
+USER:801d8cc8	Scrap
+USER:801d8cf8	Draft
+USER:801d8d00	Hire
+USER:801d8d08	Wed
+USER:801d8d10	Exile
+USER:801d8d18	Staff
+USER:801d8d48	Sell
+USER:801d8d50	Buy
+USER:801d8d58	Deal
+USER:801d8d88	Raze
+USER:801d8d90	Lord
+USER:801d8dc0	Details
+USER:801d8dcc	Nation
+USER:801d8dd4	Generals
+USER:801d8de0	Units
+USER:801d8dec	Roads
+USER:801d8df8	Info
+USER:801d8e34	Aggressive
+USER:801d8e40	Defensive
+USER:801d8e4c	Transport
+USER:801d8e58	Domestic
+USER:801d8e64	Trade
+USER:801d8e70	Manual
+USER:801d8e7c	Auto
+USER:801d8eb4	Fort
+USER:801d8ebc	Staff
+USER:801d8ec4	Deal
+USER:801d8ecc	Lord
+USER:801d8ed4	Info
+USER:801d8edc	Auto
+USER:801d8ee4	City
+USER:801d8eec	Realm
+USER:801d8f14	Vacant
+USER:801d8f20	Away
+USER:801d90f0	Cult.
+USER:801d90f8	Goods\t
+USER:801d9100	Items\t
+USER:801d9108	Trade\t
+USER:801d9110	Draft\t
+USER:801d9118	Info
+USER:801d912c	Nation\t
+USER:801d9134	Lord\t
+USER:801d913c	Size\t
+USER:801d9144	Def\t
+USER:801d914c	Gen.\t
+USER:801d9154	Men\t
+USER:801d915c	Hurt\t
+USER:801d9164	Net 
+USER:801d916c	Gold
+USER:801d9174	Food
+USER:801d918c	  Stock  Income Costs
+USER:801d91b0	%d/%d pcs
+USER:801d91bc	%d
+USER:801d91c4	None
+USER:801d91cc	%d cities OK
+USER:801d91dc	No trading cities
+USER:801d91f0	%d unit types OK
+USER:801d9258	%s Culture Lv
+USER:801d9268	This city has no\nculture items.
+USER:801d9290	No cities can trade.
+USER:801d94f8	City
+USER:801d9590	City
+USER:801d9598	Size
+USER:801d95a0	Def
+USER:801d95a8	Gen.
+USER:801d95b0	Gold
+USER:801d95b8	Food
+USER:801d95c0	Men
+USER:801d95c8	Hurt
+USER:801d95d0	Auto
+USER:801d95d8	Farm
+USER:801d95e0	Herd
+USER:801d95e8	Arms
+USER:801d95f0	Tact
+USER:801d95f8	Sea
+USER:801d9600	Build
+USER:801d9608	Study
+USER:801d9610	Art
+USER:801d9618	Med
+USER:801d9620	Craft
+USER:801d9628	Light Inf.
+USER:801d9630	Hvy Inf.
+USER:801d9638	Pikemen
+USER:801d9640	Monks
+USER:801d9648	Vikings
+USER:801d9654	Assassins
+USER:801d9660	Crusade
+USER:801d9668	Shortbow
+USER:801d9670	Longbow
+USER:801d9678	Crossbow
+USER:801d9680	Lancers
+USER:801d9688	Shock Cav.
+USER:801d9694	Knight
+USER:801d969c	Horse Arch.
+USER:801d96a8	Hunter Cav.
+USER:801d96b4	Bushi
+USER:801d96bc	Mongol Cav.
+USER:801d96c8	Camels
+USER:801d96d0	Ele.
+USER:801d96d8	Catapult
+USER:801d96e0	Gunners
+USER:801d96e8	Flamethrower
+USER:801d96f4	Siege Twr
+USER:801d96fc	Olive Oil
+USER:801d9704	Sugar
+USER:801d970c	Spices
+USER:801d9714	Camel
+USER:801d971c	Furs
+USER:801d9724	Silk
+USER:801d972c	Wool
+USER:801d9734	Cotton
+USER:801d973c	Celadon
+USER:801d9744	Porcelain
+USER:801d974c	Silver
+USER:801d9754	Glass
+USER:801d975c	Scent
+USER:801d9764	Art
+USER:801d976c	Shell
+USER:801d9774	Amber
+USER:801d977c	Coral
+USER:801d9784	Pearls
+USER:801d978c	Ivory
+USER:801d9794	Wood
+USER:801d979c	Herbs
+USER:801d97a4	King
+USER:801d97b0	Need
+USER:801d98d8	Name
+USER:801d98e0	Sex
+USER:801d98e8	Age
+USER:801d9980	Switch
+USER:801d9988	Sw. Goods
+USER:801d9994	Sw. Item
+USER:801d99a0	Gen.
+USER:801d99d8	No Goods
+USER:801d99e4	Gold    %5d
+USER:801d99f4	Food    %5d
+USER:801d9a04	Stock
+USER:801d9a5c	%s Unit
+USER:801d9a64	Act %s
+USER:801d9a6c	Gen %s
+USER:801d9a74	Nation %s
+USER:801d9a80	City %s
+USER:801d9a8c	At %s
+USER:801d9a98	Auto %s
+USER:801d9aa4	Act %s
+USER:801d9ab0	Auto ----
+USER:801d9ac4	Gold %d
+USER:801d9acc	Gold --
+USER:801d9ad8	Food %d
+USER:801d9ae0	Food --
+USER:801d9aec	Men %d
+USER:801d9af4	Men --
+USER:801d9b00	Goods %s(%d)
+USER:801d9b0c	No Goods
+USER:801d9b18	Goods -----

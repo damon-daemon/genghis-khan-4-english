@@ -1,0 +1,336 @@
+@40000
+Toghril Khan (????-1203)
+
+@40001
+24
+
+@40003
+Jakha Gambhu (????-1204)
+
+@40004
+211
+
+@40006
+Senggum (????-????)
+
+@40007
+212
+
+@40008
+Son of Toghril Khan, chief of the Kerait. He harbored fierce hatred for Genghis Khan and urged war on the Mongols. After the Kerait defeat he fled, and was killed by peasants.
+
+@40009
+Bilge Beki (????-????)
+
+@40010
+213
+
+@40012
+Alin Taishi (????-????)
+
+@40013
+215
+
+@40014
+A vassal of Toghril Khan, chief of the Kerait. After the Kerait fell, he fought Genghis Khan under Naiman chief Dayan.
+
+@40015
+Todoyan (????-????)
+
+@40016
+216
+
+@40018
+Chilku (????-1211)
+
+@40019
+14
+
+@40021
+Arslan Khan (????-????)
+
+@40022
+289
+
+@40024
+Tegin Osal (????-????)
+
+@40025
+290
+
+@40027
+Li Chunyou (????-????)
+
+@40028
+150
+
+@40030
+Li Anquan (????-????)
+
+@40031
+151
+
+@40032
+Son of Li Renyou. He became the seventh emperor of Western Xia, Xiangzong. When the Mongols invaded, he held out behind the walls to the bitter end, then surrendered, giving up the Xia princess Chaka as a hostage.
+
+@40033
+Muhammad Ghori (????-1206)
+
+@40034
+85
+
+@40036
+Ghiyath al-Din (????-1202)
+
+@40037
+15
+
+@40039
+Aibak (????-1210)
+
+@40040
+259
+
+@40042
+Iltutmish (????-1236)
+
+@40043
+316
+
+@40045
+Balban (????-1287)
+
+@40046
+48
+
+@40048
+Kulottunga (????-????)
+
+@40049
+27
+
+@40051
+Muhammad (????-1221)
+
+@40052
+291
+
+@40053
+Seventh shah of Khwarezm. He defeated the Western Liao and the Ghurids and brought his dynasty to its height. But when the Mongols invaded, the dynasty was destroyed, and he fell ill and died while fleeing his pursuers.
+
+@40054
+Jalal al-Din (????-1231)
+
+@40055
+78
+
+@40057
+Yalavach (????-1255)
+
+@40058
+84
+
+@40060
+Timur Malik (????-????)
+
+@40061
+292
+
+@40062
+A fierce general of Khwarezm. He served his lord Jalal al-Din and fought the Mongols doggedly to the last. He showed his courage by halting the Mongol advance with just three arrows.
+
+@40063
+Inalchuq (????-1219)
+
+@40064
+294
+
+@40066
+al-Nasir (????-1225)
+
+@40067
+12
+
+@40069
+Yaqut (1179-1229)
+
+@40070
+318
+
+@40071
+A Muslim geographer. Born a Greek slave, he was raised and educated by a Baghdad merchant. He wrote the Mu'jam al-Buldan, the summation of Arabic geography.
+
+@40072
+Ibn al-Athir (1160-1234)
+
+@40073
+319
+
+@40075
+Saladin (1138-1193)
+
+@40076
+11
+
+@40078
+al-Afdal (????-????)
+
+@40079
+340
+
+@40081
+al-Adil (????-1218)
+
+@40082
+341
+
+@40084
+al-Kamil (????-????)
+
+@40085
+342
+
+@40086
+Fifth sultan of the Ayyubids of Egypt. Eldest son of his predecessor, al-Adil. He made peace with Holy Roman Emperor Frederick II and kept friendly relations with the crusader states.
+
+@40087
+Maimonides (1135-1204)
+
+@40088
+343
+
+@40090
+Ibn Arabi (1165-1240)
+
+@40091
+344
+
+@40093
+al-Qifti (1172-1248)
+
+@40094
+345
+
+@40096
+al-Mansur (????-????)
+
+@40098
+Second sultan of the Almohads. He defeated the Christian kingdoms of Spain and brought his dynasty to its height. He also worked to advance culture.
+
+@40099
+Muhammad Nasir (????-????)
+
+@40100
+360
+
+@40102
+Ibn Jubayr (1145-1217)
+
+@40103
+361
+
+@40105
+Ibn Rushd (1126-1198)
+
+@40106
+362
+
+@40107
+One of the greatest philosophers and physicians of Islam. He served at the Almohad court. As a commentator on Aristotle, he deeply influenced later Western philosophy.
+
+@40108
+Abu Bakr (????-1198)
+
+@40109
+363
+
+@40111
+Ibn al-Awwam (????-????)
+
+@40112
+364
+
+@40113
+An Arab agronomist active in Spain. His Book of Agriculture, which explains how to cultivate fruit trees, is regarded as the finest work on farming of the Middle Ages.
+
+@40114
+Isaac II (1135-1204)
+
+@40115
+9
+
+@40117
+Alexios IV (????-1204)
+
+@40118
+376
+
+@40120
+Mankaphas (????-????)
+
+@40121
+377
+
+@40122
+A Byzantine noble. Based in Philadelphia, he broke from the empire and drove off Isaac II's imperial army.
+
+@40123
+Doukas (????-????)
+
+@40124
+378
+
+@40126
+Bela III (????-1196)
+
+@40127
+7
+
+@40129
+Andrew II (????-????)
+
+@40130
+379
+
+@40132
+Stefan Nemanja (1114-1200)
+
+@40133
+381
+
+@40134
+King of Serbia. He founded the Nemanjic dynasty and built the first unified state of the Serbs. He protected the Orthodox Church, put down heretics and built monasteries.
+
+@40135
+Alexander (1220-1263)
+
+@40136
+73
+
+@40137
+A national hero of medieval Russia. He took the throne of Novgorod at only sixteen. Skilled in tactics, he crushed the invading Swedish and German Knights armies one after another.
+
+@40138
+Dmitry (????-????)
+
+@40139
+400
+
+@40141
+Prince Igor (1150-1202)
+
+@40142
+401
+
+@40144
+Casimir II (????-????)
+
+@40145
+6
+
+@40147
+Leszek (????-????)
+
+@40148
+403
+

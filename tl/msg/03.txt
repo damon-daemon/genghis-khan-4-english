@@ -1,0 +1,459 @@
+@3000
+Choose a gift.
+
+@3001
+Decide the amount of the dowry.
+
+@3002
+Choose a cultural item to bring as a gift.
+
+@3003
+I brought {0210}{C190}, thinking it would serve your country well.
+
+@3003.1
+{0210}{C190} will surely help your nation to prosper.
+
+@3003.2
+I have brought {0210}{C190} from our land. Please accept it as a token of friendship between our nations.
+
+@3003.3
+As a sign of goodwill toward your country, I present {0210}{C190}.
+
+@3004
+As a token of friendship, I brought money: {0215}.
+
+@3004.1
+I hope this money, {0215}, will be of some use to your country.
+
+@3004.2
+As a sign of goodwill, please accept this money: {0215}.
+
+@3004.3
+I hope you will put this money, {0215}, to use for your country's prosperity.
+
+@3005
+What do you want in return for this gift?
+
+@3005.1
+A gift is always given in hope of something in return... There must be a catch.
+
+@3006
+Thank you for granting me an audience. I come from {02850201}. I am {021e0201}.
+
+@3006.1
+I come from the land of {02850201} to deliver a message from my {C12}.
+
+@3007
+It has been a long time, {C7}...\p Today I come as an envoy of {02850203}.
+
+@3007.1
+I am glad to see you well, {C7}... Today I come as an envoy of {02850203}.
+
+@3008
+{C7}... Forgive my sudden visit.
+
+@3008.1
+I come from {02850201}, I am {021e0201}. It is an honor to meet you, King of {02850202}.
+
+@3009
+An envoy from {02850202}... You have come a long way.
+
+@3009.1
+Welcome. Our {02850201} welcomes your visit.
+
+@3010
+Ah, {C7}... It has been a long time. I am glad to see you well.
+
+@3010.1
+Ah, {C7}... To think we would meet like this. I am glad to see you well.
+
+@3011
+The king himself has come? It must be no small matter. Let us hear what you have to say.
+
+@3011.1
+The king himself has come! All of {02850201} welcomes you.
+
+@3012
+Thank you for your wise decision. I am glad I came in person.
+
+@3012.1
+Ah, I knew it of you, {C7}. I thank you.
+
+@3012.2
+My heartfelt thanks. I will return at once to tell my lord.
+
+@3012.3
+Thank you for agreeing. My lord will be pleased to hear this.
+
+@3012.4
+Now I have fulfilled my duty as envoy without trouble. A weight is lifted from my shoulders.
+
+@3013
+To insult me like this... You will regret it later.
+
+@3013.1
+I never thought {C7} so hardheaded... There is no talking to you.
+
+@3013.2
+I was told that {02850202} is full of stubborn fools, and it was true.
+
+@3013.3
+I thought {C7} a more reasonable person, but I seem to have overrated you.
+
+@3013.4
+I never thought {C7} so foolish... There is no talking to you...
+
+@3014
+{021e0201} refused, and the diplomatic talks failed.
+
+@3015
+An alliance is already in effect. It is too soon to renew it.
+
+@3016
+My lord earnestly wishes to become your anda (sworn ally).
+
+@3016.1
+My lord wishes to ally with {C7}.
+
+@3016.2
+{02850201} wishes for an alliance with {02850202}.
+
+@3016.3
+My lord sincerely wishes for an alliance with {02850202}.
+
+@3017
+Born in the same age, let us become anda (sworn allies) and walk the same road together.
+
+@3017.1
+{C7}, for the further prosperity of our nations, let us become allies.
+
+@3017.2
+{C7}, let us join our strength and build an age of peace.
+
+@3018
+My lord hopes that the pact with {C7} will continue.
+
+@3018.1
+My lord hopes the pact with {C7} will last, he says.
+
+@3018.2
+We humbly ask your promise that our nations will remain allies forever.
+
+@3019
+My anda (sworn ally), let us go on joining our strength together.
+
+@3019.1
+Both our peoples wish to keep this alliance. Will you not give a favorable answer?
+
+@3019.2
+Continuing the alliance with us is not a bad thing for your country either, I think...
+
+@3020
+From now on we shall be anda (sworn allies) like no other.
+
+@3020.1
+Nothing could please me more. Let our nations respect each other and swear to help one another.
+
+@3020.2
+You came yourself, {C7}. I cannot refuse.
+
+@3020.3
+A wonderful idea. I ask the same of you. Let us cooperate together.
+
+@3020.4
+A rare offer indeed. This will make the bond between our nations stronger still.
+
+@3021
+Even with {C7} coming in person, we have no such intention.
+
+@3021.1
+Even at your request, {C7}, I cannot accept this.
+
+@3021.2
+I am sorry, but our country has its own ways. Please leave.
+
+@3021.3
+I cannot answer such a grave matter at once. Come again another day.
+
+@3022
+{02850201} and {02850202} have formed an alliance.
+
+@3023
+{02850201} has extended its alliance with {02850202}.
+
+@3024
+There is no princess who can be married off.
+
+@3025
+This ruler is a close relative, so a marriage is not possible.
+
+@3026
+Choose a princess to send as a bride.
+
+@3027
+For the sake of friendship between our nations, will you take my daughter {0210} as your consort?
+
+@3027.1
+My lord sincerely wishes to deepen friendship with your country. If you take Princess {0210} as your consort, the bond between our nations will grow stronger.
+
+@3028
+To strengthen the bond between our nations, will you take my daughter {0210} as your consort?
+
+@3028.1
+Please take Princess {0210} as the consort of {C7}... I have come to ask this on behalf of my lord.
+
+@3029
+I have heard of Princess {0210}. She is a fitting bride for our country.
+
+@3029.1
+Princess {0210}... They say she is beautiful and gentle. She will surely make a fine consort.
+
+@3030
+I am no longer of an age to take a wife... I am sorry, but I must decline.
+
+@3030.1
+It is not a bad offer, but my heart is not in it... Forgive me.
+
+@3030.2
+She is too good for me. Lady {0210} deserves a better match.
+
+@3031
+{0210}, you will become the consort of {02850202}.
+
+@3031.1
+{0210}, you are no longer my daughter... Become {021e0202}'s wife and consort of {02850202}.
+
+@3032
+Father, please do not worry about me... I will be all right.
+
+@3032.1
+Even if I go to {02850201}, I will still be your daughter, Father... Hic...
+
+@3032.2
+No! Why must I go to {02850201}, of all places?
+
+@3032.3
+I will be your daughter there too, and a consort worthy of that name.
+
+@3033
+The princess of {02850201} has married {021e0202} of {02850202}.
+
+@3034
+There is no alliance with this ruler.
+
+@3035
+This is sudden, but I must declare our pact with {02850202} void as of now.
+
+@3035.1
+My lord asks that you consider the pact with your country as never made.
+
+@3036
+You dare say that! We shall meet next on the battlefield.
+
+@3036.1
+It seems the people of {02850202} do not know the word honor.
+
+@3037
+Nothing lasts forever in this world... Farewell.
+
+@3037.1
+I will faithfully deliver the words of my lord. Now, farewell.
+
+@3038
+{02850201} has broken its alliance with {02850202}.
+
+@3039
+Some of your generals seem unhappy that the alliance was broken unilaterally.
+
+@3040
+Many of your generals seem disappointed by this sudden reversal.
+
+@3041
+Your country is like a candle in the wind... Why not stop this futile resistance and serve me?
+
+@3041.1
+{C7}, if you resist to the end, only women and children will suffer... Yield your country and no blood need be shed.
+
+@3041.2
+{C7}, your country no longer has any chance of victory. Accept reality, and a new path may open for you.
+
+@3041.3
+{C7}, have the courage to submit to {02850201}. Is it not a king's duty to avoid a barren war?
+
+@3042
+For the sake of the people, there is no choice... I will do as you say.
+
+@3042.1
+I will do as you say, {C4}. It may be the best course.
+
+@3042.2
+Further resistance is futile... I will follow this fate.
+
+@3042.3
+If I decide, the people will be saved... Very well, I understand.
+
+@3043
+The king himself came just to say this? Leave at once.
+
+@3043.1
+You dare speak such nonsense! Even for {C7}, I will show no mercy!
+
+@3043.2
+Do not talk nonsense! Someone, throw this man out!
+
+@3043.3
+I wondered what you would say, and it is such nonsense... Leave at once.
+
+@3043.4
+Hmph, I have listened in silence... Say more of this nonsense, and I cannot guarantee your life.
+
+@3044
+We cannot simply yield to {02850202}... We have our pride.
+
+@3044.1
+Whatever happens, we will not bow to {02850202}. Now, leave.
+
+@3045
+{02850202} has surrendered and come under the rule of {02850201}.
+
+@3046
+{C6}, threatening an ally has bred distrust in the nation... Not a few of your officers are voicing criticism.
+
+@3047
+Word is out that you threatened an ally. Distrust of national policy is growing among the generals.
+
+@3048
+You have no dowry or cultural items, so you cannot send tribute.
+
+@3049
+I brought {0210}{C190}, thinking it would be useful to your country.
+
+@3049.1
+My lord insists that {0210}{C190} be given to {C7}.
+
+@3049.2
+Please accept {0210}{C190} as a token of friendship between our nations.
+
+@3049.3
+{0210}{C190} is a gift from my lord to your country, given from the heart.
+
+@3050
+It is little, but I brought this money, {0215}, hoping it may be of use to your country.
+
+@3050.1
+I was entrusted with this money, {0215}, by my lord. Please accept it.
+
+@3050.2
+As a sign of friendship, we offer your country money in the amount of {0215}.
+
+@3050.3
+On behalf of my lord, I have come to deliver this money: {0215}.
+
+@3051
+You came all this way, and bring such gifts too. We thank you.
+
+@3051.1
+Well, well... A token of friendship from your country. We gratefully accept.
+
+@3051.2
+Thank you for your service. We shall surely get along with your country from now on.
+
+@3051.3
+We gratefully accept. This will make the bond between our nations even stronger.
+
+@3052
+I am sorry that you came all this way, but I cannot accept such a thing.
+
+@3052.1
+I cannot accept it. I would not want you holding it over me later.
+
+@3052.2
+I cannot accept what I have no reason to receive. I am sorry, but please take it back.
+
+@3052.3
+I do not know what you are plotting, but I will not fall for it. Now, take it and leave.
+
+@3053
+Friendship with {02850201} is now {0215}.
+
+@3054
+This country is not your ally, so you cannot promise to fight together.
+
+@3055
+You have promised to fight together with {02850201}. You cannot accept this offer.
+
+@3056
+You have already promised to fight together with {02850201}. There is no need to ask again.
+
+@3057
+You have already promised to fight together with {02850201}. There is no need to ask again.
+
+@3058
+Which country will you attack together?
+
+@3059
+To defeat {02850203}, would you lend us your troops? I ask this of you.
+
+@3059.1
+To defeat {02850203}, could we ask for the aid of your country?
+
+@3060
+We are anda (sworn allies). No need to hold back. We gladly lend our troops.
+
+@3060.1
+You ask me to my face, so I cannot refuse. I will help you.
+
+@3060.2
+We are anda (sworn allies). Tell them we gladly lend our troops.
+
+@3060.3
+Your country is a valued ally. Tell them we gladly lend our troops.
+
+@3061
+Even at the request of {C7}, I cannot do this... Forgive me.
+
+@3061.1
+Your country has its circumstances, and so does ours... Please leave for now.
+
+@3062
+{02850201} has promised to fight together in war.
+
+@3063
+The promise to fight together with {02850201} has been canceled.
+
+@3064
+{02850201} has canceled the promise to fight together.
+
+@3065
+What will you present to {021e0201}?
+
+@3066
+You have no cultural items to present.
+
+@3068
+You will present nothing. Is that all right?
+
+@3069
+{021e0201}, an envoy has come from {0258020b}.
+
+@3070
+Accept the alliance offer from {0258020b}?
+
+@3071
+Accept the gift of money, {0215}, from {0258020b}?
+
+@3072
+Accept the gift of {0210} from {0258020b}?
+
+@3073
+Surrender to {0258020b}?
+
+@3074
+Approve the offer from {0258020b} to fight together, with {0258020c} as the target?
+
+@3075
+Take Princess {0210} of {0258020b} as your consort?
+
+@3076
+You are at war with this country, so you cannot form an alliance or a marriage.
+

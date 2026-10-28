@@ -1,0 +1,423 @@
+@11000
+{0258020b} has conquered the world!
+
+@11001
+My son {021e0202}, you have achieved your dream of conquering the world. We all congratulate you from our hearts.
+
+@11001.1
+My grandson {021e0202}, you have achieved your dream of conquering the world. We all congratulate you from the bottom of our hearts.
+
+@11001.2
+My brother {021e0202}, you have achieved your dream of conquering the world. We all congratulate you from the bottom of our hearts.
+
+@11001.3
+Lord {021e0202}, we all offer our heartfelt congratulations on achieving your dream of conquering the world.
+
+@11001.4
+Lord {021e0202}, we all offer our heartfelt congratulations on achieving your dream of conquering the world.
+
+@11001.5
+{C7}, we all offer our heartfelt congratulations on achieving your dream of conquering the world.
+
+@11002
+Thank you. I never dreamed that a small island nation of the eastern lands would one day unite the world. Seeing your faces here now, I can truly feel it. You have my thanks.
+
+@11002.1
+Thank you, my friends. Across ten thousand miles of western campaigns, through a thousand years... Now the long-held dream is fulfilled. I want to share this joy with you all.
+
+@11002.2
+Thank you. Making our empire's might known to the world is my greatest joy. I thank all my generals for their labors.
+
+@11002.3
+Thank you, my friends. That I sit on this throne is thanks to your devotion alone. I am grateful.
+
+@11002.4
+Thank you, my friends. The long, bitter war is over. Today we won the Jihad and showed the world Islam's justice.
+
+@11002.5
+Thank you. That our nation now reigns over the world is due to the loyalty and support of you, my lords. I intend to repay your labors with generous rewards.
+
+@11002.6
+Thank you. This too is owed to you who have supported me. To repay your merit, I shall bestow honored titles upon you.
+
+@11003
+Thanks? What are you saying? Serving one's lord is a vassal's duty. Compared to your hardships, this is nothing.
+
+@11003.1
+Thanks? What are you saying? Serving one's lord is a vassal's duty. Compared to your hardships, this is nothing.
+
+@11003.2
+Thanks? What are you saying? Serving one's lord is a vassal's duty. Compared to your hardships, this is nothing.
+
+@11003.3
+Thanks? What are you saying? Serving one's lord is only a vassal's duty. Compared to Lord {021e0202}'s hardships, this is more than I deserve.
+
+@11003.4
+Thanks? What are you saying? Serving one's lord is only a vassal's duty. Compared to Lord {021e0202}'s hardships, this is more than I deserve.
+
+@11003.5
+Thanks? What are you saying? Serving one's lord is only a vassal's duty. Compared to {C7}'s hardships, this is more than I deserve.
+
+@11003.6
+I am glad indeed to think I helped even a little to realize my son's dream...
+
+@11003.7
+I am glad indeed to think I helped even a little to realize my grandson's dream...
+
+@11003.8
+I am glad indeed to think I helped even a little to realize my brother's dream...
+
+@11003.9
+I am glad indeed to think I helped even a little to realize Lord {021e0202}'s dream...
+
+@11003.10
+I am glad indeed to think I helped even a little to realize Lord {021e0202}'s dream...
+
+@11003.11
+I am glad indeed to think I helped even a little to realize {C6}'s dream...
+
+@11003.12
+Gracious words... This is all the work of the Great Khan's glory.
+
+@11003.13
+Gracious words... This is all the work of the Great Khan's glory.
+
+@11003.14
+Gracious words... This is all the work of the Great Khan's glory.
+
+@11003.15
+Gracious words... I believe this is all the work of the Great Khan's glory.
+
+@11003.16
+Thanks? What are you saying? Serving one's lord is a vassal's duty. Compared to your hardships, this is nothing.
+
+@11003.17
+Thanks? What are you saying? Serving one's lord is a vassal's duty. Compared to your hardships, this is nothing.
+
+@11003.18
+Thanks? What are you saying? Serving one's lord is a vassal's duty. Compared to your hardships, this is nothing.
+
+@11003.19
+Not at all. Our labors hardly merit such praise.
+
+@11003.20
+You are the pride of Islam. All the people will sing your praises.
+
+@11003.21
+You are the pride of Islam. All the people will sing your praises.
+
+@11003.22
+You are the pride of Islam. All the people will sing your praises.
+
+@11003.23
+Truly, Your Majesty is the pride of Islam. All the people will sing your praises.
+
+@11003.24
+Gracious words. It was worth believing in my son.
+
+@11003.25
+Gracious words. It was worth believing in my grandson.
+
+@11003.26
+Gracious words. It was worth believing in my brother.
+
+@11003.27
+Gracious words. It was worth believing in Lord {021e0202} and following him.
+
+@11003.28
+Gracious words. It was worth believing in Lord {021e0202} and following him.
+
+@11003.29
+Gracious words. It was worth believing in {C7} and following.
+
+@11003.30
+Thank you. We all pledge our unchanging loyalty to my son {021e0202} from now on as well.
+
+@11003.31
+Thank you. We all pledge our unchanging loyalty to my grandson {021e0202} from now on as well.
+
+@11003.32
+Thank you. We all pledge our unchanging loyalty to my brother {021e0202} from now on as well.
+
+@11003.33
+Thank you. We all pledge our unchanging loyalty to Your Majesty from now on as well.
+
+@11004
+Your deeds rival those of Lord Hachimantaro Yoshiie. They will be told to future ages!
+
+@11004.1
+Your deeds rival those of Lord Hachimantaro Yoshiie. They will be told to future ages!
+
+@11004.2
+Your deeds rival those of Lord Hachimantaro Yoshiie. They will be told to future ages!
+
+@11004.3
+Your deeds rival those of Lord Hachimantaro Yoshiie. They shall be told to future ages!
+
+@11004.4
+A feat that shines above all of the past three thousand years of history. Our predecessor would be pleased.
+
+@11004.5
+A feat that shines above all of the past three thousand years of history. Our ancestors would surely be pleased.
+
+@11004.6
+A feat that shines above all of the past three thousand years of history. Father would surely be pleased.
+
+@11004.7
+A feat that shines above all of the past three thousand years of history. Your predecessor would surely be pleased.
+
+@11004.8
+You have done what no one has ever done before. None but you deserves the name of hero.
+
+@11004.9
+You have done what no one has ever done before. None but you deserves the name of hero.
+
+@11004.10
+You have done what no one has ever done before. None but you deserves the name of hero.
+
+@11004.11
+You have done what no one has ever done before. I believe my lord alone deserves the name of hero.
+
+@11004.12
+Now you are king of the world. Your throne too shall become even grander.
+
+@11004.13
+Now you are king of the world. Your throne too shall become even grander.
+
+@11004.14
+Now you are king of the world. Your throne too shall become even grander.
+
+@11004.15
+Now Your Majesty is king of the world. Your throne too shall become even grander.
+
+@11004.16
+As founder of a world empire, the name {021e0202} will be engraved forever in the history of Islam.
+
+@11004.17
+As founder of a world empire, the name {021e0202} will be engraved forever in the history of Islam.
+
+@11004.18
+As founder of a world empire, the name {021e0202} will be engraved forever in the history of Islam.
+
+@11004.19
+As founder of a world empire, the name of Lord {021e0202} will be engraved forever in the history of Islam.
+
+@11004.20
+As founder of a world empire, the name of Lord {021e0202} will be engraved forever in the history of Islam.
+
+@11004.21
+As founder of a world empire, the name of {C7} will be engraved forever in the history of Islam.
+
+@11004.22
+It is we who should be thankful. Just taking part in the world's unification, a feat no hero achieved, is joy enough.
+
+@11004.23
+It is we who should be thankful. Just taking part in the world's unification, a feat no hero achieved, is joy enough.
+
+@11004.24
+It is we who should be thankful. Just taking part in the world's unification, a feat no hero achieved, is joy enough.
+
+@11004.25
+It is we who should be thankful. Just taking part in the world's unification, a feat no hero achieved, is joy enough.
+
+@11004.26
+Ah, what a happy day this is! We must give thanks to God.
+
+@11004.27
+Ah, what a happy day this is! We must give thanks to God.
+
+@11004.28
+Ah, what a happy day this is! We must give thanks to God.
+
+@11004.29
+Ah, what a happy day this is! We must give thanks to God.
+
+@11005
+I, too, am proud of you as your father.
+
+@11005.1
+I, too, am proud of you as your grandfather.
+
+@11005.2
+I, too, am proud of you as your brother.
+
+@11005.3
+I am proud, too, to have served Lord {021e0202}.
+
+@11005.4
+I am proud, too, to have served Lord {021e0202}.
+
+@11005.5
+I am proud, too, to have served {C7}.
+
+@11005.6
+Hearing the people hail you as the invincible Great Emperor, I weep for joy. This is what we long awaited.
+
+@11005.7
+Hearing the people hail you as the invincible Great Emperor, I weep for joy. This is what we long awaited.
+
+@11005.8
+Hearing the people hail you as the invincible Great Emperor, I weep for joy. This is what we long awaited.
+
+@11005.9
+The people hail Your Majesty as the invincible Great Emperor {021e0202}. I weep for joy. We long awaited this.
+
+@11005.10
+{021e0201} is proud to have the emperor of the world's greatest empire as a son.
+
+@11005.11
+{021e0201} is proud to have the emperor of the world's greatest empire as a grandson.
+
+@11005.12
+{021e0201} is proud to have the emperor of the world's greatest empire as a brother.
+
+@11005.13
+{021e0201} is proud to have served Lord {021e0202}, builder of the world's greatest empire.
+
+@11005.14
+{021e0201} is proud to have served Lord {021e0202}, builder of the world's greatest empire.
+
+@11005.15
+{021e0201} is proud to have served {C7}, builder of the world's greatest empire.
+
+@11005.16
+It seems the people revere and fear you as an avatar of Shiva.
+
+@11005.17
+It seems the people revere and fear you as an avatar of Shiva.
+
+@11005.18
+It seems the people revere and fear you as an avatar of Shiva.
+
+@11005.19
+The people revere and fear Your Majesty as an avatar of Shiva.
+
+@11005.20
+I am greatly delighted to have the Great Sultan {021e0202} as my son.
+
+@11005.21
+I am greatly delighted to have the Great Sultan {021e0202} as my grandson.
+
+@11005.22
+I am greatly delighted to have the Great Sultan {021e0202} as my brother.
+
+@11005.23
+I am greatly delighted to have served the Great Sultan {021e0202}.
+
+@11005.24
+Even Alexander the Great only conquered Persia. In comparison you have conquered the whole world. Truly a great hero.
+
+@11005.25
+Even Alexander the Great only conquered Persia. In comparison you have conquered the whole world. Truly a great hero.
+
+@11005.26
+Even Alexander the Great only conquered Persia. In comparison you have conquered the whole world. Truly a great hero.
+
+@11005.27
+Even Alexander the Great only conquered Persia. Lord {021e0202} has conquered the whole world. Truly a great hero.
+
+@11005.28
+Even Alexander the Great only conquered Persia. Lord {021e0202} has conquered the whole world. Truly a great hero.
+
+@11005.29
+Even Alexander the Great only conquered Persia. {C7} has conquered the whole world. Truly a great hero.
+
+@11005.30
+Your father believed it. You were the man born to rule the world.
+
+@11005.31
+Your grandfather believed it. You were the man born to rule the world.
+
+@11005.32
+Your brother believed it. You were the man born to rule the world.
+
+@11005.33
+We believed that Your Majesty was the one born to rule the world.
+
+@11006
+Being your wife is the joy of my life.
+
+@11006.1
+Your Majesty is now king of the world. You will be busier from now on. Take care of your health, and show your glory to the world for many years to come.
+
+@11006.2
+Let me thank you as well... Besides this magnificent home, I have been blessed with children. I am a fortunate woman.
+
+@11006.3
+My lord is a man among men! I have fallen in love with you all over again.
+
+@11006.4
+As king of the world, your harem will grow larger and you will take more consorts. I think I shall be jealous.
+
+@11006.5
+Your Majesty is king of the world. It still feels like a dream...
+
+@11006.6
+I thank you all as well. You helped His Majesty well and made his dream come true.
+
+@11007
+What kind words. How much your encouragement has saved me! You are my guardian saint!
+
+@11007.1
+Do not worry. My empire is mighty. Search the whole world and you will not find a fool who would defy {02850201}.
+
+@11007.2
+{C173} Compared with my poor life in Mongolia, palace life is a dream. Now I even call myself "We". How embarrassing.
+
+@11007.3
+Is that so? You love me all over again? I look forward to tonight's feast... {C173}
+
+@11007.4
+{C173} Do not worry. You are the only one I love.
+
+@11007.5
+Yes, you have endured much for me. In gratitude, I shall give you the finest dress and jewels in the world.
+
+@11007.6
+And you are an irreplaceable woman to me. Yes, truly my goddess.
+
+@11008
+Much remains to be said, but the fine food will go cold. Let us talk later and ask for the feast's opening words.
+
+@11008.1
+Much remains to be said, but the fine food will go cold. Let us talk later and ask for the feast's opening words.
+
+@11008.2
+Much remains to be said, but the fine food will go cold. Let us talk later and ask for the feast's opening words.
+
+@11008.3
+Much remains to be said, but the fine food will go cold. Let us talk later, and please open the feast.
+
+@11008.4
+Much remains to be said, but the fine food will go cold. First, let us ask for the toast.
+
+@11008.5
+Much remains to be said, but the fine food will go cold. First, please give the toast.
+
+@11009
+Well, you have all borne long years of war. Tonight we set ceremony aside. Enjoy yourselves! A toast!
+
+@11009.1
+Oh, so it is. To celebrate the day I became emperor of the world, I name this day National Day... Everyone, a toast!
+
+@11009.2
+Oh, is that so? Then let us thank the eternal Heaven, Mongke Tengri, and pray for our empire's prosperity. A toast!
+
+@11009.3
+Oh, so it is. After this, moments like this, sitting calmly to raise cups together, will be rare. But I shall never forget this joy. Everyone, a toast!
+
+@11009.4
+Yes, so it is. Then, proud warriors and beautiful consorts, let us celebrate together. Glory to our empire!
+
+@11009.5
+Oh, is that so? You have all done well. All our labors are rewarded today, and from tomorrow our nation's bright future begins. In celebration of our glory, a toast!
+
+@11009.6
+Yes. That we are here today is by God's guidance. I thank God and pray blessings upon you all. A toast!
+
+@11010
+Glory!
+
+@11010.1
+Cheers!
+

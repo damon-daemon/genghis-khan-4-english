@@ -1,0 +1,288 @@
+@23000
+Is this all right?
+
+@23001
+No ruler has been selected. Start the auto demo anyway?
+
+@23002
+...The bloodline of {021e0201} has ended, and {02850201} enters a new age.\p- GAME OVER -
+
+@23003
+Why... why is it that wretched {C8}, and not me, who succeeds him?! I will not accept it! I will not!!
+
+@23003.1
+Preposterous! I will not take orders from some {C8}!
+
+@23003.2
+I will never stand beneath you! I will not accept this!!
+
+@23004
+{021e0201} has declared independence and become the ruler of {02850201}.
+
+@23005
+Choose a successor.
+
+@23006
+Oh, how tragic, {C7}... To die with your ambitions unfulfilled, you must have so many regrets. Hic... hic...
+
+@23006.1
+Hic... hic... {C7}... I will never forget the kindness you showed me. Please rest in peace...
+
+@23007
+Lord
+
+@23007.1
+Emperor
+
+@23007.2
+Khan
+
+@23007.3
+Sultan
+
+@23007.4
+King
+
+@23008
+I am {021e0201}, the new {C23007} of {02850201}. I will do my utmost to be worthy of my predecessor.
+
+@23008.1
+In place of the late {021e0202}, I, {021e0201}, am your {C23007} from today. I count on you all.
+
+@23008.2
+I am {021e0201}, the new {C23007}.\pWhatever my predecessor was, I will follow the path I believe in. See that you all do the same.
+
+@23009
+To think my husband has become {C23007}... It is like a dream.
+
+@23009.1
+{021e0201}, I will follow you for the rest of my life.
+
+@23009.2
+How I have waited for this day... My heart is overflowing with joy.
+
+@23009.3
+Please become a wise ruler, one who is a match for your predecessor.
+
+@23009.4
+Busy days lie ahead.\pPlease, take care of your health above all.
+
+@23009.5
+Even when you are a great man, please do not abandon me.
+
+@23009.6
+You have become a splendid {C23007}... I am so happy.
+
+@23009.7
+The future of this country rests upon your shoulders.
+
+@23009.8
+Now I must hurry and bear you an heir, mustn't I?
+
+@23010
+Ah, you already have the bearing of a ruler.
+
+@23010.1
+Lord {021e0202}, I shall always remain your loyal retainer.
+
+@23010.2
+I am overcome with emotion.
+
+@23010.3
+With bearing worthy of your predecessor, you will make a fine ruler.
+
+@23010.4
+Things will get busy from here.
+
+@23010.5
+What a magnificent sight... I am overjoyed.
+
+@23010.6
+Please carry on your predecessor's dream with distinction.
+
+@23010.7
+The people revere Lord {021e0202} as well.
+
+@23010.8
+Now, you must produce an heir as soon as possible.
+
+@23010.9
+With your arrival, the world will change greatly.
+
+@23010.10
+Lord {021e0202}, please be a fine ruler, equal to your predecessor!
+
+@23010.11
+All of us, your retainers, will protect Lord {021e0202}.
+
+@23010.12
+All of us, your retainers, offer you our heartfelt congratulations.
+
+@23010.13
+It is vital to overcome your predecessor's death and build a new age.
+
+@23010.14
+From today, a new age begins for {02850202}!
+
+@23011
+{021e0201} has succeeded and become the new ruler of {02850201}.
+
+@23012
+{0210} has fallen.
+
+@23012.1
+The name {0210} has vanished from the world.
+
+@23012.2
+{0210} has closed the book on its history.
+
+@23013
+One of the consorts in {026b0206} has joined your harem.
+
+@23013.1
+{0215} consorts in {026b0206} have joined your harem.
+
+@23013.2
+One of the consorts in {026b0206} has joined your ordu.
+
+@23013.3
+{0215} consorts in {026b0206} have joined your ordu.
+
+@23013.4
+One of the consorts in {026b0206} has joined your harem.
+
+@23013.5
+{0215} consorts in {026b0206} have joined your harem.
+
+@23013.6
+One of the consorts in {026b0206} has joined your household as a concubine.
+
+@23013.7
+{0215} consorts in {026b0206} have joined your household as concubines.
+
+@23014
+Acquired {0210}{C190}.
+
+@23015
+Now, what name would suit this capital...
+
+@23015.1
+What shall I name my capital...
+
+@23015.2
+I would like a fitting name for my capital...
+
+@23016
+{C6}, what will you name this capital?
+
+@23017
+{0210}, is it? That will do.
+
+@23018
+Do you not think the name {0210} would be most fitting?
+
+@23018.1
+I recommend the name {0210}...
+
+@23018.2
+How about the name {0210}...
+
+@23019
+I cannot think of anything. Please decide for yourself.
+
+@23020
+A city with that name already exists in your realm. Please choose another name.
+
+@23021
+A city named {0210} already exists. Please choose another name.
+
+@23022
+A city with that name already exists in your realm. Please choose another name.
+
+@23023
+A city named {0210} already exists. Please choose another name.
+
+@23025
+{C6}, you must decide on a name for the city.
+
+@23026
+{021e0201}, please bestow a name fit for a warrior.
+
+@23026.1
+{021e0201}, please bestow a name fit for a noble.
+
+@23026.2
+{021e0201}, please bestow a good name.
+
+@23027
+{021e0201}, please bestow a gallant name.
+
+@23027.1
+{021e0201}, please bestow a beautiful name.
+
+@23027.2
+{021e0201}, please bestow a good name.
+
+@23028
+How about the name {0210}?
+
+@23028.1
+I rather like the name {0210}...
+
+@23029
+Oh, how irresponsible! You are the father, so you must decide!
+
+@23030
+A child with that name already exists. Please choose another name.
+
+@23031
+That is your own name. Please choose another name.
+
+@23032
+One of your retainers has that name. Please choose another name.
+
+@23033
+Someone in another country has that name. Please choose another name.
+
+@23034
+A child with that name already exists. Please choose another name.
+
+@23035
+That is the name of a consort. Please choose another name.
+
+@23036
+The wife of a retainer has that name. Please choose another name.
+
+@23037
+A daughter in another country has that name. Please choose another name.
+
+@23038
+A consort with that name already exists. Please choose another name.
+
+@23039
+{021e0201}, you must decide on the child's name.
+
+@23040
+The child has been named {0210}.
+
+@23041
+Watch over the future of the world?
+
+@23042
+No hero arose to conquer the world... All the kings vanished, and an age of vacant thrones began.\p- GAME OVER -
+
+@23043
+At the end of the wars, a new order was built by the people's power, and the age of absolute monarchy ended.\p- GAME OVER -
+
+@23044
+{026b0206} has developed {0211} culture and can now produce {0210}.
+
+@23045
+Which culture will you have {0210} learn?
+
+@23046
+{0210} will learn {0211} culture.
+
+@23047
+Display the tutorial explaining how to play?
+

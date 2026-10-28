@@ -1,0 +1,99 @@
+@24000
+Farming culture rises, and autumn food harvests increase.
+
+@24001
+Herding culture rises, and autumn food harvests increase.
+
+@24002
+Weapons culture rises, leading to the development of new unit types.
+
+@24003
+Tactics culture rises, and elite troops can be raised more cheaply.
+
+@24004
+Building culture rises, and facilities take less time to build.
+
+@24005
+Scholarly culture rises, and talented men gather more easily.
+
+@24006
+Arts culture rises, and generals' loyalty drops less easily.
+
+@24007
+Medical culture rises, and wounded soldiers recover faster.
+
+@24008
+Crafts culture rises, and the harvest of local specialties increases.
+
+@24009
+Gold income increases in spring and autumn.
+
+@24010
+The number of soldiers you can conscript increases.
+
+@24011
+Seafaring culture rises, and the rate of accidents at sea falls.
+
+@24012
+A unit that attacks cities and armies.
+
+@24013
+A unit that supplies cities and armies.
+
+@24014
+A unit that builds facilities and roads, and expands cities.
+
+@24015
+A unit that serves as a diplomatic envoy and forges alliances.
+
+@24016
+A unit that acts as a spy and incites enemy defections.
+
+@24017
+A unit that conducts trade and spreads culture.
+
+@24018
+A unit that moves a general over a long distance.
+
+@24019
+A unit that founds a new city.
+
+@24020
+Release a general who is already part of a unit.
+
+@24021
+Disband a unit that has already been formed.
+
+@24022
+Understood.
+
+@24022.1
+Leave it to me.
+
+@24022.2
+Understood.
+
+@24023
+Nothing is impossible for me.
+
+@24023.1
+I will see it through.
+
+@24023.2
+It will surely go well.
+
+@24024
+Understood.
+
+@24024.1
+Understood.
+
+@24025
+Then I will move out.
+
+@24026
+No target has been selected yet.
+
+@24027
+You cannot target yourself.
+

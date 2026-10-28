@@ -1,0 +1,726 @@
+@32001.1
+{021e0201}
+
+@32003
+They call me the Majestic King, and I hear the kings around me admire my statecraft.
+
+@32003.1
+If I did not tend to affairs of state, this country would fall apart. Talent is a heavy burden.
+
+@32003.2
+Historians of later ages will surely praise my reign as good government.
+
+@32003.3
+Government makes all things possible. I want to build a world where all people live in happiness.
+
+@32003.4
+Last night I sat up till dawn with the scholars, talking about politics.
+
+@32003.5
+With a wise ruler like me governing, the people of this land are fortunate indeed. Hahaha...
+
+@32003.6
+To ease the lives of my people, I work on state affairs without sleep or rest.
+
+@32004
+On the island I reached in my last expedition, talking animals lived there and entertained me. My fame rings across the world, after all.
+
+@32004.1
+When I landed on an island during my expedition, the natives took one look at me and offered tribute. My fame rings across the world, after all.
+
+@32004.2
+In my last expedition I was wounded and collapsed in a field. Animals appeared from nowhere and nursed me. My fame rings across the world, after all.
+
+@32004.3
+Last night a god appeared at my bedside and commanded me to rule the world. So it is as I thought: I am the one fit to be master of the world.
+
+@32005
+How splendid you look, {021e0201}, as you tend to affairs of state.
+
+@32005.1
+A man hard at work governing is so splendid... I cannot help but respect him.
+
+@32005.2
+I always look forward to your stories, {021e0201}. Please tell me more.
+
+@32006
+We meet so seldom, and you only tell dull stories. I am bored.
+
+@32006.1
+Your talk is too difficult for me. I would rather hear something more fun.
+
+@32006.2
+I have no interest in talk of politics.
+
+@32007
+Boasting without the ability to back it up is unpleasant to hear.
+
+@32007.1
+{C32001}, you had better leave the government to your vassals.
+
+@32007.2
+It would be better for the country if {C32001} did not meddle in government.
+
+@32008
+Now and then, it is pleasant to hear you talk of politics.
+
+@32008.1
+You are poor at politics, yet you strain yourself to win my attention... How endearing you are, {021e0201}.
+
+@32009
+Repeating the same topic again and again is only boring.
+
+@32010
+Hehehe... Oh, {021e0201}, you are always joking... But I enjoyed it.
+
+@32011
+Something smells fishy. {021e0201}, you are lying, aren't you?
+
+@32011.1
+{021e0201}... that story was so silly, I am appalled.
+
+@32012
+No enemy can stand before my army now. Later historians will praise me as a hero without equal.
+
+@32012.1
+My valor and glory reach far foreign lands.\pThey say the people of the western lands call me the Envoy of Tartarus and fear me.
+
+@32012.2
+I hear even the heathens are in awe of my valor and benevolence.
+
+@32012.3
+My valor on the battlefield is known even in distant lands.
+
+@32012.4
+Enemy generals call me the Lionheart.\pThey flee at once if they meet me on the field.
+
+@32012.5
+No one in the land handles the reins of a horse better than I. I have no equal.
+
+@32012.6
+My skill with the bow is unmatched under heaven. I have no equal.
+
+@32012.7
+I charge alone into the enemy ranks and mow down the soldiers left and right...
+
+@32012.8
+I fight on the battlefield like {C32013}. How I wish you could see me like that.
+
+@32012.9
+My demon-like valor is feared by friend and foe alike.
+
+@32012.10
+I will take {0288021a} with me to the next battle. I will show her how I fight.
+
+@32012.11
+I run circles around enemy generals with wits like {C32014}. How I wish you could see me command.
+
+@32012.12
+I have yet to taste defeat. It is troublesome, with no worthy enemy to be found.
+
+@32013
+Asura
+
+@32013.1
+a wolf
+
+@32013.2
+a demon
+
+@32013.3
+a lion
+
+@32013.4
+Hercules
+
+@32013.5
+Lancelot
+
+@32013.6
+Caesar
+
+@32013.7
+a god of war
+
+@32014
+Zhuge Liang
+
+@32014.1
+the Sphinx
+
+@32014.2
+an immortal sage
+
+@32015
+In my last battle I slew a giant serpent with eight heads and eight tails. Bah, it was easy.
+
+@32015.1
+In my last battle I struck down a monster with a lion's head and an eagle's wings. Bah, it was nothing.
+
+@32015.2
+In my last battle I slew a monstrous rooster that turns men to stone. Bah, it was easy.
+
+@32015.3
+In my last battle I cut down a black-hooded demon who wielded sorcery. Even I was in danger that time.
+
+@32015.4
+While traveling the lands in disguise, I slew a dragon that tormented a village. It is but one of my many tales of valor.
+
+@32016
+I am glad to hear it. I look forward so much to your tales of glory on the battlefield.
+
+@32016.1
+Seeing you so brave, {021e0201}, I think I am falling in love with you all over again...
+
+@32016.2
+Hearing of your valor, {021e0201}, is my only pleasure.
+
+@32017
+We meet so seldom, and you only tell dull stories. I am bored.
+
+@32017.1
+I do not much like savage tales.
+
+@32017.2
+I have no interest in talk of war.
+
+@32018
+Boasting without the ability to back it up is unpleasant to hear.
+
+@32018.1
+If {C32001} went to the battlefield, you would only get in everyone's way.
+
+@32018.2
+{C32001}, you had better leave war to your vassals.
+
+@32019
+Now and then, it is pleasant to hear of your valor, {021e0201}.
+
+@32019.1
+You are poor at war, yet you strain yourself to win my attention... How endearing you are, {021e0201}.
+
+@32020
+Repeating the same topic again and again is boring.
+
+@32021
+Hehehe... Oh, {021e0201}, you are always joking... But I enjoyed it.
+
+@32022
+Something smells fishy. {021e0201}, you are lying, aren't you?
+
+@32022.1
+{021e0201}... that story was so silly, I am appalled.
+
+@32023
+In my last battle I slew a giant serpent with eight heads and eight tails. Bah, it was nothing.
+
+@32023.1
+When young, I went with my companions to a place called Tenjiku in India to train. Ah, that was a hard trip.
+
+@32023.2
+In my last battle I struck down a monster with a lion's head and an eagle's wings. Bah, it was nothing.
+
+@32023.3
+In my last battle I slew a monstrous rooster that turns men to stone. Bah, it was nothing.
+
+@32023.4
+On the island I reached in my last expedition, fairies in pointed hats lived there and entertained me.
+
+@32023.5
+In my last battle I cut down a black-hooded demon who wielded sorcery. Even I was in danger that time.
+
+@32023.6
+On a pilgrimage in disguise, I slew a dragon that tormented a village. It is but one of my many tales of valor.
+
+@32023.7
+On the island I reached in my last expedition, talking animals lived there and entertained me. My renown rings across the world, after all.
+
+@32023.8
+On the island I reached in my last expedition, headhunters lived there, but they took one look at me and offered tribute. My renown rings across the world, after all.
+
+@32023.9
+In my last expedition I was wounded and collapsed in a field, and animals nursed me. Perhaps that is my virtue's fruit.
+
+@32023.10
+Last night a god appeared at my bedside and commanded me to rule the world. So it is as I thought: I am the one fit to be master of the world.
+
+@32024
+You tell such fun stories to me, who am always shut up in the castle. I am grateful.
+
+@32024.1
+I always look forward to your strange tales, {021e0201}.
+
+@32024.2
+What a fascinating story. I am impressed.
+
+@32025
+Something smells fishy. {021e0201}, you are lying, aren't you?
+
+@32025.1
+{021e0201}... that story was so silly, I am appalled.
+
+@32026
+Hehehe... Your tall tales are fun now and then, {021e0201}.
+
+@32027
+Repeating the same topic again and again is boring.
+
+@32028
+Even a thousand minstrels singing your praises would fall short of your beauty.
+
+@32028.1
+O {0288021a}... why must you be {0288021a}?
+
+@32028.2
+O {0288021a}... my beloved {0288021a}... Je t'aime!
+
+@32028.3
+If miracles exist in this world, your beauty is surely one.
+
+@32028.4
+O {0288021a}...\pEven {C32029} would be jealous of your beauty.
+
+@32028.5
+Looking into your eyes, I feel I could be drawn in.\pThe flame in my heart can no longer be quenched.
+
+@32028.6
+The flame of my passion for you will burn my body to ashes...
+
+@32028.7
+O {0288021a}...\pTonight, your beauty drives me quite out of my mind.
+
+@32028.8
+My queen... Not a single day has passed that I did not think of you.
+
+@32028.9
+Even on the battlefield, I never forgot you for a single day.
+
+@32028.10
+{0288021a} is beautiful. Though my country may fall, I will protect you to the end.
+
+@32028.11
+{0288021a} is beautiful. No masterwork by the finest artisan could match your beauty.
+
+@32028.12
+More than countless victories, having you as my queen is my joy.
+
+@32029
+Ono no Komachi
+
+@32029.1
+Yang Guifei
+
+@32029.2
+Cleopatra
+
+@32029.3
+Aphrodite
+
+@32029.4
+Venus
+
+@32029.5
+a goddess
+
+@32030
+Ah, {021e0201}... I, too... I wished so much to see you.
+
+@32030.1
+{C32001}, you are so smooth with words... But I am glad of your feelings.
+
+@32031
+You say the same words to other women, don't you?
+
+@32031.1
+Empty flattery like that will not move a woman's heart.
+
+@32031.2
+There is no heart in your sweet words, {021e0201}.
+
+@32031.3
+{021e0201}... have you no better words of courtship?
+
+@32032
+Every time you speak your kind words of affection, {021e0201}, they make me happy.
+
+@32033
+All I ask is that you stay well.\pIf anything should happen to you, I could not go on living.
+
+@32033.1
+{C32001}, please take me with you on every campaign. Parted from you, I fear I would go mad.
+
+@32033.2
+The flowers bloomed today, so I amused myself with a poetry contest. I am rather good at it, you know.
+
+@32033.3
+I have grown fond of poetry lately. Every poem I write is of you... Ah, I am too shy to recite them aloud.
+
+@32033.4
+I have grown fond of chess lately. Tonight, your heart will be in checkmate.
+
+@32033.5
+I am reading a biography of Charlemagne now.\pPerhaps you could become a second Charlemagne, {C32001}. Ah, how re-li-a-ble you are.
+
+@32033.6
+Christmas is almost here. I would love to celebrate it with just the two of us. And do not forget my present.
+
+@32033.7
+Oh, you want to hear about me? I have grown fond of literature lately. Next time I'll tell you of the books I read.
+
+@32033.8
+Oh, you want to hear about me? I have been studying medicine lately. If you fall ill, please let me nurse you.
+
+@32033.9
+Oh, you want to hear about me? I have taken an interest in painting lately. One day I shall paint your portrait.
+
+@32033.10
+{021e0201}, I enjoyed shopping in town today. Next time I would like to go out with you, {C32001}, just the two of us.
+
+@32033.11
+{021e0201}, today I went into town and watched the people live. They live in peace by your power, {C32001}.
+
+@32033.12
+{021e0201}... I have been growing flowers in the castle garden lately. When they bloom, I want you to be the first to see them, {C32001}.
+
+@32033.13
+{021e0201}, have some more. Here, say "ah"... Hehe. You nibbled my finger... What a glutton you are, {C32001}.
+
+@32033.14
+Even a queen has her troubles.\pBut you listened to me, {C32001}, and at last I feel well again.
+
+@32034
+My stories cannot be interesting.\pI wanted to hear of your deeds on the battlefield.
+
+@32034.1
+My stories cannot be interesting.\pI wanted to hear from you about the building of the towns.
+
+@32034.2
+I want to hear your stories... And you tell me to speak first? How cruel you are.
+
+@32034.3
+You always just pretend to listen.\pA woman is always waiting for one word: "I love you."
+
+@32034.4
+{021e0201}, how cold you are.\pCan it be that you have nothing to say to the likes of me?
+
+@32034.5
+I like a man who tells a good story.\pOne who could make me laugh when I am bored.
+
+@32034.6
+I was looking forward to your stories today, {C32001}... Do you find me tiresome company? How sad.
+
+@32035
+Hearing your voice is my greatest comfort.
+
+@32035.1
+How peaceful it would be to fall asleep to the sound of your voice.
+
+@32035.2
+{0288021a}, your voice is sweeter and more beautiful than any music.
+
+@32035.3
+Listening to you, I almost forget the passing of time.
+
+@32036
+Forgive me. When I think of the future of {02850201}, I cannot speak of anything cheerful.
+
+@32036.1
+Forgive me. I am not good with new topics of conversation.
+
+@32037
+A spy named {021e0202} from {02850202} seems to have infiltrated {02860201}.
+
+@32038
+{021e0202} of {02860202} seems to be discontent about something. Perhaps you should find a chance to talk with him.
+
+@32038.1
+The conduct of {021e0202} of {02860202} seems suspicious.
+
+@32039
+The lord of {02860202}, {021e0201}, is\p{C32040}. If you meet him on the battlefield, be careful.
+
+@32039.1
+They say a clever man named {021e0202} serves under {021e0201} in {02860202}. If you meet him on the battlefield, be careful.
+
+@32040
+a wise general who has buried many foes
+
+@32040.1
+a fierce general who has buried many foes
+
+@32041
+They say {02850201} has a strange culture called {0210}{C190}. It would surely help our country.
+
+@32042
+They say that if a city becomes a City of Medicine, children come easily.
+
+@32042.1
+They say that in a City of Water, ships go twice as fast as usual.
+
+@32042.2
+I heard a rumor that if a city becomes a City of Granaries, famine will disappear.
+
+@32042.3
+I heard a rumor that if a city becomes a City of Herdsmen, famine will disappear.
+
+@32042.4
+I hear that if a city becomes a City of Soldiers, the morale of the army rises to its highest.
+
+@32042.5
+I hear that heroes from all over the world gather in a City of Soldiers.
+
+@32042.6
+In a City of Learning, they say everyone aspires to study and fine talents are raised.
+
+@32042.7
+They say that if a city becomes a City of Builders, it suffers no damage from disasters.
+
+@32042.8
+They say that fields and pastures yield more if built beside rivers and lakes.
+
+@32042.9
+I hear that workshops earn more if built near the local specialty goods.
+
+@32042.10
+They say that sawmills earn more if built near forests.
+
+@32042.11
+To be blessed with children... they say spring is best. Oh, how embarrassing!
+
+@32042.12
+They say it becomes harder to have children as one grows older. So do your best, {C32001}.
+
+@32043
+Thank you for the advice. I always trouble you.
+
+@32043.1
+Ah, thank you. I always rely on that information.
+
+@32044
+Treasure is nice, but I would rather have a healthy baby. Hehe.
+
+@32044.1
+This is... the silk clothing I have heard of. I am so happy! Thank you.
+
+@32044.2
+Th-this is Jingdezhen porcelain... {C32001}, thank you for such an expensive gift.
+
+@32044.3
+This is mink fur! Ah, it feels so lovely. I shall use it with care.
+
+@32044.4
+This is Persian glassware! {0288021a} was lost in admiration of its beauty. I will display it in my room at once.
+
+@32044.5
+A lovely gift... Even if it is only a replica for display, weapons are works of art.
+
+@32044.6
+What a beautiful gift. Handicrafts are wonderful, are they not? I feel the pride of a people in them.
+
+@32044.7
+Thank you. Seeing such lovely treasures from foreign lands makes me want to cross the sea and have adventures too.
+
+@32044.8
+Oh, how beautiful... To receive jewels. I will treasure them.
+
+@32044.9
+Oh, what lovely flowers! And your shy manner as you give them is lovely too.
+
+@32044.10
+Oh, this is the {C32045} I wanted! I will try it at once.
+
+@32044.11
+To receive such rare goods from foreign lands... {C32001}, thank you.
+
+@32045
+aromatic wood
+
+@32045.1
+incense
+
+@32045.2
+perfume
+
+@32046
+A gift? I am not much interested in things. Tell me about the books you have read instead.
+
+@32046.1
+I am not much interested in things. Use that money to give medicine to the people.
+
+@32046.2
+Please do not spend so much money on me. Happiness and art cannot be bought with money.
+
+@32046.3
+Th-this... Is it not the same as the dress you gave me before?
+
+@32046.4
+I am happy... but it would make me happier still if you asked what I like.
+
+@32046.5
+Trying to win my heart with things...\pI have thought you were acting strangely lately. Is there another woman you like?
+
+@32046.6
+No matter how costly the gift, it looks hollow to my eyes.
+
+@32046.7
+{021e0201}! This work of art is a fake.\pTrying to win my heart with that... Oh, how vexing!
+
+@32046.8
+You mean to win my favor with things. I am too appalled to speak.
+
+@32046.9
+{C32001}... I am sorry, but I do not really understand its value.
+
+@32047
+{021e0201}... we need no more words between us.
+
+@32048
+We end here. Rest well, all of you, and prepare for tomorrow.
+
+@32048.1
+Today was enjoyable. We shall continue another time.
+
+@32048.2
+I know you all have endless talk to share, but let us close the evening here.
+
+@32048.3
+The feast is at its height, but the night is late. It is time to end it.
+
+@32049
+Let us end here and continue another time.
+
+@32050
+That night...
+
+@32051
+{021e0201}... may I have a little of your time?
+
+@32051.1
+{021e0201}... are you still awake?
+
+@32052
+{021e0201}, did I keep you waiting?
+
+@32052.1
+{021e0201}, my body feels so warm that I cannot sleep...
+
+@32052.2
+When I came to your room, {C32001}, my chest suddenly felt tight... May I rest here a little?
+
+@32053
+Oh, it is {0288021a}. I was just about to go to bed.
+
+@32053.1
+{0288021a}, is it? I could not sleep either.
+
+@32054
+{0288021a}... what is the matter?
+
+@32055
+I wanted to be near you even a little, and I found myself knocking on your {C32056}.
+
+@32055.1
+I cannot sleep when I think of you...\pI could not stay still, and in the end I came.
+
+@32055.2
+I am glad I came. Now I will not be lonely until dawn.
+
+@32055.3
+I am lonely alone... At least when there is no war, I want to be with you, even a little.
+
+@32056
+door
+
+@32056.1
+door
+
+@32056.2
+door
+
+@32056.3
+door
+
+@32056.4
+door
+
+@32056.5
+door
+
+@32057
+Honestly, you were waiting all along. How cruel you are.
+
+@32057.1
+Really, you looked at me with such heated eyes at the feast. You are shy, aren't you?
+
+@32058
+Hm? What is this? I... I cannot get up!
+
+@32058.1
+Phew. For some reason I am terribly tired.
+
+@32059
+The night is still long. Shall we talk until the sky grows light?
+
+@32059.1
+Then let us stay up and watch the moon.
+
+@32059.2
+Then I shall tell you a tale until you grow sleepy.
+
+@32060
+It is especially cold tonight... I will rest early and prepare for tomorrow.
+
+@32060.1
+Tomorrow comes early... I will retire for the night.
+
+@32061
+Tonight we feast. A toast to everyone's health and the prosperity of {02850201}!
+
+@32061.1
+Today I have had rare dishes prepared. I want you all to enjoy yourselves to your heart's content.
+
+@32061.2
+To thank you all for your loyal service, I have prepared this banquet. Tonight, forget your duties and enjoy.
+
+@32062
+I thought we needed a chance to talk together, so I set up this banquet. Let us enjoy tonight.
+
+@32062.1
+Without a breather now and then, no good work can be done.\pTonight, forget your duties and enjoy yourselves.
+
+@32063
+{C7}, today we want to enjoy ourselves without reserve.
+
+@32063.1
+{C7}, all of us intend to pledge even greater loyalty.
+
+@32064
+Old friend, thank you for inviting me today. It has been a long time since we shared a cup, just the two of us.
+
+@32064.1
+{C6}, I have no words to thank you for holding a banquet for the likes of me.
+
+@32065
+{C7}, tonight it is just the two of us. Let us talk until dawn.
+
+@32066
+{021e0201}, a feast for just the two of us... How lovely.
+
+@32066.1
+{021e0201}, it is nice to be {C32067} like this, just the two of us.
+
+@32066.2
+{021e0201}, it has been a long time since we spent time alone together.
+
+@32067
+dining
+
+@32067.1
+drinking
+
+@32068
+{021e0201}, thank you for inviting us today.
+
+@32068.1
+{021e0201}... you are fond of it too, aren't you?
+

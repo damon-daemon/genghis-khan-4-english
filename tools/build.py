@@ -10,7 +10,7 @@ usage: .venv/bin/python tools/build.py [--split LIMIT] [clean_track1.bin] [out_t
 import os, shutil, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import gfx, iso, msgfile, namegen, nameentry, newname, progstr, scedat, setup, tl, vwf
+import gfx, iso, msgfile, namegen, nameentry, newname, numentry, progstr, scedat, setup, tl, vwf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'build', 'genghis_khan_4_en_track1.bin')
@@ -28,6 +28,7 @@ def build_files(disc, recs, limit=msgfile.BLOCK_MAX):
     exe = prog['PROG']
     namegen.apply(exe, prog['TURN'])
     nameentry.apply(exe)
+    numentry.apply(exe)
     blocks = [msgfile.records(b) for b in msgfile.blocks(disc.file(msgfile.NAME, recs), exe)]
     blocks, done, errs = tl.english_blocks(blocks)
     if errs:

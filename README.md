@@ -14,7 +14,7 @@ the Gray Wolf*. This fourth game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.9.0).** All of the game's text is in English and the main screens
+> **This is a beta.** All of the game's text is in English and the main screens
 > have been played through, but not every event and battle screen has been seen yet.
 > Expect some text that is squeezed, cut short or wrapped oddly.
 
@@ -99,8 +99,8 @@ cp "/path/to/Genghis Khan - Aoki Ookami to Shiroki Mejika IV (Japan) (Track 2).b
 Japanese text from your disc for the translation tools. `script/` and `build/` are
 never committed.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9.0` after building:
-it writes `release/Genghis_Khan_IV_English_v0.9.0.zip` with the versioned xdelta patch,
+To make a release package, run `.venv/bin/python tools/package.py <version>` after building:
+it writes `release/Genghis_Khan_IV_English_v<version>.zip` with the versioned xdelta patch,
 the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 
 ## Repository layout

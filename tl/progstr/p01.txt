@@ -94,20 +94,20 @@ PROG:800f03c0	-
 PROG:800f04b0	City
 PROG:800f04b8	Gen.
 PROG:800f04d0	%s
-PROG:800f0b20	- Volley
-PROG:800f0b28	- Fire
-PROG:800f0b30	- Arrows
-PROG:800f0b38	- Charge
-PROG:800f0b40	- Stones
-PROG:800f0b48	- Flame
-PROG:800f0b50	- Guns
-PROG:800f0b58	- Kill
-PROG:800f0b60	Attack
-PROG:800f0b68	Move
-PROG:800f0b70	Attacks
-PROG:800f0b7c	Base Cost
+PROG:800f0b20	, Volley
+PROG:800f0b28	, Fire
+PROG:800f0b30	, Arrows
+PROG:800f0b38	, Charge
+PROG:800f0b40	, Stones
+PROG:800f0b48	, Flame
+PROG:800f0b50	, Guns
+PROG:800f0b58	, Kill
+PROG:800f0b60	Attack  
+PROG:800f0b68	Move    
+PROG:800f0b70	Attacks     
+PROG:800f0b7c	Base Cost   
 PROG:800f0b88	Std
-PROG:800f0b90	Attack %s
+PROG:800f0b90	Attack    %s
 PROG:800f0f1c	OK
 PROG:800f0f24	Sort
 PROG:800f0f8c	Ar

@@ -442,14 +442,17 @@ def break_lines(at):
     ])
 
 
-def line_cells(at):
+def line_cells(at, tail):
     """v0 = widest line px so far, a1 = this line's px; returns ceil(v0 / 8). Bytes are measured
     with their low 7 bits (Shift-JIS is rare in English lines and only approximated); < 0x20
-    (ESC, TAB) no width."""
-    hi, lo = asm.hi, asm.lo
+    (ESC, TAB) no width. A byte after a run of >= 2 spaces starts at its byte column * 8 like
+    the column snap draws it (t4 = bytes of the line, t5 = spaces run): '   0' in a centred
+    number box was measured 15 px but drawn 30 px wide (issue #5). The per-byte part lives at
+    tail (cells_tail, in the slack after break_lines). t0 is the caller's (centre_offset)."""
     return asm.assemble(at, [
         ('addu', 'v0', 'zero', 'zero'),
-        ('addu', 'a1', 'zero', 'zero'),
+        ('b', 'keep'),
+        ('addiu', 'v1', 'zero', 1),
         'loop:',
         ('lbu', 'v1', 0, 'a0'),
         ('addiu', 'a0', 'a0', 1),
@@ -457,24 +460,47 @@ def line_cells(at):
         ('addiu', 'at', 'zero', 0x0A),
         ('beq', 'v1', 'at', 'eol'),
         ('andi', 't2', 'v1', 0x7F),
-        ('sltiu', 'at', 't2', 0x20),
-        ('bnez', 'at', 'loop'),
-        ('lui', 't3', hi(WIDTHS - 0x20)),
-        ('addu', 't2', 't2', 't3'),
-        ('lbu', 't2', lo(WIDTHS - 0x20), 't2'),
-        ('b', 'loop'),
-        ('addu', 'a1', 'a1', 't2'),
+        ('j', tail),
+        ('addiu', 't4', 't4', 1),
         'eol:',
         ('slt', 'at', 'v0', 'a1'),
         ('beqz', 'at', 'keep'),
         ('nop',),
         ('addu', 'v0', 'a1', 'zero'),
         'keep:',
+        ('addu', 't4', 'zero', 'zero'),
+        ('addu', 't5', 'zero', 'zero'),
         ('bnez', 'v1', 'loop'),
         ('addu', 'a1', 'zero', 'zero'),
         ('addiu', 'a1', 'v0', 7 + CELL_PAD),
         ('jr', 'ra'),
         ('srl', 'v0', 'a1', 3),
+    ])
+
+
+CELLS_LOOP = 3 * 4                          # line_cells: offset of its loop label
+
+
+def cells_tail(at, loop):
+    """line_cells, one byte (t2 = low 7 bits): px of the line a1 += its width, after the snap."""
+    hi, lo = asm.hi, asm.lo
+    return asm.assemble(at, [
+        ('sltiu', 'at', 't2', 0x20),
+        ('bnez', 'at', loop),
+        ('addiu', 'at', 'zero', 0x20),
+        ('beq', 't2', 'at', 'width'),
+        ('addiu', 't5', 't5', 1),
+        ('slti', 'at', 't5', 3),                  # not a space: was the run before it >= 2?
+        ('bnez', 'at', 'width'),
+        ('addu', 't5', 'zero', 'zero'),
+        ('sll', 'a1', 't4', 3),
+        ('addiu', 'a1', 'a1', -8),
+        'width:',
+        ('lui', 't3', hi(WIDTHS - 0x20)),
+        ('addu', 't2', 't2', 't3'),
+        ('lbu', 't2', lo(WIDTHS - 0x20), 't2'),
+        ('j', loop),
+        ('addu', 'a1', 'a1', 't2'),
     ])
 
 
@@ -501,10 +527,12 @@ def centre_offset(at):
 def line_patches(exe):
     assert word(exe, BREAK) == 0x27bdffe8 and word(exe, BREAK + 8) == 0xafbf0010, 'line breaker'
     code = break_lines(BREAK)
-    assert BREAK + len(code) <= BREAK_END, 'break_lines too long (%d bytes)' % len(code)
+    tail = BREAK + len(code)
+    code += cells_tail(tail, CELLS + CELLS_LOOP)
+    assert BREAK + len(code) <= BREAK_END, 'break_lines + cells_tail too long (%d bytes)' % len(code)
     put(exe, BREAK, code + b'\0' * (BREAK_END - BREAK - len(code)))
     assert word(exe, CELLS) == 0x00001021 and word(exe, CELLS_END - 4) == 0, 'longest line'
-    code = line_cells(CELLS)
+    code = line_cells(CELLS, tail)
     assert CELLS + len(code) <= CELLS_END, 'line_cells too long (%d bytes)' % len(code)
     put(exe, CELLS, code + b'\0' * (CELLS_END - CELLS - len(code)))
     assert word(exe, CENTRE[0]) == 0x0c00a14b and word(exe, CENTRE[1]) == 0x000210c0, 'centre offset'
@@ -548,7 +576,10 @@ if __name__ == '__main__':
     SNAP = DRAW_HALF + len(draw_half())
     for at, code in ((DRAW_HALF, draw_half()), (SNAP, snap(SNAP)), (PUTC_SINGLE, hook()),
                      (WRAPPER, wrapper(WRAPPER)), (STUB, start_stub(STUB)),
-                     (BREAK, break_lines(BREAK)), (CELLS, line_cells(CELLS))):
+                     (BREAK, break_lines(BREAK)),
+                     (BREAK + len(break_lines(BREAK)),
+                      cells_tail(BREAK + len(break_lines(BREAK)), CELLS + CELLS_LOOP)),
+                     (CELLS, line_cells(CELLS, BREAK + len(break_lines(BREAK))))):
         print('%d bytes' % len(code))
         for i in md.disasm(code, at):
             print('%08x  %-8s %s' % (i.address, i.mnemonic, i.op_str))

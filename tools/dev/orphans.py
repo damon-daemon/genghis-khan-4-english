@@ -12,7 +12,7 @@ def orphans(maxpx=80):
     out = []
     for b, recs in sorted(tl.load_tls().items()):
         bx = tl.box(b)
-        if b == 0 or b in text.NOPAGE:
+        if b == 0 or text.nopage(b):
             continue
         for k, en in sorted(recs.items()):
             for pg in text.wrap(en, *bx[:1], *bx[2:]):

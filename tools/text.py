@@ -23,6 +23,14 @@ LINE_B = 40                            # = vwf.LINE_B: event pages are 128-byte 
 # per-block box (px, lines per page); filled in during the emulator pass
 BOX = {b: (224, 4, 999) for b in range(12, 19)}   # biographies (ruler select, session 14): no byte cap
 NOPAGE = set(range(12, 19))            # boxes that never page: more lines draw outside the frame
+# culture item screen (block 09, records name / description / effect; issue #4): the picture covers the
+# first 80 px of description lines 1-4 (the Japanese pads them with 5 full-width spaces), 6 lines fit
+# above the 'Effect' label and 4 below it. Box = (px, lines, byte cap[, indented lines, indent px]).
+ITEM_BOX = {0: (256, 1, 999), 1: (256, 6, 999, 4, 80), 2: (256, 4, 999)}
+# unit type screen (block 22, records skill note / number / notes; issue #6): 2 lines fit above the
+# stat labels and 5 below them, the frame is 272 px wide inside.
+UNIT_BOX = {0: (264, 2, 999), 1: (264, 1, 999), 2: (264, 5, 999)}
+INDENT = '\x7f'                        # one full-width space (16 px) at a line start, see encode
 EXPR_PX = {0x1e: 64, 0x85: 64, 0x86: 56, 0x6b: 56}   # guessed widths of names etc.; default EXPR_DEF
 EXPR_DEF, CALL_PX = 40, 24
 EXPR_B, CALL_B = 16, 8                  # byte guesses for the expanded size (buffer check)
@@ -126,8 +134,24 @@ def word_b(w):
     return sum((CALL_B if m.group(1) else WRAP_EXPR_B) for m in _TOK.finditer(w)) + len(_TOK.sub('', w))
 
 
-def wrap(en, px=WRAP_PX, maxb=LINE_B):
-    """English -> list of pages, each a list of lines (words wrapped at px; \\n and \\p kept)."""
+def box_of(b, i=0):
+    """Box of record i of block b (None = no wrap: block 0 words)."""
+    if b == 0:
+        return None
+    if b == 9:
+        return ITEM_BOX[i % 3]
+    if b == 22:
+        return UNIT_BOX[i % 3]
+    return BOX.get(b, (WRAP_PX, PAGE))
+
+
+def nopage(b, i=0):
+    return b in NOPAGE or b in (9, 22)
+
+
+def wrap(en, px=WRAP_PX, maxb=LINE_B, ind_n=0, ind_px=0):
+    """English -> list of pages, each a list of lines (words wrapped at px; \\n and \\p kept).
+    The first ind_n lines of a page are ind_px narrower and start with INDENT marks."""
     pages = []
     for p in en.split('\\p'):
         lines = []
@@ -136,19 +160,20 @@ def wrap(en, px=WRAP_PX, maxb=LINE_B):
             for w in para.split(' '):
                 add = word_px(w) + (widths()[' '] if cur else 0)
                 addb = word_b(w) + (1 if cur else 0)
-                if cur and (x + add > px or nb + addb > maxb):
+                lim = px - ind_px if len(lines) < ind_n else px
+                if cur and (x + add > lim or nb + addb > maxb):
                     lines.append(' '.join(cur)); cur, x, nb = [w], word_px(w), word_b(w)
                 else:
                     cur.append(w); x += add; nb += addb
             lines.append(' '.join(cur))
-        pages.append(lines)
+        pages.append([INDENT * (ind_px // 16) + ln if i < ind_n else ln for i, ln in enumerate(lines)])
     return pages
 
 
 def layout(en, box=(WRAP_PX, PAGE)):
     """Wrapped English as the game string: lines joined by \\n; \\p pads the page with empty lines
     (the box pages every box[1] lines, a blank line is just an empty line)."""
-    pages = wrap(en, *box[:1], *box[2:])
+    pages = wrap(en, box[0], *box[2:])
     for p in pages[:-1]:
         p += [''] * (-len(p) % box[1])
     return '\n'.join(ln for p in pages for ln in p)
@@ -156,7 +181,7 @@ def layout(en, box=(WRAP_PX, PAGE)):
 
 def count(en, box=(WRAP_PX, PAGE)):
     """(lines, pages) the box shows."""
-    pg = wrap(en, *box[:1], *box[2:])
+    pg = wrap(en, box[0], *box[2:])
     return sum(map(len, pg)), sum(-(-len(p) // box[1]) for p in pg)
 
 
@@ -176,7 +201,7 @@ def encode(en, box=(WRAP_PX, PAGE)):
             out += bytes.fromhex(m.group(2))
         pos = m.end()
     out += s[pos:].encode('ascii')
-    return bytes(out)
+    return bytes(out).replace(INDENT.encode(), b'\x81\x40')
 
 
 def check(tokens, en):

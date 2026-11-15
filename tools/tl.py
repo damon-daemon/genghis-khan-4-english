@@ -49,8 +49,8 @@ def jp_block(blocks, b):
     return out
 
 
-def box(b):
-    return None if b == 0 else text.BOX.get(b, (text.WRAP_PX, text.PAGE))
+def box(b, i=0):
+    return text.box_of(b, i)
 
 
 # ---------------------------------------------------------------- tl files
@@ -110,11 +110,11 @@ def warn(b, k, toks, en):
     out = []
     if en == '~':
         return out
-    bx = box(b)
+    bx = box(b, k[0] % 1000)
     if bx:
         lines, pages = text.count(en, bx)
         jl = text.seg_str(toks).replace('\\n\\n', '\\n').count('\\n') + 1
-        if b in text.NOPAGE and lines > bx[1]:
+        if text.nopage(b) and lines > bx[1]:
             out.append('%d lines > %d (box does not page)' % (lines, bx[1]))
         elif pages > -(-jl // bx[1]) + 1:
             out.append('%d pages (Japanese %d lines)' % (pages, jl))
@@ -151,7 +151,7 @@ def english_blocks(blocks, tls=None):
                 if es:
                     errs += ['@%d.%d: %s' % (*key, e) for e in es]
                     continue
-                its[j] = ('code', text.encode(en, box(b)))
+                its[j] = ('code', text.encode(en, box(b, i)))
                 done += 1
             new.append(text.join(its))
         out.append(new)
